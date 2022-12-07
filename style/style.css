@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&display=swap');
+
+*{
+    box-sizing: border-box;
+	text-decoration: none;
+	outline: 0;
+	border: 0;
+	list-style: none;
+}
+
+html{
+	scroll-behavior: smooth;
+	font-size: 15px;
+}
+
+html::-webkit-scrollbar {
+  width: 1rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: rgb(10, 3, 50);
+  border-radius: 5rem;
+}
+
+body {
+    background: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+	overflow: hidden;
+}
+
+/*navbar section styling*/
+.navbar{
+	width: 100%;
+	height: 5rem;
+	position: fixed;
+    padding: 2rem;
+	top: 0;
+	z-index: 2;
+	align-items: center;
+	display: flex;
+    justify-content: space-between;
+	background: #fff;
+	border-bottom: 1px solid #c4c4c4;
+}
+
+.navbar a{
+    color:  rgb(10, 3, 50);
+}
+
+.navbar h3{
+	font-size: 50px;
+	font-weight: 400;
+	font-family: 'The Nautigal', cursive;
+}
+
+#github-icon {
+	font-size: 2rem;
+	cursor: pointer;
+	justify-content: flex-end;
+    width: 80px;
+    height: 80px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    border-radius: 50%;
+    color: #fff;
+    background: rgb(10, 3, 50);
+}
+
+#github-icon:hover {
+    color:rgb(10, 3, 50);
+    background: #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+/*Banner section styling*/
+.banner{
+    color: #fff;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+    background: rgb(10, 3, 50);
+}
+
+.banner h1{
+    font-size: 3.5rem;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+
+.banner p{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 1.1rem;
+    line-height: 2;
+    margin-bottom: 1.5rem;
+}
+
+.banner span{
+    display: block;
+    text-align: center;
+}
+
+.click-button {
+    background: #fff;
+    margin-top: 2rem;
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+
+.click-button:hover{
+    color: #fff;
+    background-color: rgb(6, 1, 39);
+    border: 1px solid #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+/*Home section styling*/
+.home-content{
+    text-align: center;
+}
+
+.home-content h2{
+    font-size: 2rem;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}
+
+
+/* .hidden {
+    opacity: 0;
+    transition: all 2s;
+}
+
+.show{
+    opacity: 1;
+} */
+
+footer .copyright{
+	text-align: center;
+	margin-top: 1rem;
+	padding: 2rem 0;
+	font-size: 1rem;
+    color: #fff;
+    background: rgb(10, 3, 50);
+}
