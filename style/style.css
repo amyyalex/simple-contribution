@@ -136,15 +136,30 @@ section{
     margin-bottom: 0;
 }
 
+/*card section styling*/
 
-/* .hidden {
-    opacity: 0;
-    transition: all 2s;
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 2px 4px rgb(0,0,0,25%);
+    width: 325px;
+    text-align: center;
+    margin: 50px 20px;
+    cursor: pointer;
+    /* color: #fff;
+    background-color: rgb(10, 3, 50); */
 }
 
-.show{
-    opacity: 1;
-} */
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
 
 footer .copyright{
 	text-align: center;
