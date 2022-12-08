@@ -137,7 +137,6 @@ section{
 }
 
 /*card section styling*/
-
 .card{
     display: flex;
     justify-content: center;
@@ -160,7 +159,15 @@ section{
     align-items: center;
     margin: 0 auto;
 }
+.card-details h1{
+    text-transform: capitalize;
+}
 
+.card-details p{
+    font-family: 'The Nautigal', cursive;
+}
+
+/*footer section styling*/
 footer .copyright{
 	text-align: center;
 	margin-top: 1rem;
