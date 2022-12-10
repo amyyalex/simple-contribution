@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&family=Tangerine&display=swap');
 
 *{
     box-sizing: border-box;
@@ -165,7 +165,7 @@ section{
 }
 
 .card-details p{
-    font-family: 'The Nautigal', cursive;
+    font-family: 'Tangerine', cursive;
     font-size: 25px;
 }
 
