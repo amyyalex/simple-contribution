@@ -1,8 +1,8 @@
-## Let's Setup!
+# Let's Setup!
 
 Before we start contributing, First thing first let's do a quick Github setup!
 
-* First two things you'll want to do:
+**First two things you'll want to do:**
 1. Install git. Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git (if it's not already installed).
 
 2. Create a free GitHub account or login to your GitHub account, If you already have one.
@@ -18,13 +18,12 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
   
  **Now that we done with setting up the essential needed for this contribution to be a success, let's get to the main thing, CONTRIBUTION!.<br><br>**
 
-<h3>let the contribution begin!</h3>
-
+## let the contribution begin!
  ### Using GitHub Desktop.
 <h4>Step 1: Fork this repository</h4>
 
 - The objective here is to make a copy of this project and place it in your account. So go to the top right click on the fork icon just as in the picture below.
-| ![Fork](readme-only/fork.png "click on 'Fork'") |
+| ![Fork](image/fork.PNG "click on 'Fork'") |
 
 <h4>Step 2: Clone the repository</h4>
 
