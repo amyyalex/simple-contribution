@@ -23,7 +23,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 <h4>Step 1: Fork this repository</h4>
 
 - The objective here is to make a copy of this project and place it in your account. So go to the top right click on the fork icon just as in the picture below.
-| ![Fork](image/fork.PNG "click on 'Fork'") |
+ ![Fork](image/fork.PNG "click on 'Fork'") 
 
 <h4>Step 2: Clone the repository</h4>
 
@@ -32,7 +32,9 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 **To clone:**
 * Open the GitHub desktop app.
   * Click on _file_ and then _clone repository_ 
-  | ![Clone](image/clone.png 'click clone repository') |
+
+   ![Clone](image/clone.png 'click clone repository') 
+
   * You will see a list of all your repository and forks on GitHub.
   * Select `<your-github-username>/simple-contribution`.
   * Click _Clone_ button
@@ -48,7 +50,8 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
   * Then click on _New_
   * Give your branch a name
   * Click `Create branch`
-  | ![Name branch](image/branch-name.png 'Name your branch') |
+
+   ![Name branch](image/branch-name.png 'Name your branch') 
 
   - Go ahead and name the branch whatever you want, to make it easier since you're to add your details, you can name it `your-name-information`.
   * Publish your new branch to GitHub
@@ -59,7 +62,8 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 - Once you click on _open with visual studio code_, the project opens up on you VS Code open the index.html file to start editing.
 - If your're using other editor, find the project folder on your computer. The `index.html` file is directly in the `simple-contribution` folder.
-[Open VS Code](image/vscode-open.jpeg 'Open index.html in your text editor') |
+
+[Open VS Code](image/vscode-open.jpeg 'Open index.html in your text editor') 
 
 <h4>Step 5: Copy and edit the template</h4>
 
@@ -81,11 +85,13 @@ _open in default browser_ and click on it.This project will open in your browser
 **Commit Changes**
 - To commit your changes, go back to the GitHub desktop app; you will see that your changes have been added automatically to the staging area which means that all the changes made are already saved.
 - Go ahead and _commit_ by filling in the _Summary_ field (the _description_ is optional). Add a short commit message explaining what you have changed e.g add my information and click the _Commit to main_ button.
-| ![Commit Changes](image/commit.PNG 'Commit your changes') |
+
+ ![Commit Changes](image/commit.PNG 'Commit your changes') 
 
 **Push Changes**
 - Now your changes are committed, the next thing to do is to _push_ your changes by clicking on the _Push_ button so as to get it in synch with your repository on GitHub. You are "pushing" the changes from your local repository to the remote repository on GitHub.
-| ![Push Changes](image/publish-branch.jpeg 'Name your branch') |
+
+ ![Push Changes](image/publish-branch.jpeg 'Name your branch') 
  
 <h4>Step 7: Submit a PR(Pull Request)</h4>
 
@@ -97,11 +103,12 @@ _open in default browser_ and click on it.This project will open in your browser
   * Or you go to the main page of **your fork** on GitHub, towards the top of the repo you will see a highlighted pull request message with a green button that has _Compare and pull request_ written on it. Click on the button to create your pull request.
 
   - Now when the `Open a pull request` page opens, it should look like the one in the photo below. Original project on the left, followed by the master branch. Your fork on the right and the branch you created 
-  ![Open a Pull Request](readme-only/pull-request.png 'You are requesting to merge your branch from your fork into the master branch of the original project')  
+
+  ![Open a Pull Request](image/pull-request.png 'You are requesting to merge your branch from your fork into the master branch of the original project')  
+
   - On the pull request page, write a title and add optional information in the description. Click `Create pull request` button.
 
   **Your information can only be added once your pull request have been reviewed and merged only then would you be able to see you information on the live site!**
-
 
 ##### YAY, ALL DONE! GUESS WHO JUST CONTRIBUTED TO AN OPEN SOURCE PROJECT ON GITHUB...YOU!!!
 
@@ -109,9 +116,10 @@ _open in default browser_ and click on it.This project will open in your browser
 This steps can also be used if you're using VS Code terminal.
 
 - Click on the clone button and then click the copy to clipboard icon.
+ ![Copy Link](image/copy-url.png 'Copy the repository url') 
 
-* Open the git bash terminal and run the following git command:
-  ```bash
+Open the git bash terminal and run the following git command:
+```bash
 git clone "url you just copied"
 ```
   
