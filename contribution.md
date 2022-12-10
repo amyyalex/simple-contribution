@@ -1,0 +1,158 @@
+<h4 align="center">Let's Setup!</h4>
+
+Before we start contributing, First thing first let's do a quick Github setup!
+
+1. Login to your GitHub account. If you don't yet have an account then [Download GitHub](https://github.com).
+
+There are different ways to clone a repo through GitHub Desktop, git bash (git terminal), VS Code terminal and for the purpose of this project, you have to have either one of listed in other to successfully clone and contribute to this project.
+
+1. Download [GitHub Desktop app](https://desktop.github.com/).
+
+2. Comfortable using Git on the command line and want to use the git terminal to clone, download [git bash](https://desktop.gitbash.com/).
+   
+3. Alternatively If you use [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') you can use the VS Code terminal to clone as well.
+  
+  
+## Now that we done with setting up the essential needed for this contribution to be a success, let's get to the main thing, CONTRIBUTION!.<br><br>
+
+<h4 align="center">let the contribution begin!</h4>
+
+ ### Using GitHub Desktop.
+<h5 align="center">Step 1: Fork this repository</h5>
+
+- The objective here is to make a copy of this project and place it in your account. So go to the top right click on the fork icon just as in the picture below.
+| ![Fork](readme-only/fork.png "click on 'Fork'") |
+
+<h5 align="center">Step 2: Clone the repository</h5>
+
+- Now that we've successfully fork the repository and made a copy into our account, we will go ahead and clone the repository which is basically making a local copy of the project. This copy is saved on your own machine.
+**To clone:**
+
+* Open the GitHub desktop app.
+  * Click on _file_ and then _clone repository_ 
+  | ![Clone](readme-only/clone.PNG 'click clone repository') |
+  * You will see a list of all your repository and forks on GitHub.
+  * Select `<your-github-username>/simple-contribution`.
+  * Click _Clone_ 
+  | ![Clone project](readme-only/clone-project.PNG 'click on <your-github-username>/simple-contribution') |
+
+- Now you have a local copy of the project.
+
+<h5 align="center">Step 3: Create a new branch</h5>
+
+- Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
+- We create a new branch to keep your changes separate from the master branch sometimes known as main branch so that if things go wrong you can simply delete the branch and the main project is not affected.
+
+* Click on _Current branch_
+  * Then click on _New_
+  * Give your branch a name
+  * Click `Create branch`
+  | ![Name branch](readme-only/branch-name.PNG 'Name your branch') |
+
+  - Go ahead and name the branch whatever you want, to make it easier since you're to add your details, you can name it `your-name-details`.
+  * Publish your new branch to GitHub
+
+  - This branch you have created separate from the master branch and it's the branch you'll be working with. Whatever you do, **make sure NOT to work on the branch branch**
+
+<h5 align="center">Step 4: Open the project with VS Code (or any editor of choice)</h5>
+
+- Once you click on _open with visual studio code_, the project opens up on you VS Code open the index.html file to start editing.
+- If your're using other editor, find the project folder on your computer. The `index.html` file is directly in the `simple-contribution` folder.
+[Open VS Code](readme-only/vscode-open.PNG 'Open index.html in your text editor') |
+
+<h5 align="center">Step 5: Copy and edit the template</h5>
+
+- Inside the index.html file, We will make a copy of the template and edit it.
+
+* Inside of the html file,
+  * You'll see a section with a commented line <!-- THIS IS TEMPLATE TO COPY; COPY THIS TEMPLATE TO EDIT IN YOUR DETAILS --> Copy the template till you see <!-- END OF TEMPLATE -->
+  * Paste the copied template directly below the comment <!-- PASTE THE COPIED TEMPLATE UNDER THIS LINE -->
+  * To keep the code clean as possible, make sure to leave a single line of space after the comment before pasting the template to edit. The template which now is **yours** for you to customize and edit.
+  * Replace 'Your Name' with your name, 'Your Profession' with what you do, add your favorite quote and the link to your socials.
+
+  - Once you're done, **save your changes** by pressing ctrl + s.
+- Next is to **Test your changes**. THIS IS IMPORTANT! To do that, left click on the index.html navigate to 
+_open in default browser_ and click on it.This project will open in your browser and you'll see what the changes you added look like on the site. 
+- Now, you have finished editing your code! And if nothing is broken and everything is working fine, you can go ahead and commit your changes.
+
+<h5 align="center">Step 6: Commit and Push your changes</h5>
+
+**Commit Changes**
+- To commit your changes, go back to the GitHub desktop app; you will see that your changes have been added automatically to the staging area which means that all the changes made are already saved.
+- Go ahead and _commit_ by filling in the _Summary_ field (the _description_ is optional). Add a short commit message explaining what you have changed e.g add my information and click the _Commit to main_ button.
+
+**Push Changes**
+- Now your changes are committed, the next thing to do is to _push_ your changes by clicking on the _Push_ button so as to get it in synch with your repository on GitHub. You are "pushing" the changes from your local repository to the remote repository on GitHub.
+ 
+<h5 align="center">Step 7: Submit a PR(Pull Request)</h5>
+
+- This is the last stage of your contribution; submitting a _Pull Request_ (PR).
+- The reason for submitting a pull request is so that all the changes you made which is still on your own account of GitHub is sent to the main project to be merged.
+
+* You can submit a pull request, 
+  * By either clicking on the _create pull request_ button that shows after clicking the push button in Github Desktop
+  * Or you go to the main page of **your fork** on GitHub, towards the top of the repo you will see a highlighted pull request message with a green button that has _Compare and pull request_ written on it. Click on the button to create your pull request.
+
+  - Now when the `Open a pull request` page opens, it should look like the one in the photo below. Original project on the left, followed by the master branch. Your fork on the right and the branch you created 
+  ![Open a Pull Request](readme-only/pull-request-branches.PNG 'You are requesting to merge your branch from your fork into the master branch of the original project')  
+  - On the pull request page, write a title and add optional information in the description. Click `Create pull request`
+  | ![Submit a Pull Request](readme-only/pull-request-open.PNG "Click the green button. Don't be scared!") |
+
+  **Your information can only be added once your pull request have been reviewed and merged only then would you be able to see you information on the live site!**
+
+
+##### YAY, ALL DONE! GUESS WHO JUST CONTRIBUTED TO AN OPEN SOURCE PROJECT ON GITHUB...YOU!!!
+
+### Using git bash (git terminal).
+This steps can also be used if you're using VS Code terminal.
+
+- Click on the clone button and then click the copy to clipboard icon.
+
+* Open the git bash terminal and run the following git command:
+  ```bash
+git clone "url you just copied"
+```
+  
+  Change to the repository directory on your computer (if you are not already there):
+
+```bash
+cd simple-contribution
+```
+
+Now create a branch using the `git checkout` command
+
+```bash
+git checkout -b your-new-branch-name
+```
+- To edit and changes, open project in VS Code 
+
+```bash
+Code .
+```
+
+- After you've edit the template and made changes, tested and made sure the site is okay and nothing is broken
+Commit your changes
+
+```bash
+git add index.html
+```
+
+```bash
+git commit -m "Add <your-name> card info"
+```
+
+```bash
+git push origin -u <add-your-branch-name>
+```
+
+- Continue the process from _using the github desktop_ after pushing as it's same.
+
+- **Thank you for contributing to this project**.
+
+# Aknowledgements
+
+This project is heavily influenced by [Roshan Jossey's](https://github.com/Roshanjossey) Amazing [Contribute-To-This-Project](https://github.com/Roshanjossey/Contribute-To-This-Project) project with its fine tuned tutorial.
+
+- You can **follow me** and get in touch on [Twitter](https://twitter.com/AlexStephanie10 '@AlexStephanie10')
+
+### HAPPY CONTRIBUTING!
