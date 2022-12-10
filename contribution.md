@@ -110,26 +110,30 @@ _open in default browser_ and click on it.This project will open in your browser
 
   **Your information can only be added once your pull request have been reviewed and merged only then would you be able to see you information on the live site!**
 
-##### YAY, ALL DONE! GUESS WHO JUST CONTRIBUTED TO AN OPEN SOURCE PROJECT ON GITHUB...YOU!!!
+##### YAY, ALL DONE! GUESS WHO JUST CONTRIBUTED TO AN OPEN SOURCE PROJECT ON GITHUB...YOU!!!👏
 
 #### Using git bash (git terminal).
 This steps can also be used if you're using VS Code terminal.
 
+Go to the current directory where you want the cloned directory to be added.
+```bash
+cd folder directory
+```
 - Click on the clone button and then click the copy to clipboard icon.
  ![Copy Link](image/copy-url.png 'Copy the repository url') 
 
-Open the git bash terminal and run the following git command:
+Open the git bash terminal and run the following git command
 ```bash
-git clone "url you just copied"
+git clone "repository url you just copied"
 ```
-  
-  Change to the repository directory on your computer (if you are not already there):
+
+Change into the repository directory folder on your computer (the folder you just cloned):
 
 ```bash
 cd simple-contribution
 ```
 
-Now create a branch using the `git checkout` command
+Now create a new branch using the `git checkout` command
 
 ```bash
 git checkout -b your-new-branch-name
@@ -152,17 +156,17 @@ git commit -m "Add <your-name> card info"
 ```
 
 ```bash
-git push origin -u <add-your-branch-name>
+git push origin -u "Add <your-branch-name>"
 ```
 
-- Continue the process from _using the github desktop_ after pushing as it's same.
+- Continue the process _using the github desktop_ steps after pushing as it's same.
 
-- **Thank you for contributing to this project**.
+**Thank you for contributing to this project**.🤗
 
-# Aknowledgements
+# Acknowledgements🙏
 
-This project is heavily influenced by [Roshan Jossey's](https://github.com/Roshanjossey) Amazing [Contribute-To-This-Project](https://github.com/Roshanjossey/Contribute-To-This-Project) project with its fine tuned tutorial.
+This project is heavily influenced by [Syknapse](https://github.com/Syknapse) Amazing [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) project with its fine tuned tutorial. The project is also an awesome project for first time contributors as well so go ahead and contribute!
 
 - You can **follow me** and get in touch on [Twitter](https://twitter.com/AlexStephanie10 '@AlexStephanie10')
 
-### HAPPY CONTRIBUTING!
+### HAPPY CONTRIBUTING!🎊
