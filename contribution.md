@@ -163,6 +163,9 @@ git push origin -u "Add <your-branch-name>"
 
 **Thank you for contributing to this project**.🤗
 
+### Now that you're done contributing, go back to the main account repository and click on the _star_ button beside the _fork_ button.
+![Star](image/star.PNG 'Click the star button')
+
 # Acknowledgements🙏
 
 This project is heavily influenced by [Syknapse](https://github.com/Syknapse) Amazing [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) project with its fine tuned tutorial. The project is also an awesome project for first time contributors as well so go ahead and contribute!
