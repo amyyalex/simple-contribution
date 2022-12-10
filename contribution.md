@@ -1,29 +1,32 @@
-<h4 align="center">Let's Setup!</h4>
+## Let's Setup!
 
 Before we start contributing, First thing first let's do a quick Github setup!
 
-1. Login to your GitHub account. If you don't yet have an account then [Download GitHub](https://github.com).
+* First two things you'll want to do:
+1. Install git. Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git (if it's not already installed).
+
+2. Create a free GitHub account or login to your GitHub account, If you already have one.
 
 There are different ways to clone a repo through GitHub Desktop, git bash (git terminal), VS Code terminal and for the purpose of this project, you have to have either one of listed in other to successfully clone and contribute to this project.
 
-1. Download [GitHub Desktop app](https://desktop.github.com/).
+1. Through Github Desktop, Download [GitHub Desktop app](https://desktop.github.com/).
 
 2. Comfortable using Git on the command line and want to use the git terminal to clone, download [git bash](https://desktop.gitbash.com/).
    
 3. Alternatively If you use [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') you can use the VS Code terminal to clone as well.
   
   
-## Now that we done with setting up the essential needed for this contribution to be a success, let's get to the main thing, CONTRIBUTION!.<br><br>
+ **Now that we done with setting up the essential needed for this contribution to be a success, let's get to the main thing, CONTRIBUTION!.<br><br>**
 
-<h4 align="center">let the contribution begin!</h4>
+<h3>let the contribution begin!</h3>
 
  ### Using GitHub Desktop.
-<h5 align="center">Step 1: Fork this repository</h5>
+<h4>Step 1: Fork this repository</h4>
 
 - The objective here is to make a copy of this project and place it in your account. So go to the top right click on the fork icon just as in the picture below.
 | ![Fork](readme-only/fork.png "click on 'Fork'") |
 
-<h5 align="center">Step 2: Clone the repository</h5>
+<h4>Step 2: Clone the repository</h4>
 
 - Now that we've successfully fork the repository and made a copy into our account, we will go ahead and clone the repository which is basically making a local copy of the project. This copy is saved on your own machine.
 **To clone:**
@@ -38,7 +41,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 - Now you have a local copy of the project.
 
-<h5 align="center">Step 3: Create a new branch</h5>
+<h4>Step 3: Create a new branch</h4>
 
 - Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
 - We create a new branch to keep your changes separate from the master branch sometimes known as main branch so that if things go wrong you can simply delete the branch and the main project is not affected.
@@ -54,13 +57,13 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
   - This branch you have created separate from the master branch and it's the branch you'll be working with. Whatever you do, **make sure NOT to work on the branch branch**
 
-<h5 align="center">Step 4: Open the project with VS Code (or any editor of choice)</h5>
+<h4>Step 4: Open the project with VS Code (or any editor of choice)</h4>
 
 - Once you click on _open with visual studio code_, the project opens up on you VS Code open the index.html file to start editing.
 - If your're using other editor, find the project folder on your computer. The `index.html` file is directly in the `simple-contribution` folder.
 [Open VS Code](readme-only/vscode-open.PNG 'Open index.html in your text editor') |
 
-<h5 align="center">Step 5: Copy and edit the template</h5>
+<h4>Step 5: Copy and edit the template</h4>
 
 - Inside the index.html file, We will make a copy of the template and edit it.
 
@@ -75,7 +78,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 _open in default browser_ and click on it.This project will open in your browser and you'll see what the changes you added look like on the site. 
 - Now, you have finished editing your code! And if nothing is broken and everything is working fine, you can go ahead and commit your changes.
 
-<h5 align="center">Step 6: Commit and Push your changes</h5>
+<h4>Step 6: Commit and Push your changes</h4>
 
 **Commit Changes**
 - To commit your changes, go back to the GitHub desktop app; you will see that your changes have been added automatically to the staging area which means that all the changes made are already saved.
@@ -84,7 +87,7 @@ _open in default browser_ and click on it.This project will open in your browser
 **Push Changes**
 - Now your changes are committed, the next thing to do is to _push_ your changes by clicking on the _Push_ button so as to get it in synch with your repository on GitHub. You are "pushing" the changes from your local repository to the remote repository on GitHub.
  
-<h5 align="center">Step 7: Submit a PR(Pull Request)</h5>
+<h4>Step 7: Submit a PR(Pull Request)</h4>
 
 - This is the last stage of your contribution; submitting a _Pull Request_ (PR).
 - The reason for submitting a pull request is so that all the changes you made which is still on your own account of GitHub is sent to the main project to be merged.
