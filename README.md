@@ -1,6 +1,7 @@
 # simple-contribution
 
 # [Contribute To This Project](https://amyyalex.github.io/simple-contribution/)
+**Click on the [link](https://amyyalex.github.io/simple-contribution/) to see the live site!**
 
 ## Introduction
 
