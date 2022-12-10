@@ -1,6 +1,6 @@
 # simple-contribution
 
-# [Contribute To This Project](https://syknapse.github.io/Contribute-To-This-Project/)
+# [Contribute To This Project](https://amyyalex.github.io/simple-contribution/)
 
 ## Introduction
 
