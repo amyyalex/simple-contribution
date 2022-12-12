@@ -264,6 +264,8 @@ footer .copyright{
     .card-details h5{
         font-size: 18px;
         font-weight: 300;
+        margin-left: 1rem;
+        margin-right: 1rem;
     }
     
     .card-details p{
