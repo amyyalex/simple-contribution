@@ -236,6 +236,7 @@ footer .copyright{
 
     .banner h1{
         font-size: 2rem;
+        font-weight: 700;
     }
 
     .banner p{
@@ -256,8 +257,8 @@ footer .copyright{
 
     .click-button {
         margin-top: 1rem;
-        padding: 0.6rem 0.8rem;
-        font-size: 0.7rem;
+        padding: 0.7rem 0.9rem;
+        font-size: 0.9rem;
         border-radius: 9px;
     }
 
