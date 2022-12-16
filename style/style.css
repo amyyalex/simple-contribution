@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap');
 
 *{
     box-sizing: border-box;
@@ -115,6 +116,7 @@ section{
 	padding: 0.5rem 1rem;
 	font-size: 1rem;
     border-radius: 15px;
+    border: 2px solid rgb(6, 1, 39);
     text-transform: uppercase;
 }
 
@@ -217,6 +219,62 @@ section{
     background: rgb(10, 3, 50);
     box-shadow: -5px -8px 0 rgb(10, 3, 50),
     -5px 8px 0 rgb(10, 3, 50);
+}
+
+/*help section style*/
+.contribute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contribute-container {
+    padding: 50px;
+    width: 800px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: rgba(10, 3, 50, 0.227);
+}
+
+.contribute-container h1{
+    color: rgb(10, 3, 50);
+    font-family: 'Corinthia', cursive;
+	font-size: 40px;
+}
+
+.contribute-container p{
+    margin-bottom: 2rem;
+}
+
+.contribute-container h1 i{
+    color: rgb(10, 3, 50);
+}
+
+.line {
+    width: 30%;
+    height: 2px;
+    top: 0;
+    color: rgb(10, 3, 50);
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.click-button1 {
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgb(6, 1, 39);
+    text-transform: uppercase;
+}
+
+.click-button1:hover{
+    color: rgb(10, 3, 50);
+    background-color: #fff;
+    border: 2px solid;
+    transition: all 0.5s ease-in-out;
 }
 
 /*footer section styling*/
