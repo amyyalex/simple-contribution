@@ -16,3 +16,5 @@ This is intended for complete beginners and also for those with a little more ex
 ### How and what do I contribute?
 
 It's simple, there's an already created template in the HTML file which has been marked where to start and where to stop all you have to do is to make a copy of the template and customize it with your own information. To contribute, read the [Contribution guide](contribution.md) to get an explicit guide on the whole process of contributing starting from setting up Github to creating a pull request. If you're an advanced developer and you want to take it up a notch, read the [Advanced Contribution guide](advanced-contribution.md) to get started.
+
+Once your pull request is merged, the changes will be live on [simple-contribution](https://amyyalex.github.io/simple-contribution/)
