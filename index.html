@@ -1,296 +1,80 @@
-
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width" initial-scale="">
-        <meta http-equiv="X-UA-Compatible" content="IE=7">
-        <title>Simple Contribution</title>
-        <link rel="stylesheet" href="style/style.css">
-        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
-        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-        <script src="app.js"></script>
-    </head>
-    <body>
-        <nav class="navbar">
-            <a href="#"><h3>Simple Contribution</h3></a>
-            <div>
-                <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github" id="github-icon"></i></a>					
-            </div>
-            
-        </nav>
-        <section>
-            <div class="banner">
-                <h1>Hi Contributors!</h1>
-                <p>This is a simple project that will not only help you contribute to your first open source project, 
-                    but will also guide you through the entire process,<span>so whether this is your first time contributing or you're looking for a project to contribute to, 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" initial-scale="">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <title>Simple Contribution</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="#">
+            <h3>Simple Contribution</h3>
+        </a>
+        <div>
+            <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github"
+                    id="github-icon"></i></a>
+        </div>
+
+    </nav>
+    <section>
+        <div class="banner">
+            <h1>Hi Contributors!</h1>
+            <p>This is a simple project that will not only help you contribute to your first open source project,
+                but will also guide you through the entire process,<span>so whether this is your first time contributing
+                    or you're looking for a project to contribute to,
                     this project is for you!</span>
-                </p>
-                <a href="https://discord.gg/JhCdztuAcm" class="click-button" target="_blank">Join a Community</a>    
-            </div> 
-        </section>
-        <section class="home-content">
-            <h2>Add your Contribution!</h2>
-            <p>Add your different social media platform and get other contributors to see your work and follow you!</p>
-            <div class="cards">
-                <!-- THIS IS TEMPLATE TO COPY; COPY THIS TEMPLATE TO EDIT IN YOUR DETAILS -->
+            </p>
+            <a href="https://discord.gg/JhCdztuAcm" class="click-button" target="_blank">Join a Community</a>
+        </div>
+    </section>
+    <section class="home-content">
+        <h2>Add your Contribution!</h2>
+        <p>Add your different social media platform and get other contributors to see your work and follow you!</p>
+        <div class="cards">
+            <!-- Template for contributor cards -->
+            <template id="contributor-card">
                 <div class="card">
                     <div class="card-details">
-                        <h1>Your Name</h1>
-                        <h5>Your profession</h5>
-                        <!-- Asides from the starting letter, the rest of your quote should be in small letters -->
-                        <p>Your favorite quote</p>
+                        <h1></h1>
+                        <h5></h5>
+                        <p></p>
                     </div>
-                    <!-- Here, add links to your social handles, remove social icon you don't have link to -->
                     <div class="social-icon">
-                        <a href="https://twitter.com" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://dribbble.com" target="_blank"><i class="uil uil-dribbble"></i></a>
-                        <a href="https://behance.com" target="_blank"><i class="uil uil-behance"></i></a>
-                        <a href="https://github.com" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:youremail@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
+                        <!-- Social icons will be added here -->
                     </div>
                     <p class="connect">Let's Connect!</p>
                 </div>
-                <!-- END OF TEMPLATE -->
-                
-                <!-- PASTE THE COPIED TEMPLATE UNDER THIS LINE -->
-                
-                <!-- Abhi's Information Card-->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Abhi Joshi</h1>
-                        <h5>Recruiter turned front-end developer</h5>
-                        <!-- Asides from the starting letter, the rest of your quote should be in small letters -->
-                        <p>"Jarvis, sometimes you gotta run before you can walk." - Tony Stark.</p>
-                    </div>
-            
-                    <div class="social-icon">
-                        <a href="https://dribbble.com/abhiness" target="_blank"><i class="uil uil-dribbble"></i></a>
-                        <a href="https://github.com/abhiness" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/in/abhijoshi747" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:abhijoshi30995@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
+            </template>
+            <!-- END OF TEMPLATE -->
 
-                <!-- Vedang's Information -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Vedang</h1>
-                        <h5>Undergraduate Student</h5>
-                        <p>Never stop learning</p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://twitter.com/ThisIsVedang" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/vedang685" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://www.linkedin.com/in/vedang-69674222b" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto: vedang685@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
+        </div>
+    </section>
 
-                <!-- RITA UZOMA'S INFORMATION-->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Rita Uzoma</h1>
-                        <h5>Frontend Developer</h5>
-                        <p>Challenges are hard to overcome but without them, success would have no meaning.</p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://twitter.com/reetahUzoma" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/i-am-rita" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://www.linkedin.com/in/ritauzoma/" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:ritauzoma07@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF RITA UZOMA'S INFORMATION-->
-
-
-                <!-- CHILAKA CHIGOZIE (OFFICIALBOSS1) INFORMATION-->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>CHILAKA CHIGOZIE MICHEAL</h1>
-                        <h5>FULL STACK STUDENT</h5>
-                        <p>It's only you can help youself to win </p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://twitter.com/officialbos_s" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <!--<a href="https://dribbble.com" target="_blank"><i class="uil uil-dribbble"></i></a>
-                        <a href="https://behance.com" target="_blank"><i class="uil uil-behance"></i></a>-->
-                        <a href="https://github.com/officialboss1" target="_blank"><i class="uil uil-github"></i></a>
-                        <!--<a href="https://linkedin.com" target="_blank"><i class="uil uil-linkedin"></i></a>-->
-                        <a href="mailto:mikeedaboss1@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                    <!--END OF CHILAKA'S INFORMATION-->
-
-                  <!-- DIABY IBRAHIM MOHAMED INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>DIABY IBRAHIM MOHAMED</h1>
-                        <h5>FULL STACK STUDENT</h5>
-                        <p>Truth can only be found in one place: the code.</p>
-                    </div>                  
-                    <div class="social-icon">
-                        <a href="https://twitter.com/kingibro345" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://behance.com/Diaby Mohammed Ibrahim" target="_blank"><i class="uil uil-behance"></i></a>
-                        <a href="https://github.com/Dmambo" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/Diaby Mohammed Ibrahim" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:ibkhalidworld@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF INFORMATION -->
-
-
-            <!-- GRACIOUX MBANUGO INFORMATION -->
-                                <div class="card">
-                    <div class="card-details">
-                        <h1>Gracioux Mbanugo </h1>
-                        <h5>Frontend Software Developer</h5>
-                        <p>"You can't rely on how you look to sustain you, what sustains us, what is fundamentally beautiful is compassion; for yourself and for those around you". - Lupita Nyong'o</p>
-                    </div>
-                    <!-- Here, add links to your social handles, remove social icon you don't have link to -->
-                    <div class="social-icon">
-                        <a href="https://twitter.com/Gracioux_codes" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/GraciouxMbanugo" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/in/grace-mbanugo" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:chiziterem01@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-
-                <!-- END OF GRACIOUX MBANUGO INFORMATION -->
-
-
-                <!-- DANIEL UKOHA INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Daniel Ukoha</h1>
-                        <h5>Front End Software Engineer & Open Source Contributor</h5>
-                        <p>Hard work is worthless for those that do not believe in themselves - uzumaki naruto</p>
-                    </div>
-                    <!-- Here, add links to your social handles, remove social icon you don't have link to -->
-                    <div class="social-icon">
-                        <a href="https://twitter.com/i_amsuperfly" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/superfly101" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/in/danielukoha101" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:danielukoha101@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF DANIEL UKOHA INFORMATION -->
-
-
-                 <!-- CARMEN AMBA INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Carmen Amba</h1>
-                        <h5>Software Engineer and OpenSource contributor</h5>
-                        <p>“Whatever is worth doing at all, is worth doing well.”  Philip Stanhope</p>
-                    </div>
-                    <!-- Here, add links to your social handles, remove social icon you don't have link to -->
-                    <div class="social-icon">
-                        <a href="https://twitter.com/car__mie" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/Carmenbelle" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://www.linkedin.com/in/carmen-amba-226975185/" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:carmieamba@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                 <!-- END OF CARMEN AMBA INFORMATION -->
-
-                <!-- AMY ALEX INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Amyy Alex-Okenwa</h1>
-                        <h5>Software Engineer</h5>
-                        <p>While you might be doubting yourself, someone else is admiring your strength.</p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://twitter.com/AlexStephanie10" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://dribbble.com/Stephnny" target="_blank"><i class="uil uil-dribbble"></i></a>
-                        <a href="https://github.com/amyyalex" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/stephaniealexokenwa" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:deeptruth247@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF AMY ALEX INFORMATION -->
-
-                <!-- S-SHEMMEE INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>s_shemmee</h1>
-                        <h5>Web Developer and OpenSource contributor</h5>
-                        <p>Dream big, Stay positive, Work hard + Enjoy the Journey</p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://twitter.com/s_shemmee" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://dribbble.com/s-shemmee" target="_blank"><i class="uil uil-dribbble"></i></a>
-                        <a href="https://github.com/s-shemmee" target="_blank"><i class="uil uil-github"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF S-SHEMMEE INFORMATION -->                
-
-                <!-- JEFFREY WHEWHETU INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Jeffrey Whewhetu</h1>
-                        <h5>Software Developer and OpenSource Contributor</h5>
-                        <!-- Asides from the starting letter, the rest of your quote should be in small letters -->
-                        <p>Know thyself - Socrates</p>
-                    </div>
-                    <!-- Here, add links to your social handles, remove social icon you don't have link to -->
-                    <div class="social-icon">
-                        <a href="https://twitter.com/c0d33ngr" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/c0d33ngr" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://linkedin.com/in/jeffrey-whewhetu-483170240" target="_blank"><i class="uil uil-linkedin"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF JEFFREY WHEWHETU INFORMATION -->
-
-                <!-- FAVOUR NAZA ANAJEMBA INFORMATION -->
-                <div class="card">
-                    <div class="card-details">
-                        <h1>Favour Naza Anajemba</h1>
-                        <h5>Software Developer and Open Source Contributor</h5>
-                        <p>Be a rainbow in someone else's cloud - Maya Angelou</p>
-                    </div>
-                    <div class="social-icon">
-                        <a href="https://www.twitter.com/TechSiz" target="_blank"><i class="uil uil-twitter"></i></a>
-                        <a href="https://github.com/naz-coder" target="_blank"><i class="uil uil-github"></i></a>
-                        <a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196" target="_blank"><i class="uil uil-linkedin"></i></a>
-                        <a href="mailto:nazanajemba@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
-                    </div>
-                    <p class="connect">Let's Connect!</p>
-                </div>
-                <!-- END OF FAVOUR NAZA ANAJEMBA INFORMATION -->
-
+    <section>
+        <div class="contribute">
+            <div class="contribute-container">
+                <h1>Thanks for your Contribution<i class="fa-solid fa-leaf-heart"></i></i></h1>
+                <hr class="line">
+                <p>I appreciate you for contributing and being part of this amazing project, I hope you feel proud of
+                    yourself.<br /> Don't forget to leave a star!<i class="uil uil-star"></i></p>
+                <a href="https://github.com/amyyalex/simple-contribution" class="click-button1"
+                    target="_blank">Contribute Here</a>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section>
-            <div class="contribute">
-                <div class="contribute-container">
-                    <h1>Thanks for your Contribution<i class="fa-solid fa-leaf-heart"></i></i></h1>
-                    <hr class="line">
-                    <p>I appreciate you for contributing and being part of this amazing project, I hope you feel proud of yourself.<br/> Don't forget to leave a star!<i class="uil uil-star"></i></p>
-                    <a href="https://github.com/amyyalex/simple-contribution" class="click-button1" target="_blank">Contribute Here</a>
-                </div>
-            </div>  
-        </section>
+    <footer id="footera">
+        <div class="copyright">
+            Copyright &copy; Designed by Simple Contribution
+        </div>
+    </footer>
+    <script src="./app.js"></script>
+</body>
 
-        <footer id="footera">
-            <div class="copyright">
-                Copyright &copy; Designed by Simple Contribution
-            </div>
-        </footer>
-    
-    </body>
 </html>
