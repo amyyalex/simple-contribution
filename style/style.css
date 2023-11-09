@@ -1,30 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&family=Tangerine&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap');
 
-*{
+* {
     box-sizing: border-box;
-	text-decoration: none;
-	outline: 0;
-	border: 0;
-	list-style: none;
+    text-decoration: none;
+    outline: 0;
+    border: 0;
+    list-style: none;
 }
 
-html{
-	scroll-behavior: smooth;
-	font-size: 15px;
+html {
+    scroll-behavior: smooth;
+    font-size: 15px;
 }
 
 html::-webkit-scrollbar {
-  width: 1rem;
+    width: 1rem;
 }
 
 html::-webkit-scrollbar-track {
-  background: transparent;
+    background: transparent;
 }
 
 html::-webkit-scrollbar-thumb {
-  background: rgba(10, 3, 50, 0.227);
-  border-radius: 5rem;
+    background: rgba(10, 3, 50, 0.227);
+    border-radius: 5rem;
 }
 
 body {
@@ -34,42 +34,42 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-section{
-	overflow: hidden;
+section {
+    overflow: hidden;
 }
 
 /*navbar section styling*/
-.navbar{
-	width: 100%;
-	height: 5rem;
-	position: fixed;
+.navbar {
+    width: 100%;
+    height: 5rem;
+    position: fixed;
     padding: 2rem;
-	top: 0;
-	z-index: 2;
-	align-items: center;
-	display: flex;
+    top: 0;
+    z-index: 2;
+    align-items: center;
+    display: flex;
     justify-content: space-between;
-	background: #fff;
-	border-bottom: 1px solid #c4c4c4;
+    background: #fff;
+    border-bottom: 1px solid #c4c4c4;
 }
 
-.navbar a{
-    color:  rgb(10, 3, 50);
+.navbar a {
+    color: rgb(10, 3, 50);
 }
 
-.navbar h3{
-	font-size: 50px;
-	font-weight: 400;
-	font-family: 'The Nautigal', cursive;
+.navbar h3 {
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'The Nautigal', cursive;
 }
 
 #github-icon {
-	font-size: 2rem;
-	cursor: pointer;
-	justify-content: flex-end;
+    font-size: 2rem;
+    cursor: pointer;
+    justify-content: flex-end;
     width: 80px;
     height: 80px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
     border-radius: 50%;
     color: #fff;
     background: rgb(10, 3, 50);
@@ -82,7 +82,7 @@ section{
 }
 
 /*Banner section styling*/
-.banner{
+.banner {
     color: #fff;
     display: grid;
     place-items: center;
@@ -91,13 +91,13 @@ section{
     background: rgb(10, 3, 50);
 }
 
-.banner h1{
+.banner h1 {
     font-size: 3.5rem;
     margin-bottom: 0;
     font-weight: 100;
 }
 
-.banner p{
+.banner p {
     margin-left: 2rem;
     margin-right: 2rem;
     font-size: 1.1rem;
@@ -105,7 +105,7 @@ section{
     margin-bottom: 1.5rem;
 }
 
-.banner span{
+.banner span {
     display: block;
     text-align: center;
 }
@@ -113,14 +113,14 @@ section{
 .click-button {
     background: #fff;
     margin-top: 2rem;
-	padding: 0.5rem 1rem;
-	font-size: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
     border-radius: 15px;
     border: 2px solid rgb(6, 1, 39);
     text-transform: uppercase;
 }
 
-.click-button:hover{
+.click-button:hover {
     color: #fff;
     background-color: rgb(6, 1, 39);
     border: 1px solid #fff;
@@ -128,29 +128,29 @@ section{
 }
 
 /*Home section styling*/
-.home-content{
+.home-content {
     text-align: center;
 }
 
-.home-content h2{
+.home-content h2 {
     font-size: 2rem;
     text-transform: capitalize;
     margin-bottom: 0;
 }
 
 /*card section styling*/
-.card{
+.card {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: 0px 2px 4px rgb(0,0,0,25%);
+    box-shadow: 0px 2px 4px rgb(0, 0, 0, 25%);
     width: 325px;
     text-align: center;
     margin: 50px 20px;
 }
 
-.cards{
+.cards {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -158,32 +158,34 @@ section{
     align-items: center;
     margin: 0 auto;
 }
-.card-details h1{
+
+.card-details h1 {
     text-transform: capitalize;
 }
 
-.card-details h5{
+.card-details h5 {
     font-size: 15px;
 }
 
-.card-details p{
+.card-details p {
     font-family: 'Tangerine', cursive;
     font-size: 25px;
 }
 
-.social-icon a{
+.social-icon a {
     font-size: 1.5rem;
     width: 3rem;
-	height: 3rem;
+    height: 3rem;
     color: rgb(10, 3, 50);
-	background: rgba(10, 3, 50, 0.227);
-	padding: 0.3rem;
-	border-radius: 50%;
+    background: rgba(10, 3, 50, 0.227);
+    padding: 0.3rem;
+    border-radius: 50%;
     cursor: pointer;
-    transition:  all 300ms ease;
+    transition: all 300ms ease;
+    margin-right: 0.3rem;
 }
 
-.social-icon a:hover{
+.social-icon a:hover {
     color: rgb(170, 166, 191);
     background: rgb(10, 3, 50);
 }
@@ -195,34 +197,35 @@ section{
     padding: 5px 10px;
     margin-top: 1.5rem;
 }
-.connect::before{
+
+.connect::before {
     content: '';
     position: absolute;
     left: -20px;
     top: 50%;
     transform: translateY(-50%);
-    width:20px;
+    width: 20px;
     height: 2px;
     background: rgb(10, 3, 50);
     box-shadow: 5px -8px 0 rgb(10, 3, 50),
-    5px 8px 0 rgb(10, 3, 50);
+        5px 8px 0 rgb(10, 3, 50);
 }
 
-.connect::after{
+.connect::after {
     content: '';
     position: absolute;
     right: -20px;
     top: 50%;
     transform: translateY(-50%);
-    width:20px;
+    width: 20px;
     height: 2px;
     background: rgb(10, 3, 50);
     box-shadow: -5px -8px 0 rgb(10, 3, 50),
-    -5px 8px 0 rgb(10, 3, 50);
+        -5px 8px 0 rgb(10, 3, 50);
 }
 
 /*help section style*/
-.contribute{
+.contribute {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -238,17 +241,17 @@ section{
     background: rgba(10, 3, 50, 0.227);
 }
 
-.contribute-container h1{
+.contribute-container h1 {
     color: rgb(10, 3, 50);
     font-family: 'Corinthia', cursive;
-	font-size: 40px;
+    font-size: 40px;
 }
 
-.contribute-container p{
+.contribute-container p {
     margin-bottom: 2rem;
 }
 
-.contribute-container h1 i{
+.contribute-container h1 i {
     color: rgb(10, 3, 50);
 }
 
@@ -262,15 +265,15 @@ section{
 }
 
 .click-button1 {
-	padding: 0.5rem 1rem;
-	font-size: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
     border-radius: 10px;
     color: #fff;
     background-color: rgb(6, 1, 39);
     text-transform: uppercase;
 }
 
-.click-button1:hover{
+.click-button1:hover {
     color: rgb(10, 3, 50);
     background-color: #fff;
     border: 2px solid;
@@ -278,36 +281,36 @@ section{
 }
 
 /*footer section styling*/
-footer .copyright{
-	text-align: center;
-	margin-top: 1rem;
-	padding: 2rem 0;
-	font-size: 1rem;
+footer .copyright {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 2rem 0;
+    font-size: 1rem;
     color: #fff;
     background: rgb(10, 3, 50);
 }
 
 @media screen and (max-width: 760px) {
-    .navbar h3{
+    .navbar h3 {
         font-size: 30px;
     }
 
-    .banner h1{
+    .banner h1 {
         font-size: 2rem;
         font-weight: 700;
     }
 
-    .banner p{
+    .banner p {
         font-size: 0.9rem;
         margin-bottom: 0.8rem;
-        text-align: center;   
+        text-align: center;
     }
 
-    .home-content h2{
+    .home-content h2 {
         font-size: 1.6rem;
     }
 
-    .home-content p{
+    .home-content p {
         font-size: 0.9rem;
         margin-left: 1rem;
         margin-right: 1rem;
@@ -320,15 +323,15 @@ footer .copyright{
         border-radius: 9px;
     }
 
-    .card-details h5{
+    .card-details h5 {
         font-size: 18px;
         font-weight: 300;
         margin-left: 1rem;
         margin-right: 1rem;
     }
-    
-    .card-details p{
+
+    .card-details p {
         font-size: 28px;
         margin-bottom: 2rem;
     }
-  }
+}
