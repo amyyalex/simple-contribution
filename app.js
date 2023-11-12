@@ -22,6 +22,14 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Anish Yakkanti",
+    profession: "Texas A&M Student",
+    quote: "What is better, to be born good or to overcome your evil nature through great effort?",
+    github: "https://github.com/AnishYakk",
+    linkedin: "https://linkedin.com/in/anish-yakkanti",
+    email: "mailto:yakkantian@gmail.com",                   
+  },
+  {
     name: "Abhi Joshi",
     profession: "Recruiter turned front-end developer",
     quote:
