@@ -11,6 +11,17 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Just Testing",
+    profession: "Tester",
+    quote: '"Practice makes better"</br> - Amyy', // say annonymous if unknown
+    twitter: "https://twitter.com",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com",
+    linkedin: "https://linkedin.com",
+    email: "mailto:youremail@gmail.com",
+  },
+  {
     name: "Abhi Joshi",
     profession: "Recruiter turned front-end developer",
     quote:
