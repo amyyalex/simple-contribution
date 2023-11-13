@@ -142,6 +142,14 @@ const cardDetailsArray = [
     linkedin: "https://www.linkedin.com/in/favour-naza-anajemba-02a156196",
     email: "mailto:nazanajemba@gmail.com",
   },
+  {
+    name: "Casey Charleston",
+    profession: "UT Austin Researcher + Teaching Assistant",
+    quote: 'Program testing can be used to show the presence of bugs, but never to show their absence!</br> - Edsger W. Djikstra',
+    twitter: "https://twitter.com/imcaseych",
+    github: "https://github.com/caseycharleston",
+    linkedin: "https://www.linkedin.com/in/caseycharleston/",
+  },
 ];
 
 function createCard(details) {
