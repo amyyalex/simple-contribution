@@ -123,6 +123,14 @@ const cardDetailsArray = [
     linkedin: "https://www.linkedin.com/in/favour-naza-anajemba-02a156196",
     email: "mailto:nazanajemba@gmail.com",
   },
+  },
+  {
+    name: "Ashwin Dhangar",
+    profession: "Frontend Developer",
+    quote: "You never meet same person again - Ashwin Dhangar",
+    github: "https://github.com/MrAshwin2142",
+    linkedin: "https://www.linkedin.com/in/ashwin-dhangar-btech24",
+  },
 ];
 
 function createCard(details) {
