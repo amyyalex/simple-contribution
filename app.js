@@ -1,7 +1,7 @@
 const cardDetailsArray = [
   {
     name: "Your Name",
-    profession: "Your profession",
+    profession: "Your Profission",
     quote: '"Your favorite quote"</br> - Said by', // say annonymous if unknown
     twitter: "https://twitter.com",
     dribbble: "https://dribbble.com",
@@ -9,6 +9,17 @@ const cardDetailsArray = [
     github: "https://github.com",
     linkedin: "https://linkedin.com",
     email: "mailto:youremail@gmail.com",
+  },
+  {
+    name: "Félix Domingos",
+    profession: "Web Fullstack Developer",
+    quote: '"When you change your thoughts, remember to also change your world"</br> - Said by Norman Vincent Peale', // say annonymous if unknown
+    twitter: "https://twitter.com/FelixSDomingos2",
+    dribbble: "https://dribbble.com/F9_-",
+    behance: "https://www.behance.net/flixsdomingos",
+    github: "https://github.com/felixdomingos1",
+    linkedin: "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
+    email: "Félix:felixsdomingos93@gmail.com",
   },
   {
     name: "Just Testing",
