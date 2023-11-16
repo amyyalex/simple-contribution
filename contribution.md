@@ -162,7 +162,7 @@ git push origin -u "Add <your-branch-name>"
 
 **Thank you for contributing to this project**.🤗
 
-### Now that you're done contributing, go back to the main account repository and click on the _star_ button beside the _fork_ button.
+### Now that you're done contributing, go back to the main account repository, click on the site link by the right side, check out other contributors socials and connect with them. Also click on the _star_ button beside the _fork_ button.
 ![Star](image/star.PNG 'Click the star button')
 
 # Acknowledgements🙏
