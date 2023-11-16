@@ -67,12 +67,11 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 <h4>Step 5: Copy and edit the template</h4>
 
-- Inside the index.html file, We will make a copy of the template and edit it.
+- UPDATE: So instead of making a copy of the template and editing it with yor dat inside the index.html file.
 
-* Inside of the html file,
-  * You'll see a section with a commented line <!-- THIS IS TEMPLATE TO COPY; COPY THIS TEMPLATE TO EDIT IN YOUR DETAILS --> Copy the template till you see <!-- END OF TEMPLATE -->
-  * Paste the copied template directly below the comment <!-- PASTE THE COPIED TEMPLATE UNDER THIS LINE -->
-  * To keep the code clean as possible, make sure to leave a single line of space after the comment before pasting the template to edit. The template which now is **yours** for you to customize and edit.
+* Go to app.js file,
+  * You'll see an array of data, add a new object into the array( to mmake it easier, copy and paste object template and edit)
+The object template which now is **yours** for you to customize and edit.
   * Replace 'Your Name' with your name, 'Your Profession' with what you do, add your favorite quote and the link to your socials.
 
 - Once you're done, **save your changes** by pressing ctrl + s.

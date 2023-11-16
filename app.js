@@ -11,6 +11,25 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Just Testing",
+    profession: "Tester",
+    quote: '"Practice makes better"</br> - Amyy', // say annonymous if unknown
+    twitter: "https://twitter.com",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com",
+    linkedin: "https://linkedin.com",
+    email: "mailto:youremail@gmail.com",
+  },
+  {
+    name: "Anish Yakkanti",
+    profession: "Texas A&M Student",
+    quote: "What is better, to be born good or to overcome your evil nature through great effort?",
+    github: "https://github.com/AnishYakk",
+    linkedin: "https://linkedin.com/in/anish-yakkanti",
+    email: "mailto:yakkantian@gmail.com",                   
+  },
+  {
     name: "Abhi Joshi",
     profession: "Recruiter turned front-end developer",
     quote:
@@ -123,14 +142,21 @@ const cardDetailsArray = [
     linkedin: "https://www.linkedin.com/in/favour-naza-anajemba-02a156196",
     email: "mailto:nazanajemba@gmail.com",
   },
-  },
   {
     name: "Ashwin Dhangar",
     profession: "Frontend Developer",
     quote: "You never meet same person again - Ashwin Dhangar",
     github: "https://github.com/MrAshwin2142",
     linkedin: "https://www.linkedin.com/in/ashwin-dhangar-btech24",
-  },
+   },
+   {
+    name: "Casey Charleston",
+    profession: "UT Austin Researcher + Teaching Assistant",
+    quote: 'Program testing can be used to show the presence of bugs, but never to show their absence!</br> - Edsger W. Djikstra',
+    twitter: "https://twitter.com/imcaseych",
+    github: "https://github.com/caseycharleston",
+    linkedin: "https://www.linkedin.com/in/caseycharleston/",
+   },
 ];
 
 function createCard(details) {
