@@ -283,11 +283,27 @@ section {
 /*footer section styling*/
 footer .copyright {
     text-align: center;
-    margin-top: 1rem;
     padding: 2rem 0;
     font-size: 1rem;
     color: #fff;
     background: rgb(10, 3, 50);
+}
+
+.lt {
+    margin: 0.625rem;
+    padding:0.313rem;
+}
+
+.ltopt {
+    margin: 0.063rem;
+    padding:0.313px;
+}
+
+footer .lag {
+    color: #fff;
+    background: rgb(10, 3, 50);
+    margin-top: 1rem;
+
 }
 
 @media screen and (max-width: 760px) {
