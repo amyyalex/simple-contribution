@@ -40,6 +40,16 @@ const cardDetailsArray = [
     email: "mailto:abhijoshi30995@gmail.com",
   },
   {
+    name: "Ademola Onayemi",
+    profession: "Backend developer",
+    quote:
+      '"Continuos drop of water turns out to become a river."</br> - Yoruba Adage',
+    twitter: "https://x.com/@tinnythrill",
+    github: "https://github.com/Ademola111",
+    linkedin: "https://linkedin.com/in/onayemi-h-ademola",
+    email: "mailto:onayemi.hakeem@gmail.com",
+  },
+  {
     name: "Vedang",
     profession: "Undergraduate Student",
     quote: '"Never stop learning"</br>-annonymous',
