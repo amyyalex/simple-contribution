@@ -1,14 +1,11 @@
 const cardDetailsArray = [
   {
-    name: "Your Name",
-    profession: "Your profession",
-    quote: '"Your favorite quote"</br> - Said by', // say annonymous if unknown
-    twitter: "https://twitter.com",
-    dribbble: "https://dribbble.com",
-    behance: "https://behance.com",
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
-    email: "mailto:youremail@gmail.com",
+    name: "David Banitongwa",
+    profession: "Software Engineer",
+    quote: '"Each day is a new opportunity to become better"</br> - Unknown', // say annonymous if unknown
+    github: "https://github.com/Banitongwa7",
+    linkedin: "https://www.linkedin.com/in/david-banitongwa/",
+    email: "mailto:davidbanitongwa@gmail.com",
   },
   {
     name: "Just Testing",
