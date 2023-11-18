@@ -10,6 +10,17 @@ const cardDetailsArray = [
     linkedin: "https://linkedin.com",
     email: "mailto:youremail@gmail.com",
   },
+{
+    name: "Adeshina Olorogun",
+    profession: "Software Engineer",
+    quote: '"He who fails to plan has planned to fail"</br> - Said by', // say annonymous if unknown
+    twitter: "https://twitter.com/AdesinaOlorogun",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com/AdeshinaOlorogun",
+    linkedin: "https://linkedin.com/Adeshina-m-Olorogun",
+    email: "mailto:Adeshinamolorogun@gmail.com",
+  },
   {
     name: "Just Testing",
     profession: "Tester",
