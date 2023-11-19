@@ -33,17 +33,6 @@ const cardDetailsArray = [
     email: "Félix:felixsdomingos93@gmail.com",
   },
   {
-    name: "Just Testing",
-    profession: "Tester",
-    quote: '"Practice makes better"</br> - Amyy', // say annonymous if unknown
-    twitter: "https://twitter.com",
-    dribbble: "https://dribbble.com",
-    behance: "https://behance.com",
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
-    email: "mailto:youremail@gmail.com",
-  },
-  {
     name: "Anish Yakkanti",
     profession: "Texas A&M Student",
     quote: "What is better, to be born good or to overcome your evil nature through great effort?",
