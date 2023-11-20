@@ -178,6 +178,14 @@ const cardDetailsArray = [
     github: "https://github.com/caseycharleston",
     linkedin: "https://www.linkedin.com/in/caseycharleston/",
    },
+   {
+    name: "David Banitongwa",
+    profession: "Software Engineer",
+    quote: '"Each day is a new opportunity to become better"</br> - Unknown', // say annonymous if unknown
+    github: "https://github.com/Banitongwa7",
+    linkedin: "https://www.linkedin.com/in/david-banitongwa/",
+    email: "mailto:davidbanitongwa@gmail.com",
+   }
 ];
 
 function createCard(details) {
