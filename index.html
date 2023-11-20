@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -44,7 +45,7 @@
         <div class="cards">
             <!-- Template for contributor cards -->
             <template id="contributor-card">
-                <div class="card">
+                <div class="card" data-aos="fade-up">
                     <div class="card-details">
                         <h1></h1>
                         <h5></h5>
@@ -63,7 +64,7 @@
     </section>
 
     <section>
-        <div class="contribute">
+        <div class="contribute" data-aos="fade-up" data-aos-delay="300">
             <div class="contribute-container">
                 <h1>Thanks for your Contribution<i class="fa-solid fa-leaf-heart"></i></i></h1>
                 <hr class="line">
@@ -92,6 +93,10 @@
         
     </footer>
     <script src="./app.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
 </body>
 
 </html>
