@@ -185,11 +185,20 @@ const cardDetailsArray = [
     github: "https://github.com/Banitongwa7",
     linkedin: "https://www.linkedin.com/in/david-banitongwa/",
     email: "mailto:davidbanitongwa@gmail.com",
-   }
+   },
+  {
+    name: "Hamza Haji",
+    profession: "Programmer",
+    quote: '"I think therefore I am"</br> - Said by Rene Descartes', // say annonymous if unknown
+    twitter: "https://twitter.com/hamzambo",
+    github: "https://github.com/hamzambo",
+    linkedin: "https://linkedin.com/hamza-haji-2192b9123",
+    email: "mailto:hhaji16814@gmail.com",
+  }
 ];
 
 function createCard(details) {
-  const cardTemplate = document.getElementById("contributor-card");
+    quote: '"Your favorite quote"</br> - Said by', // say annonymous if unknown
   const cardClone = cardTemplate.content.cloneNode(true);
 
   cardClone.querySelector(".card-details h1").textContent = details.name;
