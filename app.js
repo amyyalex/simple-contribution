@@ -196,6 +196,15 @@ const cardDetailsArray = [
     github: "https://github.com/Banitongwa7",
     linkedin: "https://www.linkedin.com/in/david-banitongwa/",
     email: "mailto:davidbanitongwa@gmail.com",
+   },
+   {
+    name: "Denis AKPAGNONITE",
+    profession: "Aspiring Site Reliability Engineer",
+    quote: '"Sic parvis magna - (Greatness from small beginnings)"</br> - Sir Francis Drake',
+    github: "https://github.com/denisakp",
+    twitter: "https://twitter.com/denis_Akp",
+    linkedin: "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
+    email: "mailto:akpagnonited@gmail.com",
    }
 ];
 
