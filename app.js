@@ -11,6 +11,15 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Motlatsi Moea",
+    profession: "full stack Web developer",
+    quote: '"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?"</br> - Said by Erin Hanson',
+    twitter: "https://twitter.com/MotlatsiMo3a",
+    github: "https://github.com/motlatsimoea",
+    linkedin: "https://www.linkedin.com/in/motlatsi-moea-b33b25119/",
+    email: "mailto:motlatsi.moea@gmail.com",
+  },
+  {
     name: "Dayo Orunsolu",
     profession: "Google Cloud Engineer",
     quote: '"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead" - Marjorie Pay Hinkley',
