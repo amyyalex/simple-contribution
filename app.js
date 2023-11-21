@@ -10,7 +10,18 @@ const cardDetailsArray = [
     linkedin: "https://linkedin.com",
     email: "mailto:youremail@gmail.com",
   },
-{
+  {
+    name: "Dayo Orunsolu",
+    profession: "Google Cloud Engineer",
+    quote: '"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead" - Marjorie Pay Hinkley',
+    twitter: "https://twitter.com",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com/ORUNSOLU",
+    linkedin: "https://www.linkedin.com/in/dayo-o-44983b116",
+    email: "mailto:oruns@outlook.com"
+  },
+  {
     name: "Adeshina Olorogun",
     profession: "Software Engineer",
     quote: '"He who fails to plan has planned to fail"</br> - Said by', // say annonymous if unknown
