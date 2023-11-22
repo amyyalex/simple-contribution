@@ -67,7 +67,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 <h4>Step 5: Copy and edit the template</h4>
 
-- UPDATE: So instead of making a copy of the template and editing it with yor dat inside the index.html file.
+- UPDATE: So instead of making a copy of the template and editing it with your data inside the index.html file.
 
 * Go to app.js file,
   * You'll see an array of data, add a new object into the array( to mmake it easier, copy and paste object template and edit)
@@ -107,6 +107,7 @@ _open in default browser_ and click on it.This project will open in your browser
   ![Open a Pull Request](image/pull-request.png 'You are requesting to merge your branch from your fork into the master branch of the original project')  
 
   - On the pull request page, write a title and add optional information in the description. Click `Create pull request` button.
+
 **NOTE: Please remember to include a comprehensive commit message and an extended description, particularly if your changes involve more than just adding your details. This will provide a clearer understanding of the nature and purpose of your commit within the project.**
 
   **Your information can only be added once your pull request have been reviewed and merged only then would you be able to see you information on the live site!**
