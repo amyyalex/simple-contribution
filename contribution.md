@@ -84,6 +84,7 @@ _open in default browser_ and click on it.This project will open in your browser
 **Commit Changes**
 - To commit your changes, go back to the GitHub desktop app; you will see that your changes have been added automatically to the staging area which means that all the changes made are already saved.
 - Go ahead and _commit_ by filling in the _Summary_ field (the _description_ is optional). Add a short commit message explaining what you have changed e.g add my information and click the _Commit to main_ button.
+**P.S: Please ensure that, before committing any changes, you've thoroughly checked for any broken code and ensured it's error-free on your side.**
 
  ![Commit Changes](image/commit.PNG 'Commit your changes') 
 
@@ -106,6 +107,7 @@ _open in default browser_ and click on it.This project will open in your browser
   ![Open a Pull Request](image/pull-request.png 'You are requesting to merge your branch from your fork into the master branch of the original project')  
 
   - On the pull request page, write a title and add optional information in the description. Click `Create pull request` button.
+**NOTE: Please remember to include a comprehensive commit message and an extended description, particularly if your changes involve more than just adding your details. This will provide a clearer understanding of the nature and purpose of your commit within the project.**
 
   **Your information can only be added once your pull request have been reviewed and merged only then would you be able to see you information on the live site!**
 
