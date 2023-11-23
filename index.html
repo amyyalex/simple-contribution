@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -17,8 +18,7 @@
             <h3>Simple Contribution</h3>
         </a>
         <div>
-            <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github"
-                    id="github-icon"></i></a>
+            <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github" id="github-icon"></i></a>
         </div>
 
     </nav>
@@ -44,7 +44,7 @@
         <div class="cards">
             <!-- Template for contributor cards -->
             <template id="contributor-card">
-                <div class="card">
+                <div class="card" data-aos="fade-up">
                     <div class="card-details">
                         <h1></h1>
                         <h5></h5>
@@ -63,18 +63,17 @@
     </section>
 
     <section>
-        <div class="contribute">
+        <div class="contribute" data-aos="fade-up" data-aos-delay="300">
             <div class="contribute-container">
                 <h1>Thanks for your Contribution<i class="fa-solid fa-leaf-heart"></i></i></h1>
                 <hr class="line">
                 <p>I appreciate you for contributing and being part of this amazing project, I hope you feel proud of
                     yourself.<br /> Don't forget to leave a star!<i class="uil uil-star"></i></p>
-                <a href="https://github.com/amyyalex/simple-contribution" class="click-button1"
-                    target="_blank">Contribute here
+                <a href="https://github.com/amyyalex/simple-contribution" class="click-button1" target="_blank">Contribute here
                 </a>
 
             </div>
-       
+
     </section>
 
     <footer id="footer">
@@ -97,6 +96,10 @@
             
 
             <!-- <select name="lang" id="lang" class="lt">
+
+        <div class="lag">
+            <span class="lt">Language Translation</span>
+            <select name="lang" id="lang" class="lt">
                 <option class="ltopt" value="en" default>English</option>
                 <option class="ltopt" value="ch">Chinise</option>
                 <option class="ltopt" value="es">Spanish</option>
@@ -105,9 +108,13 @@
         <div class="copyright">
             Copyright &copy; Designed by Simple Contribution
         </div>
-        
+
     </footer>
     <script src="./app.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>

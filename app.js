@@ -10,7 +10,44 @@ const cardDetailsArray = [
     linkedin: "https://linkedin.com",
     email: "mailto:youremail@gmail.com",
   },
-{
+  {
+    name: "Carol Rocha Floro",
+    profession: "Back-end software developer",
+    quote: '"In the midst of winter, I found there was, within me, an invincible summer."</br> - Said by Albert Camus', // say annonymous if unknown
+    github: "https://github.com/carolrochafloro",
+    linkedin: "https://linkedin.com/in/carolina-rocha-floro",
+    email: "carolinarochaf@hotmail.com",
+  }
+  {
+    name: "Motlatsi Moea",
+    profession: "full stack Web developer",
+    quote: '"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?"</br> - Said by Erin Hanson',
+    twitter: "https://twitter.com/MotlatsiMo3a",
+    github: "https://github.com/motlatsimoea",
+    linkedin: "https://www.linkedin.com/in/motlatsi-moea-b33b25119/",
+    email: "mailto:motlatsi.moea@gmail.com",
+  },
+  {
+    name: "Silvia Muthangya",
+    profession: "DevOps Engineer",
+    quote: '"Do the best you can until you know better. Then when you know better, do better."</br> - Maya Angelou', // say annonymous if unknown
+    twitter: "https://twitter.com/SilviaMuthangya",
+    github: "https://github.com/musangisilvia",
+    linkedin: "https://linkedin.com/in/silvia-muthangya",
+    email: "mailto:muthangyasilvia@gmail.com",
+  },
+  {
+    name: "Dayo Orunsolu",
+    profession: "Google Cloud Engineer",
+    quote: '"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead" - Marjorie Pay Hinkley',
+    twitter: "https://twitter.com",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com/ORUNSOLU",
+    linkedin: "https://www.linkedin.com/in/dayo-o-44983b116",
+    email: "mailto:oruns@outlook.com"
+  },
+  {
     name: "Adeshina Olorogun",
     profession: "Software Engineer",
     quote: '"He who fails to plan has planned to fail"</br> - Said by', // say annonymous if unknown
@@ -31,6 +68,15 @@ const cardDetailsArray = [
     github: "https://github.com/felixdomingos1",
     linkedin: "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
     email: "Félix:felixsdomingos93@gmail.com",
+  },
+ {
+    name: " Elísio Massaqui",
+    profession: "Web FrontEnd & Mobile Developer",
+    quote: "When you believe so much in something, that thing becomes real. -Mr.Robot", // say annonymous if unknown
+    twitter: "https://twitter.com/elisio_massaqui",
+    github: "https://github.com/elisioMassaqui",
+    linkedin: "https://www.linkedin.com/in/el%C3%ADsio-massaqui-202635291/",
+    email: "elisiomassaqui8@gmail.com",
   },
   {
     name: "Anish Yakkanti",
@@ -178,6 +224,29 @@ const cardDetailsArray = [
     github: "https://github.com/caseycharleston",
     linkedin: "https://www.linkedin.com/in/caseycharleston/",
    },
+   {
+    name: "David Banitongwa",
+    profession: "Software Engineer",
+    quote: '"Each day is a new opportunity to become better"</br> - Unknown', // say annonymous if unknown
+    github: "https://github.com/Banitongwa7",
+    linkedin: "https://www.linkedin.com/in/david-banitongwa/",
+    email: "mailto:davidbanitongwa@gmail.com",
+   },
+   {
+    name: "Denis AKPAGNONITE",
+    profession: "Aspiring Site Reliability Engineer",
+    quote: '"Sic parvis magna - (Greatness from small beginnings)"</br> - Sir Francis Drake',
+    github: "https://github.com/denisakp",
+    twitter: "https://twitter.com/denis_Akp",
+    linkedin: "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
+    email: "mailto:akpagnonited@gmail.com",
+   },
+   {
+    name: "Kevin Crumbleton",
+    profession: "Software Engineer",
+    quote: "You learn more from failure than success - Unknown" ,
+    github: "https://github.com/murf-o"
+   }
 ];
 
 function createCard(details) {
