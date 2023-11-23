@@ -56,7 +56,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
   - Go ahead and name the branch whatever you want, to make it easier since you're to add your details, you can name it `your-name-information`.
   * Publish your new branch to GitHub
 
-  - This branch you have created separate from the master branch and it's the branch you'll be working with. Whatever you do, **make sure NOT to work on the branch branch**
+  - This branch you have created separate from the master branch and it's the branch you'll be working with. Whatever you do, **make sure NOT to work on the master branch**
 
 <h4>Step 4: Open the project with VS Code (or any editor of choice)</h4>
 

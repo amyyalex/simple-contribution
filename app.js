@@ -20,6 +20,15 @@ const cardDetailsArray = [
     email: "mailto:motlatsi.moea@gmail.com",
   },
   {
+    name: "Silvia Muthangya",
+    profession: "DevOps Engineer",
+    quote: '"Do the best you can until you know better. Then when you know better, do better."</br> - Maya Angelou', // say annonymous if unknown
+    twitter: "https://twitter.com/SilviaMuthangya",
+    github: "https://github.com/musangisilvia",
+    linkedin: "https://linkedin.com/in/silvia-muthangya",
+    email: "mailto:muthangyasilvia@gmail.com",
+  },
+  {
     name: "Dayo Orunsolu",
     profession: "Google Cloud Engineer",
     quote: '"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead" - Marjorie Pay Hinkley',
