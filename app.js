@@ -52,6 +52,15 @@ const cardDetailsArray = [
     linkedin: "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
     email: "Félix:felixsdomingos93@gmail.com",
   },
+ {
+    name: " Elísio Massaqui",
+    profession: "Web FrontEnd & Mobile Developer",
+    quote: "When you believe so much in something, that thing becomes real. -Mr.Robot", // say annonymous if unknown
+    twitter: "https://twitter.com/elisio_massaqui",
+    github: "https://github.com/elisioMassaqui",
+    linkedin: "https://www.linkedin.com/in/el%C3%ADsio-massaqui-202635291/",
+    email: "elisiomassaqui8@gmail.com",
+  },
   {
     name: "Anish Yakkanti",
     profession: "Texas A&M Student",
