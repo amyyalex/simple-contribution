@@ -232,6 +232,12 @@ const cardDetailsArray = [
     twitter: "https://twitter.com/denis_Akp",
     linkedin: "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
     email: "mailto:akpagnonited@gmail.com",
+   },
+   {
+    name: "Kevin Crumbleton",
+    profession: "Software Engineer",
+    quote: "You learn more from failure than success - Unknown" ,
+    github: "https://github.com/murf-o"
    }
 ];
 
