@@ -11,6 +11,16 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Nkunze Caleb",
+    profession: "Software Developer & IT",
+    quote: '"There is always a better side of everything."</br> - Said by Cank256', // say annonymous if unknown
+    twitter: "https://twitter.com/calebnkunze",
+    github: "https://github.com/Cank256",
+    linkedin: "https://linkedin.com/in/nkunzecaleb",
+    medium: "https://medium.com/@NkunzeCaleb",
+    email: "mailto:nkunzecaleb@gmail.com",
+  },
+  {
     name: "Motlatsi Moea",
     profession: "full stack Web developer",
     quote: '"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?"</br> - Said by Erin Hanson',
