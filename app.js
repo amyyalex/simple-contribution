@@ -249,7 +249,16 @@ const cardDetailsArray = [
     profession: "Software Engineer",
     quote: "You learn more from failure than success - Unknown" ,
     github: "https://github.com/murf-o"
-   }
+   },
+   {
+				name: "Emmanuel Okanlawon",
+				profession: "Software Engineer",
+				quote: '"Imagination is more important than knowledge"</br> - Albert Einstein',
+				twitter: "https://twitter.com/solarsoft0",
+				github: "https://github.com/solarsoft0",
+				linkedin: "https://linkedin.com/in/okanlawonema",
+				email: "mailto:okanlawonemmanuel41@gmail.com",
+		}
 ];
 
 function createCard(details) {
