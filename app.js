@@ -9,6 +9,7 @@ const cardDetailsArray = [
     github: "https://github.com",
     linkedin: "https://linkedin.com",
     email: "mailto:youremail@gmail.com",
+
   },
   {
     name: "Motlatsi Moea",
@@ -30,7 +31,7 @@ const cardDetailsArray = [
   },
   {
     name: "Dayo Orunsolu",
-    profession: "Google Cloud Engineer",
+    profession: "SQL || Cloud || DevOps",
     quote: '"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead" - Marjorie Pay Hinkley',
     twitter: "https://twitter.com",
     dribbble: "https://dribbble.com",
