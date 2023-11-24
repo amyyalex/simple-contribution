@@ -11,6 +11,14 @@ const cardDetailsArray = [
     email: "mailto:youremail@gmail.com",
   },
   {
+    name: "Carol Rocha Floro",
+    profession: "Back-end software developer",
+    quote: '"In the midst of winter, I found there was, within me, an invincible summer."</br> - Said by Albert Camus', // say annonymous if unknown
+    github: "https://github.com/carolrochafloro",
+    linkedin: "https://linkedin.com/in/carolina-rocha-floro",
+    email: "carolinarochaf@hotmail.com",
+  }
+  {
     name: "Motlatsi Moea",
     profession: "full stack Web developer",
     quote: '"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?"</br> - Said by Erin Hanson',
