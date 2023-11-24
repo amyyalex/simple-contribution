@@ -405,25 +405,11 @@ footer .copyright {
     padding:0.313px;
 }
 
-.lag {
+footer .lag {
     color: #fff;
     background: rgb(10, 3, 50);
-    margin-top: 10px /*1rem*/;
-    height: 250px;
-    text-align: center;
-    padding-top: 10px;
-    line-height: 50px;
-}
+    margin-top: 1rem;
 
-.imgcat {
-    display: flex;
-    justify-content: space-around;
-}
-
-#footerbg {
-    background-image: url('../image/background.png');
-    background-size: cover;
-    background-repeat:no-repeat;    
 }
 
 @media screen and (max-width: 760px) {
