@@ -72,7 +72,7 @@ const cardDetailsArray = [
     linkedin: "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
     email: "Félix:felixsdomingos93@gmail.com",
   },
- {
+  {
     name: " Elísio Massaqui",
     profession: "Web FrontEnd & Mobile Developer",
     quote: "When you believe so much in something, that thing becomes real. -Mr.Robot", // say annonymous if unknown
@@ -87,7 +87,7 @@ const cardDetailsArray = [
     quote: "What is better, to be born good or to overcome your evil nature through great effort?",
     github: "https://github.com/AnishYakk",
     linkedin: "https://linkedin.com/in/anish-yakkanti",
-    email: "mailto:yakkantian@gmail.com",                   
+    email: "mailto:yakkantian@gmail.com",
   },
   {
     name: "Abhi Joshi",
@@ -218,24 +218,24 @@ const cardDetailsArray = [
     quote: "You never meet same person again - Ashwin Dhangar",
     github: "https://github.com/MrAshwin2142",
     linkedin: "https://www.linkedin.com/in/ashwin-dhangar-btech24",
-   },
-   {
+  },
+  {
     name: "Casey Charleston",
     profession: "UT Austin Researcher + Teaching Assistant",
     quote: 'Program testing can be used to show the presence of bugs, but never to show their absence!</br> - Edsger W. Djikstra',
     twitter: "https://twitter.com/imcaseych",
     github: "https://github.com/caseycharleston",
     linkedin: "https://www.linkedin.com/in/caseycharleston/",
-   },
-   {
+  },
+  {
     name: "David Banitongwa",
     profession: "Software Engineer",
     quote: '"Each day is a new opportunity to become better"</br> - Unknown', // say annonymous if unknown
     github: "https://github.com/Banitongwa7",
     linkedin: "https://www.linkedin.com/in/david-banitongwa/",
     email: "mailto:davidbanitongwa@gmail.com",
-   },
-   {
+  },
+  {
     name: "Denis AKPAGNONITE",
     profession: "Aspiring Site Reliability Engineer",
     quote: '"Sic parvis magna - (Greatness from small beginnings)"</br> - Sir Francis Drake',
@@ -243,22 +243,22 @@ const cardDetailsArray = [
     twitter: "https://twitter.com/denis_Akp",
     linkedin: "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
     email: "mailto:akpagnonited@gmail.com",
-   },
-   {
+  },
+  {
     name: "Kevin Crumbleton",
     profession: "Software Engineer",
-    quote: "You learn more from failure than success - Unknown" ,
+    quote: "You learn more from failure than success - Unknown",
     github: "https://github.com/murf-o"
-   },
-   {
-				name: "Emmanuel Okanlawon",
-				profession: "Software Engineer",
-				quote: '"Imagination is more important than knowledge"</br> - Albert Einstein',
-				twitter: "https://twitter.com/solarsoft0",
-				github: "https://github.com/solarsoft0",
-				linkedin: "https://linkedin.com/in/okanlawonema",
-				email: "mailto:okanlawonemmanuel41@gmail.com",
-		}
+  },
+  {
+    name: "Emmanuel Okanlawon",
+    profession: "Software Engineer",
+    quote: '"Imagination is more important than knowledge"</br> - Albert Einstein',
+    twitter: "https://twitter.com/solarsoft0",
+    github: "https://github.com/solarsoft0",
+    linkedin: "https://linkedin.com/in/okanlawonema",
+    email: "mailto:okanlawonemmanuel41@gmail.com",
+  }
 ];
 
 function createCard(details) {
@@ -286,9 +286,8 @@ function createCard(details) {
   // Iterate through the social media platforms and add icons if links are provided
   for (const platform of socialMedia) {
     if (details[platform.key]) {
-      socialIcons.innerHTML += `<a href="${
-        details[platform.key]
-      }" target="_blank"><i class="${platform.icon}"></i></a>`;
+      socialIcons.innerHTML += `<a href="${details[platform.key]
+        }" target="_blank"><i class="${platform.icon}"></i></a>`;
     }
   }
 
