@@ -19,9 +19,18 @@
         </a>
         <div>
             <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github"
-                    id="github-icon"></i></a>
+                id="github-icon"></i></a>
         </div>
-
+        <div id="google_translate_element"></div>
+        <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script>
+            function googleTranslateElementInit(){
+                new google.translate.TranslateElement(
+                    {pageLanguage: 'en'},
+                    'google_translate_element'
+                );
+            }
+        </script>
     </nav>
     <section>
         <div class="banner">
@@ -79,16 +88,8 @@
     </section>
 
     <footer id="footer">
-        <div class="lag">
-            <span class="lt">Language Translation</span> 
-            <select name="lang" id="lang" class="lt">
-                <option class="ltopt" value="en" default>English</option>
-                <option class="ltopt" value="ch">Chinise</option>
-                <option class="ltopt" value="es">Spanish</option>
-            </select>
-        </div>
         <div class="copyright">
-            Copyright &copy; Designed by Simple Contribution
+            Copyright &copy; Designed 2022 by Simple Contribution
         </div>
         
     </footer>
