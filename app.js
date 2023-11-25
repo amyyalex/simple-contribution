@@ -12,6 +12,17 @@ const cardDetailsArray = [
 
   },
   {
+    name: "Sylvester Sergeant",
+    profession: "IT Specialist/ System Admin",
+    quote: '"The future belongs to those who believe in the beauty of their dreams."</br> - Said by Eleanor Roosevelt', // say annonymous if unknown
+    twitter: "https://twitter.com/Posture_Pace",
+    medium: "https://medium.com/@bytesizebasics",
+    github: "https://github.com/sylvesterserg",
+    linkedin: "https://www.linkedin.com/in/sylvester-sergeant/",
+    email: "mailto:Sylvester.Sergeant@gmail.com",
+
+  },
+  {
     name: "Nkunze Caleb",
     profession: "Software Developer & IT",
     quote: '"There is always a better side of everything."</br> - Said by Cank256', // say annonymous if unknown
