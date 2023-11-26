@@ -12,6 +12,19 @@ const cardDetailsArray = [
 
   },
   {
+
+    name: "Mounssif nuuX BOUHLAOUI",
+    profession: "FrontEnd | BackEnd | DevOps",
+    quote: '"Be Water My Friend"</br> - Bruce Lee', // say annonymous if unknown
+    twitter: "https://twitter.com/nuux_tv",
+    dribbble: "https://dribbble.com",
+    behance: "https://behance.com",
+    github: "https://github.com/nuuxcode",
+    linkedin: "https://www.linkedin.com/in/mounssif-bouhlaoui-25934570/",
+    email: "mailto:cv.bouhlaoui@gmail.com",
+    
+  },
+  {
     name: "Sylvester Sergeant",
     profession: "IT Specialist/ System Admin",
     quote: '"The future belongs to those who believe in the beauty of their dreams."</br> - Said by Eleanor Roosevelt', // say annonymous if unknown
