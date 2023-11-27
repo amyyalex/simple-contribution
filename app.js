@@ -282,6 +282,15 @@ const cardDetailsArray = [
     github: "https://github.com/solarsoft0",
     linkedin: "https://linkedin.com/in/okanlawonema",
     email: "mailto:okanlawonemmanuel41@gmail.com",
+  },
+  {
+    name: "Glenn Tedd Onayngo",
+    profession: "Frontend Engineer",
+    quote: '"A poor man has no wisdom"</br> - Daniel Arap Moi',
+    twitter: "https://twitter.com/legendary_tedd",
+    github: "https://github.com/GlennOnyango",
+    linkedin: "https://www.linkedin.com/in/glenn-onyango-50077a178/",
+    email: "mailto:glenntedd@gmail.com",
   }
 ];
 
