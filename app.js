@@ -1,17 +1,16 @@
 const cardDetailsArray = [
   {
-    name: "Your Name",
-    profession: "Your Profission",
-    quote: '"Your favorite quote"</br> - Said by', // say annonymous if unknown
-    twitter: "https://twitter.com",
-    dribbble: "https://dribbble.com",
-    behance: "https://behance.com",
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
-    email: "mailto:youremail@gmail.com",
+    name: "Namsi Lydia",
+    profession: "Software Engineer",
+    quote: '"The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."</br> - Said by Paulo Coelho;', // say annonymous if unknown
+    twitter: "https://twitter.com/namsilydia",
+    dev:"https://dev.to/namsi",
+    github: "https://github.com/namsi-lia",
+    linkedin: "https://www.linkedin.com/in/namsi-lydia-a8713b175/",
+    email: "mailto:namsilydia27@gmail.com",
 
   },
-  {
+  { 
 
     name: "Mounssif nuuX BOUHLAOUI",
     profession: "FrontEnd | BackEnd | DevOps",
