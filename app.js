@@ -41,12 +41,10 @@ fetch('./cardDetails.json')
   .then(response => response.json())
   .then(data => {
     cardDetailsArray = data.cardDetails
+    for (const details of cardDetailsArray) {
+      const card = createCard(details);
+      cardsContainer.appendChild(card);
+    }
+
   })
   .catch(error => console.error('Error fetching JSON:', error));
-
-
-
-for (const details of cardDetailsArray) {
-  const card = createCard(details);
-  cardsContainer.appendChild(card);
-}
