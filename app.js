@@ -37,6 +37,15 @@ function createCard(details) {
 const cardsContainer = document.querySelector(".cards");
 
 
+fetch('./cardDetails.json')
+  .then(response => response.json())
+  .then(data => {
+    cardDetailsArray = data.cardDetails
+  })
+  .catch(error => console.error('Error fetching JSON:', error));
+
+
+
 for (const details of cardDetailsArray) {
   const card = createCard(details);
   cardsContainer.appendChild(card);
