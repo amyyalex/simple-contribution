@@ -22,7 +22,7 @@ const cardDetailsArray = [
     github: "https://github.com/nuuxcode",
     linkedin: "https://www.linkedin.com/in/mounssif-bouhlaoui-25934570/",
     email: "mailto:cv.bouhlaoui@gmail.com",
-    
+
   },
   {
     name: "Sylvester Sergeant",
@@ -291,7 +291,16 @@ const cardDetailsArray = [
     github: "https://github.com/GlennOnyango",
     linkedin: "https://www.linkedin.com/in/glenn-onyango-50077a178/",
     email: "mailto:glenntedd@gmail.com",
-  }
+  },
+  {
+    name: "Connie Hu",
+    profession: "Aspiring Creative Technologist",
+    quote: '"Mistakes are proof that you are trying."</br> - Jennifer Lim',
+    github: "https://github.com/ch3926",
+    linkedin: "https://www.linkedin.com/in/connie-hu-24957b269/",
+    email: "mailto:ch3926@nyu.edu",
+
+  },
 ];
 
 function createCard(details) {
