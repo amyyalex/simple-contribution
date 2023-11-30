@@ -1,4 +1,5 @@
 {
+
     "cardDetails": [
       {
         "name": "Your Name",
@@ -291,7 +292,16 @@
         "github": "https://github.com/GlennOnyango",
         "linkedin": "https://www.linkedin.com/in/glenn-onyango-50077a178/",
         "email": "mailto:glenntedd@gmail.com"
+      },
+      {
+        "name": "Abraham O. Olagunju",
+        "profession": "Backend Developer",
+        "quote": "\"Oops! MySQL has gone away.🙊\"</br> - Anonymous",
+        "twitter": "https://twitter.com/OluwaninsolaAO",
+        "github": "https://github.com/OluwaninsolaAO",
+        "linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
+        "email": "mailto:olagunjusola070@gmail.com"
       }
     ]
   }
-  
+
