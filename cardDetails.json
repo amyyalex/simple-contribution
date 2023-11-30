@@ -294,6 +294,21 @@
         "email": "mailto:glenntedd@gmail.com"
       },
       {
+        "name": "Aaron Muti",
+        "profession": "Data Engineer",
+        "quote": "\"Sangala Waya\"</br> - Markus Wings",
+        "github": "https://github.com",
+        "email": "mailto:aaron@forestdigitalacademy.com"
+      },
+      {
+        "name": "Carol Rocha Floro",
+        "profession": "Backend Software developer",
+        "quote": "\"In the midst of winter, I found ther was, within me, an invincible summer.\"</br> - Albert Camus",
+        "github": "https://github.com/carolrochafloro",
+        "linkedin": "https://linkedin.com/In/carolina-rocha-floro",
+        "email": "mailto:carolinarochaf@hotmail.com"
+      },
+      {
         "name": "Abraham O. Olagunju",
         "profession": "Backend Developer",
         "quote": "\"Oops! MySQL has gone away.🙊\"</br> - Anonymous",
