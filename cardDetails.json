@@ -2,15 +2,13 @@
 
     "cardDetails": [
       {
-        "name": "Your Name",
-        "profession": "Your Profession",
-        "quote": "\"Your favorite quote\"</br> - Said by",
-        "twitter": "https://twitter.com",
-        "dribbble": "https://dribbble.com",
-        "behance": "https://behance.com",
-        "github": "https://github.com",
-        "linkedin": "https://linkedin.com",
-        "email": "mailto:youremail@gmail.com"
+        "name": "Clifford Mapesa",
+        "profession": "Software Engineer",
+        "quote": "\"Just because you've been bumped up to first chair in the orchestra doesn't mean you can compose a symphony \"</br> - Said by - Raymond Reddington",
+        "twitter": "https://twitter.com/droffilcasepam1",        
+        "github": "https://github.com/droffilc1",
+        "linkedin": "https://www.linkedin.com/in/clifford-mapesa-a98601216/",
+        "email": "mailto:cliffordmapesa8@gmail.com"
       },
       {
         "name": "Amin Vahdani",
