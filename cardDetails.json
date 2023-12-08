@@ -325,7 +325,18 @@
         "github": "https://github.com/OluwaninsolaAO",
         "linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
         "email": "mailto:olagunjusola070@gmail.com"
-      }
+      },
+      {
+        "name": "Pedro Alberto",
+        "profession": "Software Developer",
+        "quote": "\"If you wish to make an apple pie from scratch, you must first invent the universe\"</br> - Carl Sagan",
+        "twitter": "https://twitter.com/edlavio_",
+        "dribbble": "https://dribbble.com/edlavio",
+        "behance": "https://behance.com/edlavio",
+        "github": "https://github.com/Edlavio",
+        "linkedin": "https://linkedin.com/in/edlavio",
+        "email": "mailto:edlavioe@gmail.com"
+      },
     ]
   }
 
