@@ -9,7 +9,7 @@ This is a very simple project to help first-time contributors to easily particip
 
 ### Who can contribute?
 
-**This project is for both developers and non developers**
+This project is for both developers and non developers.
 Anyone can contribute to this project, whether or not you are a developer, as long as you want to contribute to an open source project.
 This is intended for complete beginners and also for those with a little more experience who want to make their first open source contribution and gain more experience.
 
