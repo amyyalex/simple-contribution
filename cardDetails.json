@@ -29,7 +29,6 @@
       "linkedin": "https://www.linkedin.com/in/j-m-arias-542a74238/",
       "email": "mailto:themanuarias@gmail.com"
     },
-
     {
       "name": "Mounssif nuuX BOUHLAOUI",
       "profession": "FrontEnd | BackEnd | DevOps",
@@ -332,6 +331,38 @@
       "github": "https://github.com/OluwaninsolaAO",
       "linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
       "email": "mailto:olagunjusola070@gmail.com"
+    }, 
+    {
+      "name": "Pedro Alberto",
+      "profession": "Software Developer",
+      "quote": "\"If you wish to make an apple pie from scratch, you must first invent the universe\"</br> - Carl Sagan",
+      "twitter": "https://twitter.com/edlavio_",
+      "dribbble": "https://dribbble.com/edlavio",
+      "behance": "https://behance.com/edlavio",
+      "github": "https://github.com/Edlavio",
+      "linkedin": "https://linkedin.com/in/edlavio",
+      "email": "mailto:edlavioe@gmail.com"
+    },
+    {
+      "name": "Ezeliora Godsfavour",
+      "profession": "Software Developer || Technical writer || Open Source Contributor || Community Manager",
+      "quote": "\"For me, feminism is a movement for which the end goal is to make itself no longer needed.\"</br> - Chimamanda Ngozi Adichie",
+      "twitter": "https://twitter.com/phavourshelby",
+      "dribbble": "https://phavourcodesportfolio.vercel.app/",
+      "behance": "https://www.educative.io/profile/view/5820460445466624",
+      "github": "https://github.com/favy-codez",
+      "linkedin": "https://www.linkedin.com/in/ezeliora-favour-8343691bb/",
+      "email": "ezeliorafavour81@gmail.com"
+    },
+    {
+      "name": "Elisa Capololo",
+      "profession": "Frontend Developer, Technical Writer, Community Manager",
+      "quote": "\"If a man does not know which port he is heading for, no wind will be favorable to him.\"</br> - Seneca",
+      "twitter": "https://twitter.com/elisacapololo",
+      "github": "https://github.com/ElisaCapololo",
+      "linkedin": "https://www.linkedin.com/in/elisacapololo/",
+      "email": "mailto:elisacapololo2017@gmail.com"
     }
   ]
 }
+
