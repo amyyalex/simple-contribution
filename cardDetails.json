@@ -362,7 +362,17 @@
       "github": "https://github.com/ElisaCapololo",
       "linkedin": "https://www.linkedin.com/in/elisacapololo/",
       "email": "mailto:elisacapololo2017@gmail.com"
-    }, {
+    },
+    {
+      "name": "Hadia Djadallah",
+      "profession": "Frontend Developer || open source contributor",
+      "quote": "\"The moon is a loyal companion. It never leaves. It's always there, watching, steadfast, knowing us in our light and dark moments.\"</br> - Tahereh mafi",
+      "twitter": "https://twitter.com/liliumorion",
+      "github": "https://github.com/liliumorion",
+      "linkedin": "https://www.linkedin.com/in/hadia-djadallah/",
+      "email": "mailto:hadiadjd@gmail.com"
+    }, 
+    {
       "name": "Haram Yoon",
       "profession": "Software Engineer and Student",
       "quote": "\"If you want to look good in front of thousands, you have to outwork thousands in front of nobody...\"</br> - Damian Lillard",
@@ -370,6 +380,7 @@
       "github": "https://github.com/haram082",
       "linkedin": "https://www.linkedin.com/in/haram-yoon-b359511b0/",
       "email": "hyhn2022@mymail.pomona.eud"
-    }  ]
+    }  
+  ]
 }
 
