@@ -20,6 +20,23 @@
       "email": "mailto:vivienogoun1@gmail.com"
     },
     {
+      "name": "Chisom",
+      "profession": "Technical Writer, QA Engineer",
+      "quote": "\"To die is gain\"</br> - Said by Christ",
+      "twitter": "https://x.com/Cathiecodes?t=TRFQdl8gxUaVMu0hfwg3aw&s=09",
+      "github": "https://github.com/catherine-chisom",
+      "linkedin": "https://linkedin.com/in/chisom-catherine-dick",
+      "email": "mailto:chisomdick2@gmail.com"
+    },
+    {
+      "name": "YoTi",
+      "profession": "Full-Stack Developer",
+      "quote": "\"Code is like humor. When you have to explain it, it’s bad\"</br> - Said by Cory House",
+      "twitter": "https://twitter.com/YoTi1412",
+      "github": "https://github.com/YoTi1412",
+      "email": "mailto:yasserrafai5@gmail.com"
+    },
+    {
       "name": "Amin Vahdani",
       "profession": "Python_DevOps and Sys_Admin",
       "quote": "\"Imagination is more important than knowledge\"</br> by - Albert Einstein",
