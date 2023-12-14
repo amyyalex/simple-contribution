@@ -12,6 +12,14 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Vivien Ogoun",
+      "profession": "Full Stack Web Developer",
+      "quote": "\"Knowledge is power\"</br> - Francis Bacon",
+      "github": "https://github.com/vivienogoun",
+      "linkedin": "https://www.linkedin.com/in/vivien-ogoun",
+      "email": "mailto:vivienogoun1@gmail.com"
+    },
+    {
       "name": "Amin Vahdani",
       "profession": "Python_DevOps and Sys_Admin",
       "quote": "\"Imagination is more important than knowledge\"</br> by - Albert Einstein",
@@ -331,7 +339,7 @@
       "github": "https://github.com/OluwaninsolaAO",
       "linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
       "email": "mailto:olagunjusola070@gmail.com"
-    }, 
+    },
     {
       "name": "Pedro Alberto",
       "profession": "Software Developer",
@@ -371,7 +379,7 @@
       "github": "https://github.com/liliumorion",
       "linkedin": "https://www.linkedin.com/in/hadia-djadallah/",
       "email": "mailto:hadiadjd@gmail.com"
-    }, 
+    },
     {
       "name": "Haram Yoon",
       "profession": "Software Engineer and Student",
@@ -380,7 +388,6 @@
       "github": "https://github.com/haram082",
       "linkedin": "https://www.linkedin.com/in/haram-yoon-b359511b0/",
       "email": "hyhn2022@mymail.pomona.eud"
-    }  
+    }
   ]
 }
-
