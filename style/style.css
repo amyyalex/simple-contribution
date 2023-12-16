@@ -264,7 +264,38 @@ section {
     margin-bottom: 0;
     
 }
-
+/*This is a form style for desktop*/
+.discription-title{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.search-section{  
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.search-section .search-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 330px;
+    border: solid 1px black;    
+    border-radius: 9px;
+}
+.search-section input{
+    font-family: 'Poppins';
+    border-radius: 9px;
+    padding: 4px;
+    width: 250px;
+    height: 40px;   
+}
+.search-section input:focus{
+    font-size: 14px;  
+}
+.search-section i{
+    font-size: 30px;
+}
 /*card section styling*/
 .card {
     display: flex;
@@ -484,5 +515,13 @@ footer .lag {
     .card-details p {
         font-size: 28px;
         margin-bottom: 2rem;
+    }
+
+    /*This is a form style for desktop*/
+    .discription-title{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
