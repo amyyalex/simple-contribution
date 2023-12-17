@@ -1,6 +1,7 @@
 // initialization of cardDetailsArray
 let cardDetailsArray;
-
+const cardsPerPage = 10;
+let noOfCards;
 function createCard(details) {
   const cardTemplate = document.getElementById("contributor-card");
   const cardClone = cardTemplate.content.cloneNode(true);
@@ -83,8 +84,8 @@ function research() {
 }
 
 
-
 const cardsContainer = document.querySelector(".cards");
+const paginationContainer = document.querySelector(".pagination");
 const inputSearch = document.getElementById("search");
 
 inputSearch.addEventListener("input", research);
@@ -93,9 +94,43 @@ fetch("./cardDetails.json")
   .then((response) => response.json())
   .then((data) => {
     cardDetailsArray = data.cardDetails;
-    for (const details of cardDetailsArray) {
-      const card = createCard(details);
-      cardsContainer.appendChild(card);
+    noOfCards = cardDetailsArray.length;
+    let noOfPages = Math.ceil(noOfCards / cardsPerPage);
+    cardsContainer.style.display = 'none';
+    displayPages(1);   
+    for (let j = 1; j <= noOfPages; j++) {
+      const pageTemplate = document.getElementById("pages");
+      const pageClone = pageTemplate.content.cloneNode(true);
+      pageClone.querySelector(".page-details p").textContent = j;
+      pageClone.querySelector(".page-details").addEventListener("click", function() {
+        cardsContainer.innerHTML = '';
+        displayPages(j); 
+        setPageStyle(j);   
+        window.scrollTo({ top: 560, behavior: 'smooth' });
+      });
+      paginationContainer.appendChild(pageClone);
     }
   })
   .catch((error) => console.error("Error fetching JSON:", error));
+function displayPages(j){
+   for (let i = (j - 1) * cardsPerPage; i < j * cardsPerPage && i < noOfCards; i++) {
+          let details = cardDetailsArray[i];
+          const card = createCard(details);
+          cardsContainer.appendChild(card);
+        }
+   cardsContainer.style.display = 'flex';
+}
+function setPageStyle(selectedPage) {
+  const allPages = document.querySelectorAll(".page-details p");
+  allPages.forEach((page, index) => {
+    const isSelected = index + 1 === selectedPage;
+
+    if (page && page.classList && page.style) {
+      if (isSelected) {
+        page.classList.add("selected-page");
+      } else {
+        page.classList.remove("selected-page");
+      }
+    }
+  });
+}
