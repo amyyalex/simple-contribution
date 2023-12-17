@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Vincent Kimani",
+      "profession": "Frontend Software Engineer || Technical writer || Open Source Contributor",
+      "quote": "\"In real open source, you have the right to control your own destiny.\"</br> - Linus Torvalds",
+      "twitter": "https://twitter.com/theevincekimani",
+      "github": "https://github.com/Vince-arch",
+      "linkedin": "https://www.linkedin.com/in/vincent-kimani/",
+      "email": "mailto:vincekimani006@gmail.com"
+    },
+    {
       "name": "Vivien Ogoun",
       "profession": "Full Stack Web Developer",
       "quote": "\"Knowledge is power\"</br> - Francis Bacon",
