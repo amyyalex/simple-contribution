@@ -20,14 +20,14 @@
         </a>
         <div>
             <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github"
-                id="github-icon"></i></a>
+                    id="github-icon"></i></a>
         </div>
         <div id="google_translate_element"></div>
         <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         <script>
-            function googleTranslateElementInit(){
+            function googleTranslateElementInit() {
                 new google.translate.TranslateElement(
-                    {pageLanguage: 'en'},
+                    { pageLanguage: 'en' },
                     'google_translate_element'
                 );
             }
@@ -53,7 +53,8 @@
         <div class="discription-title">
             <div class="detail-title">
                 <h2>Add your Contribution!</h2>
-                <p>Add your different social media platform and get other contributors to see your work and follow you!</p>
+                <p>Add your different social media platform and get other contributors to see your work and follow you!
+                </p>
             </div>
             <div class="search-section">
                 <div class="search-form">
@@ -62,24 +63,33 @@
                 </div>
             </div>
         </div>
-        
-        <div class="cards">
-            <!-- Template for contributor cards -->
-            <template id="contributor-card">
-                <div class="card" data-aos="fade-up">
-                    <div class="card-details">
-                        <h1></h1>
-                        <h5></h5>
-                        <p></p>
-                    </div>
-                    <div class="social-icon">
-                        <!-- Social icons will be added here -->
-                    </div>
-                    <p class="connect">Let's Connect!</p>
+        <!-- Template for contributor cards -->
+        <template id="contributor-card">
+            <div class="card" data-aos="fade-up">
+                <div class="card-details">
+                    <h1></h1>
+                    <h5></h5>
+                    <p></p>
                 </div>
+                <div class="social-icon">
+                    <!-- Social icons will be added here -->
+                </div>
+                <p class="connect">Let's Connect!</p>
+            </div>
 
-            </template>
-            <!-- END OF TEMPLATE -->
+        </template>
+        <!-- END OF TEMPLATE -->
+        <div class="cards">
+
+        </div>
+        <!-- Template for pagination -->
+        <template id="pages">
+            <div class="page-details">
+                <p class=""></p>
+            </div>
+        </template>
+        <!-- END OF TEMPLATE -->
+        <div class="pagination">
 
         </div>
     </section>
@@ -96,20 +106,20 @@
                 </a>
 
             </div>
-       
+
     </section>
 
     <footer id="footer">
         <div class="copyright">
             Copyright &copy; Designed 2022 by Simple Contribution
         </div>
-        
+
     </footer>
     <script src="./app.js"></script>
     <script src="./banner.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
-      AOS.init();
+        AOS.init();
     </script>
 </body>
 

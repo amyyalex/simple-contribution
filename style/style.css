@@ -386,7 +386,26 @@ section {
     box-shadow: -5px -8px 0 rgb(10, 3, 50),
         -5px 8px 0 rgb(10, 3, 50);
 }
-
+/* pagination section style */
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+.page-details > p{
+  cursor: pointer;
+  padding: 8px 15px;
+  border: 1px solid rgb(10, 3, 50);
+  border-radius: 4px;
+  margin: 10px;
+}
+.page-details>p:hover{
+    background-color: rgba(10, 3, 50, 0.227);
+}
+.selected-page {
+    background-color: rgba(10, 3, 50, 0.227);
+}
 /*help section style*/
 .contribute {
     display: flex;
