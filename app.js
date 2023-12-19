@@ -60,7 +60,7 @@ function research() {
     resultArray.sort((a, b) => a.name.localeCompare(b.name));
 
     const filteredResults = resultArray.filter(
-      (details) => details.name.toLowerCase().includes(searchValue)
+      (details) => details.name.toLowerCase().startsWith(searchValue.toLowerCase())
     );
 
     if (filteredResults.length > 0) {
