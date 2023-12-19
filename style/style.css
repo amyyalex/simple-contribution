@@ -272,7 +272,7 @@ section {
 .search-section{  
     display: flex;
     flex-direction: column;
-    justify-content: end;
+    justify-content: center;
 }
 .search-section .search-form{
     display: flex;
@@ -488,7 +488,15 @@ footer .lag {
     margin-top: 1rem;
 
 }
-
+@media screen and (max-width: 1100px){
+/* This is a form style for desktop */
+    .discription-title {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
 @media screen and (max-width: 760px) {
     .navbar h3 {
         font-size: 30px;
@@ -535,12 +543,5 @@ footer .lag {
         font-size: 28px;
         margin-bottom: 2rem;
     }
-
-    /*This is a form style for desktop*/
-    .discription-title{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
+    
 }
