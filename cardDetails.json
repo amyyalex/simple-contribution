@@ -1,15 +1,13 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Sandeep Dewangan",
+      "profession": "Web Developer",
+      "quote": "It's Not a Bug, It's a Feature",
+      "twitter": "https://twitter.com/sandeep15d",
+      "github": "https://github.com/sandy15d",
+      "linkedin": "https://www.linkedin.com/in/sandy15d/",
+      "email": "mailto:sandeepdewangan2012@gmail.com"
     },
     {
       "name": "Jim Hatley",
