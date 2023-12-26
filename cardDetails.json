@@ -1,6 +1,17 @@
 {
   "cardDetails": [
     {
+      "name": "Your Name",
+      "profession": "Your Profession",
+      "quote": "\"Your favorite quote\"</br> - Said by",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "Sandeep Dewangan",
       "profession": "Web Developer",
       "quote": "It's Not a Bug, It's a Feature",
@@ -15,7 +26,6 @@
       "github": "https://github.com/jhatley75",
       "email": "jimdhatley@gmail.com"
     },
-
     {
       "name": "Vincent Dushime",
       "profession": "Software Engineer | computer repair technician",
