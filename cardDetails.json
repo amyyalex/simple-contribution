@@ -19,6 +19,14 @@
       "linkedin": "https://www.linkedin.com/in/sabeha-k321/",
       "email": "mailto:sabehakhan321@gmail.com"
     },
+      "name": "Tony B. Nya",
+      "profession": "Software Engineer",
+      "quote": "\"The only way that we can justify privileges is by solving the world's biggest problems, and by doing hard things. But of all the hard things we have to do, the most difficult thing is to keep going.\"</br> - Fred Swaniker",
+      "instagram": "https://www.instagram.com/tonybnya/",
+      "github": "https://github.com/tonybnya",
+      "linkedin": "https://www.linkedin.com/in/tonybnya/",
+      "email": "tonybnya@gmail.com"
+    },
     {
       "name": "Sandeep Dewangan",
       "profession": "Web Developer",
@@ -483,6 +491,15 @@
       "github": "https://github.com/haram082",
       "linkedin": "https://www.linkedin.com/in/haram-yoon-b359511b0/",
       "email": "hyhn2022@mymail.pomona.eud"
+    },
+    {
+      "name": "Penn Junior",
+      "profession": "FullStack Developer",
+      "quote": "\"Fullstack developers are the architects of digital possibilities, seamlessly bridging the gap between front-end magic and back-end wizardry.\"</br> - Anonymous",
+      "instagram": "https://www.instagram.com/malonepenn/",
+      "github": "https://github.com/Payne680",
+      "linkedin": "https://www.linkedin.com/in/penn-junior/",
+      "email": "pennjunior680@gmail.com"
     }
   ]
 }
