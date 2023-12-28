@@ -19,7 +19,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 ## Let the contribution begin!
 
-#### Using GitHub Desktop.
+**<span style="color:red;">Using GitHub Desktop.</span>**
 
 <h4>Step 1: Fork this repository</h4>
 
@@ -122,7 +122,7 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 
 ##### YAY, ALL DONE! GUESS WHO JUST CONTRIBUTED TO AN OPEN SOURCE PROJECT ON GITHUB...YOU!!!👏
 
-#### Using git bash (git terminal).
+**<span style="color:red;">Using git bash (git terminal).</span>**
 
 This steps can also be used if you're using VS Code terminal.
 
