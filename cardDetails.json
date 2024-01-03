@@ -545,7 +545,7 @@
       "linkedin": "https://www.linkedin.com/in/riccardi-dalexis/",
       "email": "rod7760@rit.edu"
     },
-      {
+    {
       "name": "Dapo Adedire",
       "profession": "Software Developer",
       "quote": "\"If my mind can conceive it, if my heart can believe it--then I can achieve it.\"</br> - Muhammad Ali",
@@ -553,16 +553,14 @@
       "github": "https://github.com/dapoadedire",
       "linkedin": "https://linkedin.com/in/dapoadedire",
       "email": "mailto:adedireadedapo19@gmail.com"
-
-    }
-     {
+    },
+    {
       "name": "Tataw Clarkson",
       "profession": "Student",
       "quote": "\"Life is easy when you live it the hard way\"</br> - Said by Dave Kekich",
       "github": "https://github.com/tataw-cl",
       "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
       "email": "tatawclarkson@gmail.com"
-
     }
   ]
 }
