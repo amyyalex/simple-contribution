@@ -13,6 +13,16 @@
 
     },
     {
+      "name": "Brian Chebon",
+      "profession": "Software Developer | Web Dev",
+      "quote": "\"Welcome to my profile! I am a passionate software developer with expertise in web development. I love turning ideas into functional and user-friendly applications. Explore my journey in the world of coding and technology.",
+      "twitter": "https://twitter.com/Chebon254",
+      "github": "https://github.com/Chebon-breezy",
+      "linkedin": "https://www.linkedin.com/in/brianchebon",
+      "email": "mailto:brynnlamura@gmail.com"
+
+    },
+    {
       "name": "Kelvin OKumu",
       "profession": "Data Analyst | Instructor",
       "quote": "\"Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.\"</br> - Said by Edward Snowden",
