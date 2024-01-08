@@ -1,0 +1,103 @@
+.banner{
+    animation: animatecolor 8s linear infinite;
+
+    }
+
+    @keyframes animatecolor {
+        0% {
+            filter: hue-rotate(0deg);
+        }
+        100% {
+            filter: hue-rotate(360deg);
+        }
+    }
+    .banner .box {
+         display:flex;
+         height:800px;
+         width: 1250px;
+         position: absolute;
+         margin-top: 20rem;
+         margin-left:20rem;
+      opacity: 0.8;
+
+}
+
+    .banner .box .infi {
+        position: relative;
+        height: 500px;
+        width: 500px;
+        margin:0 -12.5px;
+      
+    }
+
+    .banner .box .infi span {
+        position: absolute;
+        left:0;
+        right:0;
+        height: 100%;
+        width: 100%;
+        transform: rotate(calc(18deg * var(--i)));
+        
+    }
+
+    .banner .box .infi span::before {
+        content: '';
+        position: absolute;
+        right: 0;
+        top: calc(50% - 12.5px);
+        width: 25px;
+        height: 25px;
+        background-color: rgba(255, 255, 255);
+        border-radius: 50%;
+        box-shadow: 0 0 10px #15b5ff50,
+         0 0 20px #15b5ff50, 
+         0 0 40px #15b5ff50,
+          0 0 60px #15b5ff50, 
+          0 0 80px #15b5ff50, 
+          0 0 100px #15b5ff50;
+        transform: scale(0.1);
+        animation: animate 4s infinite;
+        animation-delay: calc(0.1s * var(--i));
+        
+    }
+
+    @keyframes animate {
+        0% {
+            transform: scale(1);
+        }
+        50%, 100% {
+            transform: scale(0.1);
+        }
+    }
+
+    .banner .box .infi:nth-child(2) {
+        transform: rotate(-180deg);
+    }
+
+    .banner .box .infi:nth-child(2) span::before {
+        animation-delay: calc(-0.1s * var(--i));
+    }
+
+
+    @media screen and (max-width:760px) {
+       /* Add this inside your existing media query for smaller screens */
+        .banner .box {
+            width: 90%; /* Adjust the width of the box for smaller screens */
+            
+             margin:2rem auto;
+             margin-top: 20rem;
+             /* Center the box and add some vertical spacing */
+        }
+    
+        .box .infi {
+            height: 120px; /* Adjust the height of the infi for smaller screens */
+            width: 120px; /* Adjust the width of the infi for smaller screens */
+            margin: 0 -3px; /* Adjust margins for spacing between elements */
+        }
+    
+        .box .infi span::before {
+            top: calc(50% - 3px); /* Adjust the top position for smaller screens */
+            width: 6px; /* Adjust the width of the dots for smaller screens */
+            height: 6px; /* Adjust the height of the dots for smaller screens */
+        }
+    }
