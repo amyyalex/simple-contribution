@@ -113,20 +113,22 @@ section {
     }
 }
 
-.banner h1 {
-    font-size: 3.5rem;
+.banner h1{
+    font-size: 4rem;
     margin-bottom: 0;
-    font-weight: 600;
+    line-height: 100%;
     
 }
 
 .banner p {
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
     font-size: 1.1rem;
     line-height: 2;
     margin-bottom: 1.5rem;
+    text-align: center;
 }
+
 
 .banner span {
     display: block;
