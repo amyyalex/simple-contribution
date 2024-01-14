@@ -13,6 +13,18 @@
 
     },
     {
+      "name": "J R Jewell",
+      "profession": "Web Developer",
+      "quote": "\"The world is a mountain, in which your words are echoed back to you.\"</br> - Said by Rumi",
+      "twitter": "https://twitter.com/",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/JeremyRayJewell",
+      "linkedin": "https://linkedin.com/in/jeremyrayjewell",
+      "email": "mailto:jeremy.jewell001@gmail.com"
+
+    },
+    {
       "name": "John Irem",
       "profession": "Software Engineer",
       "quote": "\"Try not. Do, or do not. There is no try.\"</br> - Said by Yoda",
