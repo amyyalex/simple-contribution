@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" initial-scale="">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <title>Simple Contribution</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/banner.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="#">
+            <h3>Simple Contribution</h3>
+        </a>
+        <div>
+            <a href="https://github.com/amyyalex/simple-contribution" target="_blank"><i class="uil uil-github"
+                    id="github-icon"></i></a>
+        </div>
+        <div id="google_translate_element"></div>
+        <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script>
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement(
+                    { pageLanguage: 'en' },
+                    'google_translate_element'
+                );
+            }
+        </script>
+    </nav>
+    <section>
+        <div class="banner">
+             <div class="box" id="boxContainer">
+            </div>
+            <h1>HI CONTRIBUTORS!</h1>
+            <p>This is a simple project that will not only help you contribute to your first open source project,
+                but will also guide you through the entire process,<span>so whether this is your first time contributing
+                    or you're looking for a project to contribute to,
+                    this project is for you!</span>
+            </p>
+            <a href="https://discord.gg/JhCdztuAcm" target="_blank" class="button">
+                <span class="button_lg">
+                    <span class="button_sl"></span>
+                    <span class="button_text">Join a Community</span>
+                </span>
+            </a>
+        </div>
+    </section>
+    <section class="home-content">
+        <div class="discription-title">
+            <div class="detail-title">
+                <h2>Add your Contribution!</h2>
+                <p>Add your different social media platform and get other contributors to see your work and follow you!
+                </p>
+            </div>
+            <div class="search-section">
+                <div class="search-form">
+                    <input type="text" placeholder="Insert a name" name="search" id="search" class="search-input">
+                    <i class="uil uil-search-alt"></i>
+                </div>
+            </div>
+        </div>
+          <!-- Template for contributor cards -->
+          <template id="contributor-card">
+            <div class="card" data-aos="fade-up">
+                <div class="card-details">
+                    <h1></h1>
+                    <h5></h5>
+                    <p></p>
+                </div>
+                <div class="social-icon">
+                    <!-- Social icons will be added here -->
+                </div>
+                <p class="connect">Let's Connect!</p>
+            </div>
+
+        </template>
+        <!-- END OF TEMPLATE-->
+        <div class="card aos-init aos-animate" data-aos="fade-up">
+            <div class="card-details">
+                <h1>Your Name</h1>
+                <h5>Your Profession</h5>
+                <p>"Your favorite quote"<br> - Said by</p>
+            </div>
+            <div class="social-icon">
+                <!-- Social icons will be added here -->
+            <a href="https://twitter.com" target="_blank"><i class="uil uil-twitter"></i></a>
+            <a href="https://github.com" target="_blank"><i class="uil uil-github"></i></a>
+            <a href="https://linkedin.com" target="_blank"><i class="uil uil-linkedin"></i></a>
+            <a href="https://dribbble.com" target="_blank"><i class="uil uil-dribbble"></i></a>
+            <a href="https://behance.com" target="_blank"><i class="uil uil-behance"></i></a>
+            <a href="mailto:youremail@gmail.com" target="_blank"><i class="uil uil-envelope"></i></a>
+        </div>
+            <p class="connect">Let's Connect!</p>
+        </div>
+        <!-- Template for pagination -->
+        <template id="pages">
+            <div class="page-details">
+                <p class=""></p>
+            </div>
+        </template>
+        <!-- END OF TEMPLATE -->
+        <div class="pagination">
+
+        </div>
+    </section>
+
+    <section>
+        <div class="contribute" data-aos="fade-up" data-aos-delay="300">
+            <div class="contribute-container">
+                <h1>Thanks for your Contribution<i class="fa-solid fa-leaf-heart"></i></i></h1>
+                <hr class="line">
+                <p>I appreciate you for contributing and being part of this amazing project, I hope you feel proud of
+                    yourself.<br /> Don't forget to leave a star!<i class="uil uil-star"></i></p>
+                <a href="https://github.com/amyyalex/simple-contribution" class="click-button1"
+                    target="_blank">Contribute here
+                </a>
+
+            </div>
+
+    </section>
+
+    <footer id="footer">
+        <div class="copyright">
+            Copyright &copy; Designed 2022 by Simple Contribution
+        </div>
+
+    </footer>
+    <script src="./app.js"></script>
+    <script src="./banner.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+
+</html>
+
+
+
+
+
