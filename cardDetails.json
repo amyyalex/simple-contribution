@@ -75,16 +75,16 @@
       "email": "mailto:azizbekyunusaliev99@gmail.com"
 
     },
-	{
-   		"name": "Brian kyalo",
- 		"profession": "Software Developer",
-    	"quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
- 		"twitter": "https://twitter.com",
- 		"dribbble": "https://dribbble.com",
- 		"behance": "https://behance.com",
- 		"github": "https://github.com/kyalo3",
-  		"linkedin": "https://linkedin.com/brian-kyalo-531394281/",
-   		"email": "mailto:kyalokimeu0@gmail.com"
+    {
+	"name": "Brian kyalo",
+	"profession": "Software Developer",
+"quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
+	"twitter": "https://twitter.com",
+	"dribbble": "https://dribbble.com",
+	"behance": "https://behance.com",
+	"github": "https://github.com/kyalo3",
+	"linkedin": "https://linkedin.com/brian-kyalo-531394281/",
+	"email": "mailto:kyalokimeu0@gmail.com"
     },
     {
       "name": "J R Jewell",
@@ -122,7 +122,7 @@
       "email": "elisiomassaqui8@gmail.com"
 
     },
-        {
+    {
       "name": "Abdessamad Touzani",
       "profession": "Software engineer and Data scientist",
       "quote": "\"Never bend your head. Always hold it high. Look the world straight in the eye.\"</br> - Helen Keller",
