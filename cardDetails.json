@@ -25,6 +25,37 @@
 
   },
     {
+      "name": "Auwalu Hamza",
+      "profession": "Fullstack Developer",
+      "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
+      "twitter": "https://twitter.com/afhamu",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/afhamu",
+      "linkedin": "https://linkedin.com/auwalu-hamza",
+      "email": "mailto:auwalufalalu1@gmail.com"
+    },
+    {
+	    "name": "Henry Saya",
+	    "profession": "Software Engineer"
+	    "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
+	    "twitter": "https://twitter.com/HenrySaya"
+	    "dribbble": "https://dribbble.com",
+	    "behance": "https://behance.com",
+	    "github": "https://github.com/HenrySaya",
+	    "linkedin": "https://linkedin.com/in/henry-saya",
+	    "email": "mailto:henrysaya@skiff.com"
+    },
+    {
+      "name": "Ikegah Oliver",
+      "profession": "Student",
+      "quote": "\"Memento mori, live well.\"</br> - Said by Marcus Aurelius",
+      "github": "https://github.com/oliverTwist2",
+      "linkedin": "https://www.linkedin.com/in/ikegah-oliver/",
+      "email": "oliverikegah@gmail.com"
+    },
+
+    {
       "name": "Ande Gangadhara Rao",
       "profession": "Looking for an oppertunity",
       "quote": "\"If, at first, you do not succeed, call it version 1.0.\"</br> - Said by Khayri R.R. Woulfe",
