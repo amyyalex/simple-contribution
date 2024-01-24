@@ -1,16 +1,15 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
-      "twitter": "https://twitter.com",
+      "name": "Jonas Ermert",
+      "profession": "Flutter, Dart",
+      "quote":"Welcome to my profile",
+      "twitter": "https://twitter.com/Jonas20692",
       "dribbble": "https://dribbble.com",
       "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
-
+      "github": "https://github.com/jonasermert",
+      "linkedin": "https://linkedin.com/in/jonasermert/",
+      "email":""
     },
     {
       "name": "Ande Gangadhara Rao",
