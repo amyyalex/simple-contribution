@@ -19,3 +19,11 @@ It's simple, there's an already created template in the HTML file which has been
 
 Once your pull request is merged, the changes will be live on [simple-contribution](https://amyyalex.github.io/simple-contribution/). If you appericate this amazing project, kindly leave a ⭐ by clicking on the star button on the top right.
 Thank you!
+
+<h2>🤝 Contributors</h2>
+
+Thanks go to these wonderful people:
+
+<a href="https://github.com/amyyalex/simple-contribution/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amyyalex/simple-contribution" />
+</a>

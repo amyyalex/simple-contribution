@@ -36,7 +36,7 @@
       "email": "elisiomassaqui8@gmail.com"
 
     },
-        {
+    {
       "name": "Abdessamad Touzani",
       "profession": "Software engineer and Data scientist",
       "quote": "\"Never bend your head. Always hold it high. Look the world straight in the eye.\"</br> - Helen Keller",
@@ -48,6 +48,19 @@
       "email": "mailto:abdessamadtz6@gmail.com"
 
     },
+    {
+      "name": "Ambrose Matata",
+      "profession": "Software Engineer",
+      "quote": "\"Victory loves preparation.\"</br> - Extracted from the Movie Mechanic",
+      "twitter": "https://twitter.com/MatataAmbrose",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Masaku12",
+      "linkedin": "https://www.linkedin.com/in/ambrosematata/",
+      "email": "ambrose.matata11@gmail.com"
+
+    },
+
     {
       "name": "Brian Chebon",
       "profession": "Software Developer | Web Dev",
@@ -647,6 +660,54 @@
       "github": "https://github.com/Mamolets",
       "linkedin": "https://www.linkedin.com/in/mamolateli-mokhethi-86585327a/",
       "email": "mamolatelimokhethi5@gmail.com"
+    },
+    {
+      "name": "Mba Blessing Nnenna",
+      "profession": "Software Engineer and OpenSource contributor",
+      "quote": "\"You have to get up and create the life you want",
+      "github": "https://github.com/Blessing-Mba",
+      "linkedin": "https://www.linkedin.com/in/blessing-mba-24a8a2184/",
+      "email": "blessingmba3@gmail.com"
+    }, 
+    {
+      "name": "Faith Adewuyi",
+      "profession": "Frontend Developer || Open source contributor",
+      "quote": "\"No matter how small, any progress made is better than none at all. Remember slow and steady wins the race.\"</br> - Aesop",
+      "twitter": "https://twitter.com/adewuyi_faith",
+      "github": "https://github.com/faithadewuyi",
+      "linkedin": "https://www.linkedin.com/in/faith-adewuyi-64923542/",
+      "email": "mailto:faith.adewuyi18@gmail.com"
+
+    },
+    
+    {
+      "name": "Ahmad Mohamadirad",
+      "profession": "Web Developer",
+      "quote": "no matter what just try, try and try.",
+      "github": "https://github.com/radman17",
+      "linkedin": "https://www.linkedin.com/in/ahmad-radman-a7804b259/",
+      "email": "mailto:ahmadradman2006@gmail.com"
+
+    },
+    {
+      "name": "Ayomide Ogunlade",
+      "profession": "Product Designer || Open-source Design Contributor",
+      "quote": "\"Fun Isn't Something One Considers When Programming On VS Code. But This… Does Put A Smile On My Face.\"</br> - Ayomide Ogunlade",
+      "twitter": "https://twitter.com/adelanaofficial",
+      "dribbble": "https://dribbble.com/adelanaofficial",
+      "behance": "https://behance.com/adelanaofficial",
+      "github": "https://github.com/adelanaofficial",
+      "linkedin": "https://linkedin.com/in/adelanaofficial",
+      "email": "mailto:abrahampilip16@gmail.com"
+    },
+    {
+      "name": "Temitope Emokpae",
+      "profession": "Student",
+      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+      "github": "https://github.com/temokpae3",
+      "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
+      "email": "mailto:temokpae3@gmail.com"
+
     }
   ]
 }
