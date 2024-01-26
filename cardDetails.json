@@ -1,15 +1,12 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "James Wainaina",
+      "profession": "Software Developer",
+      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+      "github": "https://github.com/JamesWainaina",
+      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+      "email": "wainainajamesgatheru@gmail.com"
 
     },
     {
@@ -37,9 +34,9 @@
     },
     {
 	    "name": "Henry Saya",
-	    "profession": "Software Engineer"
+	    "profession": "Software Engineer",
 	    "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-	    "twitter": "https://twitter.com/HenrySaya"
+	    "twitter": "https://twitter.com/HenrySaya",
 	    "dribbble": "https://dribbble.com",
 	    "behance": "https://behance.com",
 	    "github": "https://github.com/HenrySaya",
@@ -795,5 +792,6 @@
       "email": "mailto:temokpae3@gmail.com"
 
     }
+    
   ]
 }
