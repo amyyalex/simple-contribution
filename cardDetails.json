@@ -49,9 +49,9 @@
     },
     {
 	    "name": "Henry Saya",
-	    "profession": "Software Engineer"
+	    "profession": "Software Engineer",
 	    "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-	    "twitter": "https://twitter.com/HenrySaya"
+	    "twitter": "https://twitter.com/HenrySaya",
 	    "dribbble": "https://dribbble.com",
 	    "behance": "https://behance.com",
 	    "github": "https://github.com/HenrySaya",
@@ -797,6 +797,17 @@
       "github": "https://github.com/adelanaofficial",
       "linkedin": "https://linkedin.com/in/adelanaofficial",
       "email": "mailto:abrahampilip16@gmail.com"
+    },
+    {
+      "name": "Kit-Kat31415926",
+      "profession": "Student",
+      "quote": "\"Everything's science fiction until someone makes it science fact\"<break> - Said By Marie Lu",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Kit-Kat31415926",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:youremail@gmail.com"
     },
     {
       "name": "Temitope Emokpae",
