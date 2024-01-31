@@ -134,3 +134,14 @@ function setPageStyle(selectedPage) {
     }
   });
 }
+
+
+/// Modes 
+
+const themeBtn = document.querySelector('.theme-btn');
+
+themeBtn.addEventListener('click', () => {
+  let element = document.body
+  themeBtn
+  element.classList.toggle('dark-mode')
+})

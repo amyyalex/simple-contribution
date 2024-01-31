@@ -1,6 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=The+Nautigal:wght@700&family=Ubuntu:wght@400;500;700&family=Tangerine&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap');
 
+/* Light mode colors */
+:root {
+    --color-primary: #fff;
+    --color-secondary: rgb(10, 3, 50);
+    --color-card-shadow:rgba(0, 0, 0, 0.088);
+    --color-icon:#c4c4c4;
+    --color-dark-blue:rgba(10, 3, 50, 0.227);
+    --color-last-btn:rgb(6, 1, 39);
+
+}
+
+/* Dark mode colors */
+
+.dark-mode {
+    --color-primary: #000;
+    --color-secondary: #f1ecec;
+    --color-card-shadow:rgba(255, 255, 255, 0.824);
+    --color-icon:#64646478;
+    --color-dark-blue:rgba(137, 113, 210, 0.692);
+    --color-last-btn:rgb(171, 170, 174);
+}
+
+
+
 * {
     box-sizing: border-box;
     text-decoration: none;
@@ -23,12 +47,12 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background: rgba(10, 3, 50, 0.227);
+    background: var(--color-dark-blue);
     border-radius: 5rem;
 }
 
 body {
-    background: #fff;
+    background: var(--color-primary);
     padding: 0;
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -49,18 +73,24 @@ section {
     align-items: center;
     display: flex;
     justify-content: space-between;
-    background: #fff;
-    border-bottom: 1px solid #c4c4c4;
+    background: var(--color-primary);
+    border-bottom: 1px solid var(--color-icon);
 }
 
 .navbar a {
-    color: rgb(10, 3, 50);
+    color: var(--color-secondary);
 }
 
 .navbar h3 {
     font-size: 50px;
     font-weight: 400;
     font-family: 'The Nautigal', cursive;
+}
+
+.navbar div {
+    display: flex;
+    align-items: center;
+    gap: 80px;
 }
 
 #github-icon {
@@ -71,33 +101,54 @@ section {
     height: 80px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
     border-radius: 50%;
-    color: #fff;
-    background: rgb(10, 3, 50);
+    color: var(--color-primary);
+    background: var(--color-secondary);
 }
 
 #github-icon:hover {
-    color: rgb(10, 3, 50);
-    background: #fff;
+    color: var(--color-secondary);
+    background: var(--color-primary);
     transition: all 0.5s ease-in-out;
+}
+
+
+/* Theme */
+
+.theme-btn>i {
+    font-size: 1.4rem;
+    pointer-events: none;
+}
+
+.theme-btn {
+
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.1s ease-in-out;
 }
 
 /*Banner section styling*/
 .banner {
-    color: #fff;
+    color: var(--color-primary);
     display: grid;
     place-items: center;
     align-content: center;
     min-height: 100vh;
-    background: rgb(10, 3, 50);
+    background: var(--color-secondary);
     position: relative;
-    
+
 }
 
 .banner h1 {
     font-size: 3.5rem;
     margin-bottom: 0;
     font-weight: 600;
-    
+
 }
 
 .banner p {
@@ -119,7 +170,7 @@ section {
     appearance: none;
     border: none;
     background: none;
-    background: rgb(10, 3, 50);
+    background: var(--color-secondary);
     cursor: pointer;
     position: relative;
     padding: 8px;
@@ -129,10 +180,10 @@ section {
     font-size: 14px;
     transition: all .15s ease;
     z-index: 2;
-  }
-  
-  .button::before,
-  .button::after {
+}
+
+.button::before,
+.button::after {
     content: '';
     display: block;
     position: absolute;
@@ -141,48 +192,48 @@ section {
     height: calc(50% - 5px);
     border: 1px solid white;
     transition: all .15s ease;
-  }
-  
-  .button::before {
+}
+
+.button::before {
     top: 0;
     border-bottom-width: 0;
-  }
-  
-  .button::after {
+}
+
+.button::after {
     bottom: 0;
     border-top-width: 0;
-  }
-  
-  .button:active,
-  .button:focus {
+}
+
+.button:active,
+.button:focus {
     outline: none;
-  }
-  
-  .button:active::before,
-  .button:active::after {
+}
+
+.button:active::before,
+.button:active::after {
     right: 3px;
     left: 3px;
-  }
-  
-  .button:active::before {
+}
+
+.button:active::before {
     top: 3px;
-  }
-  
-  .button:active::after {
+}
+
+.button:active::after {
     bottom: 3px;
-  }
-  
-  .button_lg {
+}
+
+.button_lg {
     position: relative;
     display: block;
     padding: 10px 20px;
-    color: #fff;
-    background: rgba(10, 3, 50, 0.227);
+    color: var(--color-primary);
+    background: var(--color-dark-blue);
     overflow: hidden;
     box-shadow: inset 0px 0px 0px 1px transparent;
-  }
-  
-  .button_lg::before {
+}
+
+.button_lg::before {
     content: '';
     display: block;
     position: absolute;
@@ -191,9 +242,9 @@ section {
     width: 2px;
     height: 2px;
     background-color: #0f1923;
-  }
-  
-  .button_lg::after {
+}
+
+.button_lg::after {
     content: '';
     display: block;
     position: absolute;
@@ -203,9 +254,9 @@ section {
     height: 4px;
     background-color: #0f1923;
     transition: all .2s ease;
-  }
-  
-  .button_sl {
+}
+
+.button_sl {
     display: block;
     position: absolute;
     top: 0;
@@ -215,23 +266,23 @@ section {
     background-color: #019398;
     transform: skew(-15deg);
     transition: all .2s ease;
-  }
-  
-  .button_text {
+}
+
+.button_text {
     position: relative;
-  }
-  
-  .button:hover {
+}
+
+.button:hover {
     color: #0f1923;
-  }
-  
-  .button:hover .button_sl {
+}
+
+.button:hover .button_sl {
     width: calc(100% + 15px);
-  }
-  
-  .button:hover .button_lg::after {
-    background-color: #fff;
-  }
+}
+
+.button:hover .button_lg::after {
+    background-color: var(--color-primary);
+}
 
 /*Home section styling*/
 .home-content {
@@ -239,58 +290,70 @@ section {
 }
 
 .home-content h2 {
+
     font-size: 2rem;
     text-transform: capitalize;
     margin-bottom: 0;
-    
+
 }
+
 /*This is a form style for desktop*/
-.discription-title{
+.discription-title {
+    color: var(--color-secondary);
     display: grid;
     grid-template-columns: 70% 30%;
 }
-.search-section{  
+
+.search-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-.search-section .search-form{
+
+.search-section .search-form {
     display: flex;
     justify-content: center;
     align-items: center;
     justify-content: space-around;
     width: 330px;
-    border: solid 1px black;    
+    border: solid 1px var(--color-secondary);
     border-radius: 9px;
 }
-.search-section input{
+
+.search-section input {
     font-family: 'Poppins';
     border-radius: 9px;
     padding: 4px;
-    width: 250px;
-    height: 40px;   
+    width: 100%;
+    padding-left: 20px;
+    margin-left: 2px;
+    height: 40px;
 }
-.search-section input:focus{
-    font-size: 14px;  
+
+.search-section input:focus {
+    font-size: 14px;
 }
-.search-section i{
+
+.search-section i {
     font-size: 30px;
 }
+
 /*card section styling*/
 .card {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: 1px 3px 14px rgba(0, 0, 0, 0.088);
+    box-shadow: 1px 3px 14px var(--color-card-shadow);
     width: 325px;
     text-align: center;
     margin: 50px 20px;
     padding: 20px;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
     height: 400px;
-    
+
 }
 
 .cards {
@@ -319,8 +382,8 @@ section {
     font-size: 1.5rem;
     width: 3rem;
     height: 3rem;
-    color: rgb(10, 3, 50);
-    background: rgba(10, 3, 50, 0.227);
+    color: var(--color-secondary);
+    background: var(--color-dark-blue);
     padding: 0.3rem;
     border-radius: 50%;
     cursor: pointer;
@@ -329,13 +392,13 @@ section {
 }
 
 .social-icon a:hover {
-    color: rgb(170, 166, 191);
-    background: rgb(10, 3, 50);
+    color: var(--color-icon);
+    background: var(--color-secondary);
 }
 
 .connect {
     position: relative;
-    border: 2px solid rgb(10, 3, 50);
+    border: 2px solid var(--color-secondary);
     display: inline-block;
     padding: 5px 10px;
     margin-top: 1.5rem;
@@ -349,9 +412,9 @@ section {
     transform: translateY(-50%);
     width: 20px;
     height: 2px;
-    background: rgb(10, 3, 50);
-    box-shadow: 5px -8px 0 rgb(10, 3, 50),
-        5px 8px 0 rgb(10, 3, 50);
+    background: var(--color-secondary);
+    box-shadow: 5px -8px 0 var(--color-secondary),
+        5px 8px 0 var(--color-secondary);
 }
 
 .connect::after {
@@ -362,30 +425,36 @@ section {
     transform: translateY(-50%);
     width: 20px;
     height: 2px;
-    background: rgb(10, 3, 50);
-    box-shadow: -5px -8px 0 rgb(10, 3, 50),
-        -5px 8px 0 rgb(10, 3, 50);
+    background: var(--color-secondary);
+    box-shadow: -5px -8px 0 var(--color-secondary),
+        -5px 8px 0 var(--color-secondary);
 }
+
 /* pagination section style */
-.pagination{
+.pagination {
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
     flex-wrap: wrap;
 }
-.page-details > p{
-  cursor: pointer;
-  padding: 8px 15px;
-  border: 1px solid rgb(10, 3, 50);
-  border-radius: 4px;
-  margin: 10px;
+
+.page-details>p {
+    cursor: pointer;
+    padding: 8px 15px;
+    border: 1px solid var(--color-secondary);
+    color: var(--color-secondary);
+    border-radius: 4px;
+    margin: 10px;
 }
-.page-details>p:hover{
-    background-color: rgba(10, 3, 50, 0.227);
+
+.page-details>p:hover {
+    background-color: var(--color-dark-blue);
 }
+
 .selected-page {
-    background-color: rgba(10, 3, 50, 0.227);
+    background-color: var(--color-dark-blue);
 }
+
 /*help section style*/
 .contribute {
     display: flex;
@@ -400,76 +469,81 @@ section {
     align-items: center;
     justify-content: center;
     border-radius: 10px;
-    background: rgba(10, 3, 50, 0.227);
+    background: var(--color-dark-blue);
     z-index: 3;
 }
 
 .contribute-container h1 {
-    color: rgb(10, 3, 50);
+    color: var(--color-secondary);
     font-family: 'Corinthia', cursive;
     font-size: 40px;
 }
 
 .contribute-container p {
     margin-bottom: 2rem;
+    color:var(--color-secondary);
 }
 
 .contribute-container h1 i {
-    color: rgb(10, 3, 50);
+    color: var(--color-secondary);
 }
 
 .line {
     width: 30%;
     height: 2px;
     top: 0;
-    color: rgb(10, 3, 50);
+    color: var(--color-secondary);
     border: 2px solid;
     border-radius: 50%;
 }
 
-.click-button1 {
+.click-button1 {     
     padding: 0.5rem 1rem;
     font-size: 1rem;
     border-radius: 10px;
-    color: #fff;
-    background-color: rgb(6, 1, 39);
+    color: var(--color-primary);
+    background-color: var(--color-last-btn);
     text-transform: uppercase;
 }
 
+
 .click-button1:hover {
-    color: rgb(10, 3, 50);
-    background-color: #fff;
+    color: var(--color-secondary);
+    background-color: var(--color-primary);
     border: 2px solid;
     transition: all 0.5s ease-in-out;
 }
+
 
 /*footer section styling*/
 footer .copyright {
     text-align: center;
     padding: 2rem 0;
     font-size: 1rem;
-    color: #fff;
-    background: rgb(10, 3, 50);
+    color: var(--color-primary);
+    background: var(--color-secondary);
 }
 
 .lt {
     margin: 0.625rem;
-    padding:0.313rem;
+    padding: 0.313rem;
 }
 
 .ltopt {
     margin: 0.063rem;
-    padding:0.313px;
+    padding: 0.313px;
 }
 
 footer .lag {
-    color: #fff;
-    background: rgb(10, 3, 50);
+    color: var(--color-primary);
+    background: var(--color-secondary);
     margin-top: 1rem;
 
 }
-@media screen and (max-width: 1100px){
-/* This is a form style for desktop */
+
+@media screen and (max-width: 1100px) {
+
+    /* This is a form style for desktop */
     .discription-title {
         display: flex;
         flex-direction: column;
@@ -477,6 +551,7 @@ footer .lag {
         align-items: center;
     }
 }
+
 @media screen and (max-width: 760px) {
     .navbar h3 {
         font-size: 30px;
@@ -523,5 +598,5 @@ footer .lag {
         font-size: 28px;
         margin-bottom: 2rem;
     }
-    
+
 }
