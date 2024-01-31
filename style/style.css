@@ -3,10 +3,10 @@
 
 /* Light mode colors */
 :root {
-    --color-primary: #fff;
+    --color-primary: rgb(255, 255, 255);
     --color-secondary: rgb(10, 3, 50);
     --color-card-shadow:rgba(0, 0, 0, 0.088);
-    --color-icon:#c4c4c4;
+    --color-icon:rgb(196, 196, 196);
     --color-dark-blue:rgba(10, 3, 50, 0.227);
     --color-last-btn:rgb(6, 1, 39);
 
@@ -15,10 +15,10 @@
 /* Dark mode colors */
 
 .dark-mode {
-    --color-primary: #000;
-    --color-secondary: #f1ecec;
+    --color-primary: rgb(0, 0, 0);
+    --color-secondary: rgb(241, 236, 236);
     --color-card-shadow:rgba(255, 255, 255, 0.824);
-    --color-icon:#64646478;
+    --color-icon:rgba(100, 100, 100, 0.471);
     --color-dark-blue:rgba(137, 113, 210, 0.692);
     --color-last-btn:rgb(171, 170, 174);
 }
