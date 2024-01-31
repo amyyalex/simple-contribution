@@ -53,9 +53,9 @@
     },
     {
       "name": "Henry Saya",
-      "profession": "Software Engineer"
+      "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-      "twitter": "https://twitter.com/HenrySaya"
+      "twitter": "https://twitter.com/HenrySaya",
       "dribbble": "https://dribbble.com",
       "behance": "https://behance.com",
       "github": "https://github.com/HenrySaya",
@@ -782,6 +782,14 @@
       "github": "https://github.com/temokpae3",
       "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
       "email": "mailto:temokpae3@gmail.com"
+    },
+    {
+      "name": "Pariya Hajipour",
+      "profession": "Computer Engineering Student",
+      "quote": "\"Well, nobody's perfect.\"</br> - Some Like It Hot",
+      "github": "https://github.com/pariyahr",
+      "linkedin": "https://www.linkedin.com/in/pariya-hajipour/",
+      "email": "pariyahajipour@gmail.com"
     }
   ]
 }
