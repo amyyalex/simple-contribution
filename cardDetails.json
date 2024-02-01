@@ -53,9 +53,9 @@
     },
     {
       "name": "Henry Saya",
-      "profession": "Software Engineer"
+      "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-      "twitter": "https://twitter.com/HenrySaya"
+      "twitter": "https://twitter.com/HenrySaya",
       "dribbble": "https://dribbble.com",
       "behance": "https://behance.com",
       "github": "https://github.com/HenrySaya",
@@ -782,6 +782,14 @@
       "github": "https://github.com/temokpae3",
       "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
       "email": "mailto:temokpae3@gmail.com"
+    },
+    {
+      "name": "Cephas Tokoli",
+      "profession": "FullStack Developer",
+      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+      "github": "https://github.com/ctokoli",
+      "linkedin": "https://www.linkedin.com/in/ctokoli",
+      "email": "mailto:matumasie@gmail.com"
     }
   ]
 }
