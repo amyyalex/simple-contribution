@@ -1,20 +1,14 @@
 {
-  "example": {
-    "name": "Your Name",
-    "profession": "Your Profession",
-    "quote": "\"Your favorite quote\"</br> - Said by",
-    "twitter": "https://twitter.com",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com",
-    "linkedin": "https://linkedin.com",
-    "email": "mailto:youremail@gmail.com"
-  },
   "cardDetails": [
     {
       "name": "Your Name",
       "profession": "Your Profession",
       "quote": "\"Your favorite quote\"</br> - Said by",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
     {
@@ -29,17 +23,17 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
-    "name": "Chad Peter",
-    "profession": "Your Profession",
-    "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
-    "twitter": "https://twitter.com/chardpeter10",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com/ChardPeter",
-    "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
-    "email": "chardpeter10@gmail.com"
+      "name": "Chad Peter",
+      "profession": "Your Profession",
+      "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
+      "twitter": "https://twitter.com/chardpeter10",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/ChardPeter",
+      "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
+      "email": "chardpeter10@gmail.com"
 
-  },
+    },
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
@@ -782,6 +776,14 @@
       "github": "https://github.com/temokpae3",
       "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
       "email": "mailto:temokpae3@gmail.com"
+    },
+	  {
+      "name": "Tataw Clarkson T",
+      "profession": "Software Engeneering intern",
+      "quote": "\"For God so loved the world && Life is easy when you live it the hard way and hard when you try to live it the easy way\"</br> - Said by Book of John && Dave Kekich",
+      "github": "https://github.com/tataw-cl",
+      "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
+      "email": "tatawclarkson@gmail.com"
     }
   ]
 }
