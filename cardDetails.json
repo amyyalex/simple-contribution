@@ -11,6 +11,17 @@
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
+    
+    {
+      "name": "Essi Akpevwe Praise",
+      "profession": "Software Developer & IT",
+      "quote": "\"Your He who has a why can bear almost any how\"</br> - Viktor E. Frankl",
+      "twitter": "https://twitter.com/praisex64",
+      "github": "https://github.com/Akpevwe11",
+      "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
+      "email": "mailto:essiakpevwepraise@gmail.com"
+    },
+
     {
       "name": "Jonas Ermert",
       "profession": "Flutter, Dart",
@@ -23,9 +34,6 @@
       "name": "Eslam AbdElhakem",
       "profession": "Software Engineer",
       "quote": "\"Be The Last Man Standing\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/EslamAbdElhakem",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
@@ -35,8 +43,6 @@
       "profession": "Your Profession",
       "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
       "twitter": "https://twitter.com/chardpeter10",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/ChardPeter",
       "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
       "email": "chardpeter10@gmail.com"
@@ -46,8 +52,6 @@
       "profession": "Fullstack Developer",
       "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
       "twitter": "https://twitter.com/afhamu",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/afhamu",
       "linkedin": "https://linkedin.com/auwalu-hamza",
       "email": "mailto:auwalufalalu1@gmail.com"
@@ -57,8 +61,6 @@
       "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
       "twitter": "https://twitter.com/HenrySaya",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/HenrySaya",
       "linkedin": "https://linkedin.com/in/henry-saya",
       "email": "mailto:henrysaya@skiff.com"
