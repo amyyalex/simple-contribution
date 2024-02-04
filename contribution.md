@@ -75,8 +75,8 @@ There are different ways to clone a repo through GitHub Desktop, git bash (git t
 - UPDATE: Attention New Contributors! An important update has been made regarding the addition of your card details. Instead of directly inputting your card details into the app.js file, a carddetail.json file has been created for this purpose. As part of this change, please add your card details into the carddetail.json file moving forward. This new approach helps maintain the app.js content efficiently and ensures a smoother process for adding your contribution.
 
 * Go to carddetail.json file,
-  - You'll see an array of data, add a new object into the array( to make it easier, copy and paste object template and edit)
-    The object template which now is **yours** for you to customize and edit.
+  - You'll see an array of data, add a new object into the array (to make it easier, **copy** and **paste** carddetails object template and edit)
+    The object template which you've copied is now **yours** for you to customize and edit.
   - Replace 'Your Name' with your name, 'Your Profession' with what you do, add your favorite quote and the link to your socials.
 
 - Once you're done, **save your changes** by pressing ctrl + s.
