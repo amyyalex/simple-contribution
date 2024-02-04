@@ -1,15 +1,13 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Tracy Sambu",
+      "profession": "Software Developer and OpenSource Contributor",
+      "quote": "\"We still Rise\"</br> - Said By Lewis Hamilton",
+      "twitter": "https://twitter.com/sambu_tracy",
+      "github": "https://github.com/sambutracy",
+      "linkedin": "https://www.linkedin.com/in/tracysambu/",
+      "email": "tracysambut@gmail.com"
     },
     
     {
