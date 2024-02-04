@@ -3,13 +3,21 @@
     {
       "name": "Your Name",
       "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
+      "quote": "\"Your favourite quote\"</br> - Said By Me",
       "twitter": "https://twitter.com",
       "dribbble": "https://dribbble.com",
       "behance": "https://behance.com",
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
+    },
+    {
+      "name": "Jonas Ermert",
+      "profession": "Flutter, Dart",
+      "quote":"Welcome to my profile",
+      "twitter": "https://twitter.com/Jonas20692",  
+      "github": "https://github.com/jonasermert",
+      "linkedin": "https://linkedin.com/in/jonasermert/"
     },
     {
       "name": "Eslam AbdElhakem",
@@ -32,7 +40,6 @@
       "github": "https://github.com/ChardPeter",
       "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
       "email": "chardpeter10@gmail.com"
-
     },
     {
       "name": "Auwalu Hamza",
