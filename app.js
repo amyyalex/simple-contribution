@@ -37,7 +37,7 @@ function createCard(details) {
 }
 
 function removeCard() {
-  const cards = document.querySelectorAll(".card");  
+  const cards = document.querySelectorAll(".card");
   cards.forEach((element) => {
     cardsContainer.removeChild(element);
   });
@@ -55,12 +55,14 @@ function research() {
     inputSearch.value = "";
   } else {
     const resultArray = [...cardDetailsArray];
-    const noResultsParagraph = cardsContainer.querySelector(".no-results-message");
+    const noResultsParagraph = cardsContainer.querySelector(
+      ".no-results-message"
+    );
 
     resultArray.sort((a, b) => a.name.localeCompare(b.name));
 
-    const filteredResults = resultArray.filter(
-      (details) => details.name.toLowerCase().startsWith(searchValue.toLowerCase())
+    const filteredResults = resultArray.filter((details) =>
+      details.name.toLowerCase().startsWith(searchValue.toLowerCase())
     );
 
     if (filteredResults.length > 0) {
@@ -83,7 +85,6 @@ function research() {
   }
 }
 
-
 const cardsContainer = document.querySelector(".cards");
 const paginationContainer = document.querySelector(".pagination");
 const inputSearch = document.getElementById("search");
@@ -96,29 +97,35 @@ fetch("./cardDetails.json")
     cardDetailsArray = data.cardDetails;
     noOfCards = cardDetailsArray.length;
     let noOfPages = Math.ceil(noOfCards / cardsPerPage);
-    cardsContainer.style.display = 'none';
-    displayPages(1);   
+    cardsContainer.style.display = "none";
+    displayPages(1);
     for (let j = 1; j <= noOfPages; j++) {
       const pageTemplate = document.getElementById("pages");
       const pageClone = pageTemplate.content.cloneNode(true);
       pageClone.querySelector(".page-details p").textContent = j;
-      pageClone.querySelector(".page-details").addEventListener("click", function() {
-        cardsContainer.innerHTML = '';
-        displayPages(j); 
-        setPageStyle(j);   
-        window.scrollTo({ top: 560, behavior: 'smooth' });
-      });
+      pageClone
+        .querySelector(".page-details")
+        .addEventListener("click", function () {
+          cardsContainer.innerHTML = "";
+          displayPages(j);
+          setPageStyle(j);
+          window.scrollTo({ top: 560, behavior: "smooth" });
+        });
       paginationContainer.appendChild(pageClone);
     }
   })
   .catch((error) => console.error("Error fetching JSON:", error));
-function displayPages(j){
-   for (let i = (j - 1) * cardsPerPage; i < j * cardsPerPage && i < noOfCards; i++) {
-          let details = cardDetailsArray[i];
-          const card = createCard(details);
-          cardsContainer.appendChild(card);
-        }
-   cardsContainer.style.display = 'flex';
+function displayPages(j) {
+  for (
+    let i = (j - 1) * cardsPerPage;
+    i < j * cardsPerPage && i < noOfCards;
+    i++
+  ) {
+    let details = cardDetailsArray[i];
+    const card = createCard(details);
+    cardsContainer.appendChild(card);
+  }
+  cardsContainer.style.display = "flex";
 }
 function setPageStyle(selectedPage) {
   const allPages = document.querySelectorAll(".page-details p");
@@ -134,3 +141,67 @@ function setPageStyle(selectedPage) {
     }
   });
 }
+
+//
+//
+// Toggle mobile navbar menu
+const attatchMobileMenuToggleFunction = () => {
+  try {
+    const menuIcon = document.getElementById("navbar-menu-icon-1");
+    const linkListContainer = document.getElementById(
+      "navbar-link-list-container"
+    );
+    const navbar_social_media_container = document.getElementById(
+      "navbar-social-media-container"
+    );
+    const google_translate_element = document.getElementById(
+      "google_translate_element"
+    );
+
+    // validate
+    if (menuIcon === null || menuIcon === undefined) {
+      console.log("Element with ID 'navbar-menu-icon-1' not found");
+      return;
+    }
+    if (linkListContainer === null || linkListContainer === undefined) {
+      console.log("Element with ID 'navbar-link-list-container' not found");
+      return;
+    }
+    if (
+      navbar_social_media_container === null ||
+      navbar_social_media_container === undefined
+    ) {
+      console.log("Element with ID 'navbar-social-media-container' not found");
+      return;
+    }
+    if (
+      google_translate_element === null ||
+      google_translate_element === undefined
+    ) {
+      console.log("Element with ID 'google_translate_element' not found");
+      return;
+    }
+
+    // Attach a function to the click event of menuIcon
+    menuIcon.addEventListener("click", function () {
+      // Toggle the display property of linkListContainer
+      if (linkListContainer.style.display === "flex") {
+        linkListContainer.style.display = "none";
+        google_translate_element.style.display = "none";
+        navbar_social_media_container.style.display = "none";
+        menuIcon.style.opacity = 1;
+      } else {
+        linkListContainer.style.display = "flex";
+        google_translate_element.style.display = "flex";
+        navbar_social_media_container.style.display = "flex";
+        menuIcon.style.opacity = 0.2;
+      }
+    });
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+document.addEventListener("DOMContentLoaded", function () {
+  attatchMobileMenuToggleFunction();
+});

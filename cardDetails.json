@@ -10,20 +10,30 @@
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
-
     },
     {
-    "name": "Your Name",
-    "profession": "Your Profession",
-    "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
-    "twitter": "https://twitter.com/chardpeter10",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com/ChardPeter",
-    "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
-    "email": "chardpeter10@gmail.com"
+      "name": "Eslam AbdElhakem",
+      "profession": "Software Engineer",
+      "quote": "\"Be The Last Man Standing\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/EslamAbdElhakem",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
+      "name": "Chad Peter",
+      "profession": "Your Profession",
+      "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
+      "twitter": "https://twitter.com/chardpeter10",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/ChardPeter",
+      "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
+      "email": "chardpeter10@gmail.com"
 
-  },
+    },
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
@@ -36,15 +46,15 @@
       "email": "mailto:auwalufalalu1@gmail.com"
     },
     {
-	    "name": "Henry Saya",
-	    "profession": "Software Engineer"
-	    "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-	    "twitter": "https://twitter.com/HenrySaya"
-	    "dribbble": "https://dribbble.com",
-	    "behance": "https://behance.com",
-	    "github": "https://github.com/HenrySaya",
-	    "linkedin": "https://linkedin.com/in/henry-saya",
-	    "email": "mailto:henrysaya@skiff.com"
+      "name": "Henry Saya",
+      "profession": "Software Engineer",
+      "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
+      "twitter": "https://twitter.com/HenrySaya",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/HenrySaya",
+      "linkedin": "https://linkedin.com/in/henry-saya",
+      "email": "mailto:henrysaya@skiff.com"
     },
     {
       "name": "Ikegah Oliver",
@@ -54,14 +64,11 @@
       "linkedin": "https://www.linkedin.com/in/ikegah-oliver/",
       "email": "oliverikegah@gmail.com"
     },
-
     {
       "name": "Ande Gangadhara Rao",
       "profession": "Looking for an oppertunity",
       "quote": "\"If, at first, you do not succeed, call it version 1.0.\"</br> - Said by Khayri R.R. Woulfe",
       "twitter": "https://twitter.com/Gangadhara18Rao",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/gangadhararaoande",
       "linkedin": "https://www.linkedin.com/in/gangadhara-rao-ande/",
       "email": "mailto:gangadharr18@gmail.com"
@@ -73,78 +80,68 @@
       "github": "https://github.com/azick99",
       "linkedin": "https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232",
       "email": "mailto:azizbekyunusaliev99@gmail.com"
-
     },
     {
-	"name": "Brian kyalo",
-	"profession": "Software Developer",
-"quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
-	"twitter": "https://twitter.com",
-	"dribbble": "https://dribbble.com",
-	"behance": "https://behance.com",
-	"github": "https://github.com/kyalo3",
-	"linkedin": "https://linkedin.com/brian-kyalo-531394281/",
-	"email": "mailto:kyalokimeu0@gmail.com"
+      "name": "Brian kyalo",
+      "profession": "Software Developer",
+      "quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
+      "github": "https://github.com/kyalo3",
+      "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
+      "email": "mailto:kyalokimeu0@gmail.com"
+    },
+    {
+      "name": "Brian kyalo",
+      "profession": "Software Developer",
+      "quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/kyalo3",
+      "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
+      "email": "mailto:kyalokimeu0@gmail.com"
     },
     {
       "name": "J R Jewell",
       "profession": "Web Developer",
       "quote": "\"The world is a mountain, in which your words are echoed back to you.\"</br> - Said by Rumi",
-      "twitter": "https://twitter.com/",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/JeremyRayJewell",
       "linkedin": "https://linkedin.com/in/jeremyrayjewell",
       "email": "mailto:jeremy.jewell001@gmail.com"
-
     },
     {
       "name": "John Irem",
       "profession": "Software Engineer",
       "quote": "\"Try not. Do, or do not. There is no try.\"</br> - Said by Yoda",
       "twitter": "https://twitter.com/rasine_era",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/eyesaidyo",
       "linkedin": "https://linkedin.com/in/john-irem",
       "email": "rajonirem8@gmail.com"
-
     },
-     {
+    {
       "name": "Elísio Massaqui",
       "profession": "Software Developer",
       "quote": "\"Believe in your Skills\"</br> - Said by",
       "twitter": "https://twitter.com/elisio_massaqui",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/elisioMassaqui",
-      "linkedin": "https://linkedin.com",
       "email": "elisiomassaqui8@gmail.com"
-
     },
     {
       "name": "Abdessamad Touzani",
       "profession": "Software engineer and Data scientist",
       "quote": "\"Never bend your head. Always hold it high. Look the world straight in the eye.\"</br> - Helen Keller",
       "twitter": "https://twitter.com/at9kat",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/AbdessamadTzn",
       "linkedin": "https://linkedin.com/in/abdessamadtouzani",
       "email": "mailto:abdessamadtz6@gmail.com"
-
     },
     {
       "name": "Ambrose Matata",
       "profession": "Software Engineer",
       "quote": "\"Victory loves preparation.\"</br> - Extracted from the Movie Mechanic",
       "twitter": "https://twitter.com/MatataAmbrose",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/Masaku12",
       "linkedin": "https://www.linkedin.com/in/ambrosematata/",
       "email": "ambrose.matata11@gmail.com"
-
     },
 
     {
@@ -155,7 +152,6 @@
       "github": "https://github.com/Chebon-breezy",
       "linkedin": "https://www.linkedin.com/in/brianchebon",
       "email": "mailto:brynnlamura@gmail.com"
-
     },
     {
       "name": "Kelvin OKumu",
@@ -165,17 +161,15 @@
       "github": "https://github.com/kelvinokumu",
       "linkedin": "https://www.linkedin.com/in/kelvin-okumu-965bb0147/",
       "email": "mailto:oumakelvinokumu@gmail.com"
-
     },
     {
       "name": "Mblessing Muchafa CoderBlee",
       "profession": "Student| CyberSecurity|Data Analysis|Computer Science",
-      "quote":"\"Believe in yourself and all that you are.Know that there is something inside you that is greater than any obstacle.\"</br> - Said by MBlessingG",
+      "quote": "\"Believe in yourself and all that you are.Know that there is something inside you that is greater than any obstacle.\"</br> - Said by MBlessingG",
       "twitter": "https://twitter.com/kamoblessingg",
       "github": "https://github.com/CoderBlee",
       "linkedin": "https://www.linkedin.com/in/blessing-muchafa-772305247/",
       "email": "gamuchiraiblessing7@gmail.com"
-
     },
     {
       "name": "AkashGGaonkar",
@@ -184,7 +178,6 @@
       "github": "https://github.com/Gaonkar30",
       "linkedin": "https://www.linkedin.com/in/akash-g-gaonkar-345656256/",
       "email": "akashggaonkar@gmail.com"
-
     },
     {
       "name": "Mblessing Muchafa CoderBlee",
@@ -319,8 +312,6 @@
       "profession": "FrontEnd | BackEnd | DevOps",
       "quote": "\"Be Water My Friend\"</br> - Bruce Lee",
       "twitter": "https://twitter.com/nuux_tv",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/nuuxcode",
       "linkedin": "https://www.linkedin.com/in/mounssif-bouhlaoui-25934570/",
       "email": "mailto:cv.bouhlaoui@gmail.com"
@@ -367,9 +358,6 @@
       "name": "Dayo Orunsolu",
       "profession": "SQL || Cloud || DevOps",
       "quote": "\"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead\" - Marjorie Pay Hinkley",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/ORUNSOLU",
       "linkedin": "https://www.linkedin.com/in/dayo-o-44983b116",
       "email": "mailto:oruns@outlook.com"
@@ -379,8 +367,6 @@
       "profession": "Software Engineer",
       "quote": "\"He who fails to plan has planned to fail\"</br> - Said by",
       "twitter": "https://twitter.com/AdesinaOlorogun",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/AdeshinaOlorogun",
       "linkedin": "https://linkedin.com/Adeshina-m-Olorogun",
       "email": "mailto:Adeshinamolorogun@gmail.com"
@@ -393,7 +379,7 @@
       "github": "https://github.com/tegacodess",
       "linkedin": "https://github.com/tegacodess",
       "email": "mailto:tegazion7@gmail.com"
-    },    
+    },
     {
       "name": "Félix Domingos",
       "profession": "Web Fullstack Developer",
@@ -615,7 +601,6 @@
       "name": "Aaron Muti",
       "profession": "Data Engineer",
       "quote": "\"Sangala Waya\"</br> - Markus Wings",
-      "github": "https://github.com",
       "email": "mailto:aaron@forestdigitalacademy.com"
     },
     {
@@ -754,7 +739,7 @@
       "github": "https://github.com/Blessing-Mba",
       "linkedin": "https://www.linkedin.com/in/blessing-mba-24a8a2184/",
       "email": "blessingmba3@gmail.com"
-    }, 
+    },
     {
       "name": "Faith Adewuyi",
       "profession": "Frontend Developer || Open source contributor",
@@ -763,9 +748,8 @@
       "github": "https://github.com/faithadewuyi",
       "linkedin": "https://www.linkedin.com/in/faith-adewuyi-64923542/",
       "email": "mailto:faith.adewuyi18@gmail.com"
-
     },
-    
+
     {
       "name": "Ahmad Mohamadirad",
       "profession": "Web Developer",
@@ -773,7 +757,6 @@
       "github": "https://github.com/radman17",
       "linkedin": "https://www.linkedin.com/in/ahmad-radman-a7804b259/",
       "email": "mailto:ahmadradman2006@gmail.com"
-
     },
     {
       "name": "Ayomide Ogunlade",
@@ -793,7 +776,14 @@
       "github": "https://github.com/temokpae3",
       "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
       "email": "mailto:temokpae3@gmail.com"
-
+    },
+	  {
+      "name": "Tataw Clarkson T",
+      "profession": "Software Engeneering intern",
+      "quote": "\"For God so loved the world && Life is easy when you live it the hard way and hard when you try to live it the easy way\"</br> - Said by Book of John && Dave Kekich",
+      "github": "https://github.com/tataw-cl",
+      "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
+      "email": "tatawclarkson@gmail.com"
     }
   ]
 }
