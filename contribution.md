@@ -73,9 +73,10 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 <h4>Step 5: Copy and edit the cardDetails.json file</h4>
 
 
-* Go to cardDetail.json file,
-  - You'll see an array of data, add a new object into the array( to make it easier, copy and paste object template and edit)
-    The object template is now **yours** for you to customize and edit.
+
+* Go to carddetail.json file,
+  - You'll see an array of data, add a new object into the array (to make it easier, **copy** and **paste** carddetails object template and edit)
+    The object template which you've copied is now **yours** for you to customize and edit.
   - Replace 'Your Name' with your name, 'Your Profession' with what you do, add your favorite quote and the link to your socials.
 
 - Once you're done, **save your changes** by pressing `ctrl + s`.
