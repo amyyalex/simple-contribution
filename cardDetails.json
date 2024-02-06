@@ -11,7 +11,19 @@
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
-    
+	  
+    {
+      "name": "Adarsh Sahu",
+      "profession": "Student",
+      "quote": "\"Stop thinking, Start doing\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/yaarAdarsh",
+      "linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
+      "email": "mailto:addudx@gmail.com"
+    },
+	  
     {
       "name": "Essi Akpevwe Praise",
       "profession": "Software Developer & IT",
