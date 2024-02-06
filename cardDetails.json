@@ -1,52 +1,78 @@
 {
-  "example": {
-    "name": "Your Name",
-    "profession": "Your Profession",
-    "quote": "\"Your favorite quote\"</br> - Said by",
-    "twitter": "https://twitter.com",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com",
-    "linkedin": "https://linkedin.com",
-    "email": "mailto:youremail@gmail.com"
-  },
   "cardDetails": [
     {
+
       "name": "Your Name",
       "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
+      "quote": "\"Your favourite quote\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
+    },
+    
+    {
+      "name": "Essi Akpevwe Praise",
+      "profession": "Software Developer & IT",
+      "quote": "\"Your He who has a why can bear almost any how\"</br> - Viktor E. Frankl",
+      "twitter": "https://twitter.com/praisex64",
+      "github": "https://github.com/Akpevwe11",
+      "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
+      "email": "mailto:essiakpevwepraise@gmail.com"
+    },
+    {
+      "name": "James Wainaina",
+      "profession": "Software Developer",
+      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+      "github": "https://github.com/JamesWainaina",
+      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+      "email": "wainainajamesgatheru@gmail.com"
+    },
+
+    {
+      "name": "Jonas Ermert",
+      "profession": "Flutter, Dart",
+      "quote":"Welcome to my profile",
+      "twitter": "https://twitter.com/Jonas20692",  
+      "github": "https://github.com/jonasermert",
+      "linkedin": "https://linkedin.com/in/jonasermert/"
     },
     {
       "name": "Eslam AbdElhakem",
       "profession": "Software Engineer",
       "quote": "\"Be The Last Man Standing\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/EslamAbdElhakem",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
     {
-    "name": "Chad Peter",
-    "profession": "Your Profession",
-    "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
-    "twitter": "https://twitter.com/chardpeter10",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com/ChardPeter",
-    "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
-    "email": "chardpeter10@gmail.com"
+      "name": "Julius L. Jones Jr.",
+      "profession": "Student",
+      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/jlwj22",
+      "linkedin": "https://linkedin.com/in/juliusljonesjr",
+      "email": "mailto:Juliuslwj22@gmail.com"
+    },
+    {
+      "name": "Chad Peter",
+      "profession": "Your Profession",
+      "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
+      "twitter": "https://twitter.com/chardpeter10",
+      "github": "https://github.com/ChardPeter",
+      "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
+      "email": "chardpeter10@gmail.com"
+    },
 
-  },
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
       "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
       "twitter": "https://twitter.com/afhamu",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/afhamu",
       "linkedin": "https://linkedin.com/auwalu-hamza",
       "email": "mailto:auwalufalalu1@gmail.com"
@@ -56,8 +82,6 @@
       "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
       "twitter": "https://twitter.com/HenrySaya",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/HenrySaya",
       "linkedin": "https://linkedin.com/in/henry-saya",
       "email": "mailto:henrysaya@skiff.com"
@@ -367,6 +391,17 @@
       "github": "https://github.com/ORUNSOLU",
       "linkedin": "https://www.linkedin.com/in/dayo-o-44983b116",
       "email": "mailto:oruns@outlook.com"
+    },
+    {
+      "name": "Wesley Perrang",
+      "profession": "Software Developer",
+      "quote": "\"If you don't fight, You can't win!\"</br> - Eren Yeager",
+      "twitter": "https://twitter.com/WPerrang",
+      "dribbble": "https://dribbble.com/Wes_Per",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Wesley-Perrang",
+      "linkedin": "https://www.linkedin.com/in/wesley-perrang/",
+      "email": "wes3perrang@gmail.com"
     },
     {
       "name": "Adeshina Olorogun",
@@ -776,6 +811,17 @@
       "email": "mailto:abrahampilip16@gmail.com"
     },
     {
+      "name": "Kit-Kat31415926",
+      "profession": "Student",
+      "quote": "\"Everything's science fiction until someone makes it science fact\"<break> - Said By Marie Lu",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Kit-Kat31415926",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "Temitope Emokpae",
       "profession": "Student",
       "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
@@ -791,6 +837,8 @@
       "linkedin": "https://www.linkedin.com/in/ctokoli",
       "twitter": "https://twitter.com/ctokoli",
       "email": "mailto:matumasie@gmail.com"
+
     }
+    
   ]
 }
