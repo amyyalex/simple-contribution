@@ -39,6 +39,17 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Julius L. Jones Jr.",
+      "profession": "Student",
+      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/jlwj22",
+      "linkedin": "https://linkedin.com/in/juliusljonesjr",
+      "email": "mailto:Juliuslwj22@gmail.com"
+    },
+    {
       "name": "Chad Peter",
       "profession": "Your Profession",
       "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
@@ -47,6 +58,7 @@
       "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
       "email": "chardpeter10@gmail.com"
     },
+
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
