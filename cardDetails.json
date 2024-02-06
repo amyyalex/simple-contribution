@@ -1,6 +1,7 @@
 {
   "cardDetails": [
     {
+
       "name": "Your Name",
       "profession": "Your Profession",
       "quote": "\"Your favourite quote\"</br> - Said By Me",
@@ -20,6 +21,14 @@
       "github": "https://github.com/Akpevwe11",
       "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
       "email": "mailto:essiakpevwepraise@gmail.com"
+    },
+    {
+      "name": "James Wainaina",
+      "profession": "Software Developer",
+      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+      "github": "https://github.com/JamesWainaina",
+      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+      "email": "wainainajamesgatheru@gmail.com"
     },
 
     {
@@ -69,7 +78,6 @@
       "email": "mailto:auwalufalalu1@gmail.com"
     },
     {
-
       "name": "Henry Saya",
       "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
@@ -77,7 +85,6 @@
       "github": "https://github.com/HenrySaya",
       "linkedin": "https://linkedin.com/in/henry-saya",
       "email": "mailto:henrysaya@skiff.com"
-
     },
     {
       "name": "Ikegah Oliver",
@@ -840,5 +847,6 @@
       "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
       "email": "tatawclarkson@gmail.com"
     }
+    
   ]
 }
