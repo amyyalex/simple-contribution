@@ -11,7 +11,7 @@
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
-	  
+
     {
       "name": "Adarsh Sahu",
       "profession": "Student",
@@ -22,8 +22,17 @@
       "github": "https://github.com/yaarAdarsh",
       "linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
       "email": "mailto:addudx@gmail.com"
+
+    {
+      "name": "Tracy Sambu",
+      "profession": "Software Developer and OpenSource Contributor",
+      "quote": "\"We still Rise\"</br> - Said By Lewis Hamilton",
+      "twitter": "https://twitter.com/sambu_tracy",
+      "github": "https://github.com/sambutracy",
+      "linkedin": "https://www.linkedin.com/in/tracysambu/",
+      "email": "tracysambut@gmail.com"
     },
-	  
+
     {
       "name": "Essi Akpevwe Praise",
       "profession": "Software Developer & IT",
@@ -32,6 +41,14 @@
       "github": "https://github.com/Akpevwe11",
       "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
       "email": "mailto:essiakpevwepraise@gmail.com"
+    },
+    {
+      "name": "James Wainaina",
+      "profession": "Software Developer",
+      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+      "github": "https://github.com/JamesWainaina",
+      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+      "email": "wainainajamesgatheru@gmail.com"
     },
 
     {
@@ -51,6 +68,17 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Julius L. Jones Jr.",
+      "profession": "Student",
+      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/jlwj22",
+      "linkedin": "https://linkedin.com/in/juliusljonesjr",
+      "email": "mailto:Juliuslwj22@gmail.com"
+    },
+    {
       "name": "Chad Peter",
       "profession": "Your Profession",
       "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
@@ -59,6 +87,7 @@
       "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
       "email": "chardpeter10@gmail.com"
     },
+
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
@@ -69,7 +98,6 @@
       "email": "mailto:auwalufalalu1@gmail.com"
     },
     {
-
       "name": "Henry Saya",
       "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
@@ -77,7 +105,6 @@
       "github": "https://github.com/HenrySaya",
       "linkedin": "https://linkedin.com/in/henry-saya",
       "email": "mailto:henrysaya@skiff.com"
-
     },
     {
       "name": "Ikegah Oliver",
@@ -111,6 +138,14 @@
       "github": "https://github.com/kyalo3",
       "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
       "email": "mailto:kyalokimeu0@gmail.com"
+    },
+    {
+      "name": "Sergius Justus Nyah", 
+      "profession": "Computer Science student",
+      "quote": "\"The greatest penalty to declining leadership is to be ruled be ruled by someone inferior to you\"<br> - Pluto",
+      "github": "https://github.com/Sergius-Nyah",
+      "LinkedIn": "https://linked/in.com/Sergius-Nyah/", 
+      "email": "mailto://sergiusnyah@gmail.com"
     },
     {
       "name": "Brian kyalo",
@@ -236,6 +271,14 @@
       "github": "https://github.com/sandy15d",
       "linkedin": "https://www.linkedin.com/in/sandy15d/",
       "email": "mailto:sandeepdewangan2012@gmail.com"
+    },
+    {
+      "name": "Dhel Malith",
+      "profession": "Junior Cybersecurity Analyst",
+      "twitter": "https://twitter.com/ThomasObote1?s=09",
+      "github": "https://github.com/thomasobote211",
+      "linkedin": "https://www.linkedin.com/in/thomas-obote-a7b5131b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "email": "dhelmcm@gmail.com"
     },
     {
       "name": "Jim Hatley",
@@ -821,24 +864,17 @@
       "github": "https://github.com/temokpae3",
       "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
       "email": "mailto:temokpae3@gmail.com"
-
     },
     {
-      "name": "Okoye Johnpaul",
-      "profession": "Software Developer",
-      "quote": "\"He conquers who conquers himself",
-      "github": "https://github.com/jaypee15",
-      "linkedin": "https://www.linkedin.com/in/johnpaulokoye/",
-      "email": "mailto:okoyejohnpaul15@@gmail.com"
+      "name": "Cephas Tokoli",
+      "profession": "FullStack Developer",
+      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+      "github": "https://github.com/ctokoli",
+      "linkedin": "https://www.linkedin.com/in/ctokoli",
+      "twitter": "https://twitter.com/ctokoli",
+      "email": "mailto:matumasie@gmail.com"
 
-    },
-	  {
-      "name": "Tataw Clarkson T",
-      "profession": "Software Engeneering intern",
-      "quote": "\"For God so loved the world && Life is easy when you live it the hard way and hard when you try to live it the easy way\"</br> - Said by Book of John && Dave Kekich",
-      "github": "https://github.com/tataw-cl",
-      "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
-      "email": "tatawclarkson@gmail.com"
     }
+    
   ]
 }
