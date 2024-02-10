@@ -1,15 +1,13 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "James Ngandu",
+      "profession": "Frontend Developer, Opensource Contributor",
+      "quote": "\"Keep moving\"</br> - Martin luther king",
+      "twitter": "https://twitter.com/jm_ngandu",
+      "github": "https://github.com/jmngandu",
+      "linkedin": "https://linkedin.com/in/james-ngandu",
+      "email": "mailto:jamesmngandu@gmail.com"
     },
 
     {
