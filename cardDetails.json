@@ -883,8 +883,15 @@
       "linkedin": "https://www.linkedin.com/in/ctokoli",
       "twitter": "https://twitter.com/ctokoli",
       "email": "mailto:matumasie@gmail.com"
-
+    },
+    {
+      "name" : "Belrick Stephane",
+      "profession": "Software & Automation Eng.",
+      "quote" : "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
+      "github": "https://github.com/latioms",
+      "linkedin": "https://www.linkedin.com/in/belrick-stephane/"
+	 
     }
-    
+
   ]
 }
