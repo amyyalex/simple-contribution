@@ -876,6 +876,14 @@
       "email": "mailto:temokpae3@gmail.com"
     },
     {
+      "name": "Pariya Hajipour",
+      "profession": "Computer Engineering Student",
+      "quote": "\"Well, nobody's perfect.\"</br> - Some Like It Hot",
+      "github": "https://github.com/pariyahr",
+      "linkedin": "https://www.linkedin.com/in/pariya-hajipour/",
+      "email": "pariyahajipour@gmail.com"
+    },
+    {
       "name": "Cephas Tokoli",
       "profession": "FullStack Developer",
       "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
@@ -890,7 +898,6 @@
       "quote" : "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
       "github": "https://github.com/latioms",
       "linkedin": "https://www.linkedin.com/in/belrick-stephane/"
-	 
     }
 
   ]
