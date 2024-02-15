@@ -436,9 +436,10 @@ section {
 }
 /*help section style*/
 .contribute {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
 }
 
 .contribute-container {

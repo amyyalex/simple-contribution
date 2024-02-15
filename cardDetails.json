@@ -1,52 +1,99 @@
 {
-  "example": {
-    "name": "Your Name",
-    "profession": "Your Profession",
-    "quote": "\"Your favorite quote\"</br> - Said by",
-    "twitter": "https://twitter.com",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com",
-    "linkedin": "https://linkedin.com",
-    "email": "mailto:youremail@gmail.com"
-  },
   "cardDetails": [
     {
       "name": "Your Name",
       "profession": "Your Profession",
-      "quote": "\"Your favorite quote\"</br> - Said by",
+      "quote": "\"Your favourite quote\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
+    },
+
+    {
+      "name": "Adarsh Sahu",
+      "profession": "Student",
+      "quote": "\"Stop thinking, Start doing\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/yaarAdarsh",
+      "linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
+      "email": "mailto:addudx@gmail.com"
+    },
+
+    {
+      "name": "Tracy Sambu",
+      "profession": "Software Developer and OpenSource Contributor",
+      "quote": "\"We still Rise\"</br> - Said By Lewis Hamilton",
+      "twitter": "https://twitter.com/sambu_tracy",
+      "github": "https://github.com/sambutracy",
+      "linkedin": "https://www.linkedin.com/in/tracysambu/",
+      "email": "tracysambut@gmail.com"
+    },
+
+    {
+      "name": "Essi Akpevwe Praise",
+      "profession": "Software Developer & IT",
+      "quote": "\"Your He who has a why can bear almost any how\"</br> - Viktor E. Frankl",
+      "twitter": "https://twitter.com/praisex64",
+      "github": "https://github.com/Akpevwe11",
+      "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
+      "email": "mailto:essiakpevwepraise@gmail.com"
+    },
+    {
+      "name": "James Wainaina",
+      "profession": "Software Developer",
+      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+      "github": "https://github.com/JamesWainaina",
+      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+      "email": "wainainajamesgatheru@gmail.com"
+    },
+
+    {
+      "name": "Jonas Ermert",
+      "profession": "Flutter, Dart",
+      "quote":"Welcome to my profile",
+      "twitter": "https://twitter.com/Jonas20692",  
+      "github": "https://github.com/jonasermert",
+      "linkedin": "https://linkedin.com/in/jonasermert/"
     },
     {
       "name": "Eslam AbdElhakem",
       "profession": "Software Engineer",
       "quote": "\"Be The Last Man Standing\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/EslamAbdElhakem",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
     {
-    "name": "Chad Peter",
-    "profession": "Your Profession",
-    "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
-    "twitter": "https://twitter.com/chardpeter10",
-    "dribbble": "https://dribbble.com",
-    "behance": "https://behance.com",
-    "github": "https://github.com/ChardPeter",
-    "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
-    "email": "chardpeter10@gmail.com"
+      "name": "Julius L. Jones Jr.",
+      "profession": "Student",
+      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/jlwj22",
+      "linkedin": "https://linkedin.com/in/juliusljonesjr",
+      "email": "mailto:Juliuslwj22@gmail.com"
+    },
+    {
+      "name": "Chad Peter",
+      "profession": "Your Profession",
+      "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
+      "twitter": "https://twitter.com/chardpeter10",
+      "github": "https://github.com/ChardPeter",
+      "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
+      "email": "chardpeter10@gmail.com"
+    },
 
-  },
     {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
       "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
       "twitter": "https://twitter.com/afhamu",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/afhamu",
       "linkedin": "https://linkedin.com/auwalu-hamza",
       "email": "mailto:auwalufalalu1@gmail.com"
@@ -56,8 +103,6 @@
       "profession": "Software Engineer",
       "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
       "twitter": "https://twitter.com/HenrySaya",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
       "github": "https://github.com/HenrySaya",
       "linkedin": "https://linkedin.com/in/henry-saya",
       "email": "mailto:henrysaya@skiff.com"
@@ -69,6 +114,15 @@
       "github": "https://github.com/oliverTwist2",
       "linkedin": "https://www.linkedin.com/in/ikegah-oliver/",
       "email": "oliverikegah@gmail.com"
+    },
+    {
+      "name": "Mwofoh Adriel",
+      "profession": "Student",
+      "quote": "\"Time isn't the main thing. It's the only thing.\"</br> - Said by Miles Davis",
+      "github": "https://github.com/Mwofoh-Adriel",
+      "linkedin": "https://www.linkedin.com/in/adriel-mwofoh-6ab680269//",
+      "instagram":"https://www.instagram.com/mwofohadriel/",
+      "email": "Mwofohadriel@gmail.com"
     },
     {
       "name": "Ande Gangadhara Rao",
@@ -94,6 +148,14 @@
       "github": "https://github.com/kyalo3",
       "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
       "email": "mailto:kyalokimeu0@gmail.com"
+    },
+    {
+      "name": "Sergius Justus Nyah", 
+      "profession": "Computer Science student",
+      "quote": "\"The greatest penalty to declining leadership is to be ruled be ruled by someone inferior to you\"<br> - Pluto",
+      "github": "https://github.com/Sergius-Nyah",
+      "LinkedIn": "https://linked/in.com/Sergius-Nyah/", 
+      "email": "mailto://sergiusnyah@gmail.com"
     },
     {
       "name": "Brian kyalo",
@@ -219,6 +281,14 @@
       "github": "https://github.com/sandy15d",
       "linkedin": "https://www.linkedin.com/in/sandy15d/",
       "email": "mailto:sandeepdewangan2012@gmail.com"
+    },
+    {
+      "name": "Dhel Malith",
+      "profession": "Junior Cybersecurity Analyst",
+      "twitter": "https://twitter.com/ThomasObote1?s=09",
+      "github": "https://github.com/thomasobote211",
+      "linkedin": "https://www.linkedin.com/in/thomas-obote-a7b5131b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "email": "dhelmcm@gmail.com"
     },
     {
       "name": "Jim Hatley",
@@ -367,6 +437,17 @@
       "github": "https://github.com/ORUNSOLU",
       "linkedin": "https://www.linkedin.com/in/dayo-o-44983b116",
       "email": "mailto:oruns@outlook.com"
+    },
+    {
+      "name": "Wesley Perrang",
+      "profession": "Software Developer",
+      "quote": "\"If you don't fight, You can't win!\"</br> - Eren Yeager",
+      "twitter": "https://twitter.com/WPerrang",
+      "dribbble": "https://dribbble.com/Wes_Per",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Wesley-Perrang",
+      "linkedin": "https://www.linkedin.com/in/wesley-perrang/",
+      "email": "wes3perrang@gmail.com"
     },
     {
       "name": "Adeshina Olorogun",
@@ -776,6 +857,17 @@
       "email": "mailto:abrahampilip16@gmail.com"
     },
     {
+      "name": "Kit-Kat31415926",
+      "profession": "Student",
+      "quote": "\"Everything's science fiction until someone makes it science fact\"<break> - Said By Marie Lu",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Kit-Kat31415926",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "Temitope Emokpae",
       "profession": "Student",
       "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
@@ -790,6 +882,23 @@
       "github": "https://github.com/pariyahr",
       "linkedin": "https://www.linkedin.com/in/pariya-hajipour/",
       "email": "pariyahajipour@gmail.com"
+    },
+    {
+      "name": "Cephas Tokoli",
+      "profession": "FullStack Developer",
+      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+      "github": "https://github.com/ctokoli",
+      "linkedin": "https://www.linkedin.com/in/ctokoli",
+      "twitter": "https://twitter.com/ctokoli",
+      "email": "mailto:matumasie@gmail.com"
+    },
+    {
+      "name" : "Belrick Stephane",
+      "profession": "Software & Automation Eng.",
+      "quote" : "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
+      "github": "https://github.com/latioms",
+      "linkedin": "https://www.linkedin.com/in/belrick-stephane/"
     }
+
   ]
 }
