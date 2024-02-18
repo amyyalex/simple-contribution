@@ -109,6 +109,15 @@
       "email": "chardpeter10@gmail.com"
     },
     {
+      "name": "Tsafac Nkombong Regine Cyrille",
+      "profession": "Network Engineer",
+      "quote": "\"Push Yourself, No One Else Will\"</br> - By Hermann & Me",
+      "twitter": "https://twitter.com/RegineCyrille1",
+      "github": "https://github.com/Regine12",
+      "linkedin": "https://www.linkedin.com/in/tsafac-nkombong-regine-cyrille",
+      "email": "reginecyrille@gmail.com"
+    },
+    {
       "name": "Auwalu Hamza",
       "profession": "Fullstack Developer",
       "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
@@ -923,6 +932,15 @@
       "profession": "SWE Student",
       "github": "https://github.com/ahmedbentabet",
       "linkedin": "https://www.linkedin.com/in/ahmedbentabet/"
+    },
+    {     
+      "name": "David Enikuomehin",
+      "profession": "Software Engineer",
+      "quote": "\"Suckin at something is the first step to being sorta good at something \"</br> - Jake the Dog",
+      "twitter": "https://twitter.com/deveniku",
+      "github": "https://github.com/eniiku",
+      "linkedin": "https://linkedin.com/in/david-eniku",
+      "email": "mailto:enikucaches@gmail.com"
     }
 
   ]
