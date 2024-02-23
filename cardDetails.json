@@ -11,10 +11,22 @@
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
+    {
+      "name": "Danyal Ejaz",
+      "profession": "Student",
+      "quote": "\"Everything you can imagine is real\"</br> - Said By Me",
+      "twitter": "https://twitter.com/twtdanyal",
+      "dribbble": "https://dribbble.com/danyalejaz",
+      "behance": "https://behance.com/danyalejaz",
+      "github": "https://github.com/danyalejaz",
+      "linkedin": "https://linkedin.com/danyalejaz",
+      "email": "mailto:danyalejaz10@outlook.com"
+    },
+    
 
     {
       "name": "Claudia Varona",
-      "profession": "Software Engeneer",
+      "profession": "Software Engineer",
       "quote": "\"Dreams don't work unless you do.\"</br> - John C. Maxwell",
       "github": "https://github.com/Clau050994/",
       "linkedin": "https://www.linkedin.com/in/claudia-varona-p%C3%A9rez-96b3bb114/",
