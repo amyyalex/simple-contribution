@@ -8,11 +8,11 @@ Before we start contributing, First things first let's do a quick Github setup!
 
 2. Create a free GitHub account or login to your GitHub account, If you already have one.
 
-There are different ways to clone a repo; through GitHub Desktop, git bash (git terminal), VS Code terminal and for the purpose of this project, you have to have either one of the listed in other to successfully clone and contribute to this project.
+There are different ways to clone a repo; through GitHub Desktop, git bash (git terminal), VS Code terminal, and for this project, you have to have either one of the listed in other to successfully clone and contribute to this project.
 
-1. Through Github Desktop, Download [GitHub Desktop app](https://desktop.github.com/).
+1. Through GitHub Desktop, Download [GitHub Desktop app](https://desktop.github.com/).
 
-2. Comfortable using Git on the command line and want to use the git terminal to clone, download [git bash](https://desktop.gitbash.com/).
+2. Comfortable using Git on the command line and want to use the git terminal to clone, and download [git bash](https://desktop.gitbash.com/).
 3. Alternatively If you use [VS Code](https://code.visualstudio.com/ "Visual Studio Code website") you can use the VS Code terminal to clone as well.
 
 **Now that we are done with setting up the essentials needed for this contribution to be a success, let's get to the main thing, CONTRIBUTION!.<br><br>**
@@ -23,12 +23,12 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
 <h4>Step 1: Fork this repository</h4>
 
-- The objective here is to make a copy of this project and place it in your account. So go to the top right click on the fork icon just as in the picture below.
+- The objective here is to make a copy of this project and place it in your account. So go to the top right and click on the fork icon just as in the picture below.
   ![Fork](image/fork.PNG "click on 'Fork'")
 
 <h4>Step 2: Clone the repository</h4>
 
-- Now that you've successfully forked the repository and made a copy into our account,go ahead and clone the repository which is basically making a local copy of the project. This copy is saved on your own machine.
+- Now that you've successfully forked the repository and made a copy into our account, go ahead and clone the repository which is making a local copy of the project. This copy is saved on your machine.
 
 **To clone:**
 
@@ -38,7 +38,7 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
   ![Clone](image/clone.png "click clone repository")
 
-  - You will see a list of all your repository and forks on GitHub.
+  - You will see a list of all your repositories and forks on GitHub.
   - Select `<your-github-username>/simple-contribution`.
   - Click _Clone_ button
 
@@ -47,7 +47,7 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 <h4>Step 3: Create a new branch</h4>
 
 - Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
-- We create a new branch to keep your changes separate from the master branch sometimes known as main branch so that if things go wrong you can simply delete the branch and the main project is not affected.
+- We create a new branch to keep your changes separate from the master branch sometimes known as the main branch so that if things go wrong you can simply delete the branch and the main project is not affected.
 
 * Click on _Current branch_
 
@@ -65,8 +65,8 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
 <h4>Step 4: Open the project with VS Code (or any editor of choice)</h4>
 
-- Once you click on _open with visual studio code_, the project opens up on you VS Code open the index.html file to start editing.
-- If your're using other editor, find the project folder on your computer. The `index.html` file is directly in the `simple-contribution` folder.
+- Once you click on _open with visual studio code_, the project opens up for you VS Code open the index.html file to start editing.
+- If you're using other editors, find the project folder on your computer. The `index.html` file is directly in the `simple-contribution` folder.
 
 [Open VS Code](image/vscode-open.jpeg "Open index.html in your text editor")
 
@@ -76,12 +76,12 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
 * Go to carddetail.json file,
   - You'll see an array of data, add a new object into the array (to make it easier, **copy** and **paste** carddetails object template and edit)
-    The object template which you've copied is now **yours** for you to customize and edit.
-  - Replace 'Your Name' with your name, 'Your Profession' with what you do, add your favorite quote and the link to your socials.
+    The object template that you've copied is now **yours** for you to customize and edit.
+  - Replace 'Your Name' with your name, 'Your Profession' with what you do, and add your favorite quote and the link to your socials.
 
 - Once you're done, **save your changes** by pressing `ctrl + s`.
-- Next is to **Test your changes**. THIS IS IMPORTANT! To do that, left click on the index.html and navigate to
-  _open in default browser_ and click on it.This project will open in your browser and you'll see what the changes you added look like on the site.
+- Next is to **Test your changes**. THIS IS IMPORTANT! To do that, left-click on the index.html and navigate to
+  _open in default browser_ and click on it. This project will open in your browser and you'll see what the changes you added look like on the site.
 - Now, you have finished editing your code! And if nothing is broken and everything is working fine, you can go ahead and commit your changes.
 
 <h4>Step 6: Commit and Push your changes</h4>
@@ -89,7 +89,7 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 **Commit Changes**
 
 - To commit your changes, go back to the GitHub desktop app; you will see that your changes have been added automatically to the staging area which means that all the changes made are already saved.
-- Go ahead and _commit_ by filling in the _Summary_ field (the _description_ is optional). Add a short commit message explaining what you have changed e.g add my information and click the _Commit to main_ button.
+- Go ahead and _commit_ by filling in the _Summary_ field (the _description_ is optional). Add a short commit message explaining what you have changed e.g. add my information and click the _Commit to main_ button.
   **P.S: Please ensure that, before committing any changes, you've thoroughly checked for any broken code and ensured it's error-free on your side.**
 
 ![Commit Changes](image/commit.PNG "Commit your changes")
@@ -110,11 +110,11 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
   - By either clicking on the _create pull request_ button that shows after clicking the push button in Github Desktop
   - Or you go to the main page of **your fork** on GitHub, towards the top of the repo you will see a highlighted pull request message with a green button that has _Compare and pull request_ written on it. Click on the button to create your pull request.
 
-  * Now when the **Open a pull request** page opens, it should look like the one in the photo below. Original project on the left, followed by the master branch. Your fork on the right and the branch you created
+  * Now when the **Open a pull request** page opens, it should look like the one in the photo below. The original project is on the left, followed by the master branch. Your fork on the right and the branch you created
 
   ![Open a Pull Request](image/pull-request.png "You are requesting to merge your branch from your fork into the master branch of the original project")
 
-  - On the pull request page, write a title and add optional information in the description. Click `Create pull request` button.
+  - On the pull request page, write a title and add optional information in the description. Click the `Create pull request` button.
 
 **NOTE: Please remember to include a comprehensive commit message and an extended description, particularly if your changes involve more than just adding your details. This will provide a clearer understanding of the nature and purpose of your commit within the project.**
 
@@ -124,7 +124,7 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
 **<span style="color:red;">Using git bash (git terminal).</span>**
 
-This steps can also be used if you're using VS Code terminal.
+These steps can also be used if you're using a VS Code terminal.
 
 Go to the current directory where you want the cloned directory to be added.
 
@@ -174,17 +174,17 @@ git commit -m "Add <your-name> card info"
 git push origin -u your-branch-name
 ```
 
-- Continue the process _using the github desktop_ steps (step7) after pushing as it's same.
+- Continue the process _using the github desktop_ steps (step7) after pushing as it's the same.
 
 **Thank you for contributing to this project**.🤗
 
-### Now that you're done contributing, go back to the main account repository, click on the site link by the right side, check out other contributors socials and connect with them. Also click on the _star_ button beside the _fork_ button.
+### Now that you're done contributing, go back to the main account repository, click on the site link by the right side, check out other contributor's socials, and connect with them. Also, click on the _star_ button beside the _fork_ button.
 
 ![Star](image/star.PNG "Click the star button")
 
 # Acknowledgements🙏
 
-This project is heavily influenced by [Syknapse](https://github.com/Syknapse) Amazing [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) project with its fine tuned tutorial. The project is also an awesome project for first time contributors as well so go ahead and contribute!
+This project is heavily influenced by [Syknapse](https://github.com/Syknapse) Amazing [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) project with its fine-tuned tutorial. The project is also an awesome project for first-time contributors as well so go ahead and contribute!
 
 - You can **follow me** and get in touch on [Twitter](https://twitter.com/AlexStephanie10 "@AlexStephanie10")
 
