@@ -11,6 +11,15 @@
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
     },
+
+    {
+      "name": "Ivan Ho",
+      "profession": "Student",
+      "quote": "\"If you can’t be kind, at least be vague.\"</br> - Judith Martin",
+      "github": "https://github.com/iho21",
+      "linkedin": "https://www.linkedin.com/in/ivanhocsula/",
+    },
+
     {
       "name": "Danyal Ejaz",
       "profession": "Student",
