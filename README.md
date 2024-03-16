@@ -1,11 +1,12 @@
 # simple-contribution
 
 # [Contribute To This Project](https://amyyalex.github.io/simple-contribution/)
+
 **Click on the [link](https://amyyalex.github.io/simple-contribution/) to see the live site!**
 
 ## Introduction
 
-This is a very simple project to help first-time contributors easily participate and contribute to open source projects and also get more comfortable in using GitHub.
+Hey there! Welcome to the Simple Contribution repo. This is a very simple web project to help first-time contributors easily participate and contribute to open source projects and also get more comfortable in using GitHub. Who knows - our "simple" contribution may become something amazing!
 
 ### Who can contribute?
 
