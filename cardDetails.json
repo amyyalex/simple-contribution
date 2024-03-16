@@ -34,7 +34,14 @@
       "github": "https://github.com/iho21",
       "linkedin": "https://www.linkedin.com/in/ivanhocsula/",
     },
-
+    {
+      "name": "Itzel Bailon",
+      "profession": "Learning Assistant",
+      "quote": "\"The only person you should try to be better than is the person you were yesterday.\"</br>  - Unknown",
+      "github": "https://github.com/Xatziri",
+      "linkedin": "https://www.linkedin.com/in/itzel-bailon/",
+      "email": "mailto:ibailon.ptc@gmail.com"
+    },
     {
       "name": "Danyal Ejaz",
       "profession": "Student",
