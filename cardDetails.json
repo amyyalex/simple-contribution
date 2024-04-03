@@ -1,6 +1,5 @@
 {
- [
-  "cardDetails": 
+  "cardDetails": [
     {
       "name": "Your Name",
       "profession": "Your Profession",
@@ -33,7 +32,7 @@
       "profession": "Student",
       "quote": "\"If you can’t be kind, at least be vague.\"</br> - Judith Martin",
       "github": "https://github.com/iho21",
-      "linkedin": "https://www.linkedin.com/in/ivanhocsula/",
+      "linkedin": "https://www.linkedin.com/in/ivanhocsula/"
     },
     {
       "name": "Itzel Bailon",
@@ -54,7 +53,6 @@
       "linkedin": "https://linkedin.com/danyalejaz",
       "email": "mailto:danyalejaz10@outlook.com"
     },
-    
 
     {
       "name": "Claudia Varona",
@@ -107,8 +105,8 @@
     {
       "name": "Jonas Ermert",
       "profession": "Flutter, Dart",
-      "quote":"Welcome to my profile",
-      "twitter": "https://twitter.com/Jonas20692",  
+      "quote": "Welcome to my profile",
+      "twitter": "https://twitter.com/Jonas20692",
       "github": "https://github.com/jonasermert",
       "linkedin": "https://linkedin.com/in/jonasermert/"
     },
@@ -143,7 +141,6 @@
       "email": "franckkasongokalala@gmail.com"
     },
     {
-
       "name": "Jerry Onyango",
       "profession": "Computer Science Student",
       "quote": "\"All this jewelry have no use at night\"</br> - Said by not me",
@@ -204,7 +201,7 @@
       "quote": "\"Time isn't the main thing. It's the only thing.\"</br> - Said by Miles Davis",
       "github": "https://github.com/Mwofoh-Adriel",
       "linkedin": "https://www.linkedin.com/in/adriel-mwofoh-6ab680269//",
-      "instagram":"https://www.instagram.com/mwofohadriel/",
+      "instagram": "https://www.instagram.com/mwofohadriel/",
       "email": "Mwofohadriel@gmail.com"
     },
     {
@@ -233,11 +230,11 @@
       "email": "mailto:kyalokimeu0@gmail.com"
     },
     {
-      "name": "Sergius Justus Nyah", 
+      "name": "Sergius Justus Nyah",
       "profession": "Computer Science student",
       "quote": "\"The greatest penalty to declining leadership is to be ruled be ruled by someone inferior to you\"<br> - Pluto",
       "github": "https://github.com/Sergius-Nyah",
-      "LinkedIn": "https://linked/in.com/Sergius-Nyah/", 
+      "LinkedIn": "https://linked/in.com/Sergius-Nyah/",
       "email": "mailto://sergiusnyah@gmail.com"
     },
     {
@@ -985,19 +982,19 @@
       "email": "mailto:matumasie@gmail.com"
     },
     {
-      "name" : "Belrick Stephane",
+      "name": "Belrick Stephane",
       "profession": "Software & Automation Eng.",
-      "quote" : "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
+      "quote": "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
       "github": "https://github.com/latioms",
       "linkedin": "https://www.linkedin.com/in/belrick-stephane/"
     },
     {
-      "name" : "Ahmed Bentabet",
+      "name": "Ahmed Bentabet",
       "profession": "SWE Student",
       "github": "https://github.com/ahmedbentabet",
       "linkedin": "https://www.linkedin.com/in/ahmedbentabet/"
     },
-    {     
+    {
       "name": "Kamangu Maeti",
       "profession": "Bioengineer",
       "quote": "\"If you're not adding things back in at least 10% of the time, you're clearly not deleting enough because the most common error of a smart engineer is to optimise a thing that should not exist \"</br> - Elon Musk",
@@ -1006,7 +1003,7 @@
       "linkedin": "https://linkedin.com/in/kamangumaeti",
       "email": "kamangusamuel152@gmail.com"
     },
-    {     
+    {
       "name": "David Enikuomehin",
       "profession": "Software Engineer",
       "quote": "\"Suckin at something is the first step to being sorta good at something \"</br> - Jake the Dog",
@@ -1015,7 +1012,7 @@
       "linkedin": "https://linkedin.com/in/david-eniku",
       "email": "mailto:enikucaches@gmail.com"
     },
-     {
+    {
       "name": "Noah Uhunmwangho-Johnson",
       "profession": "Software Engineer",
       "quote": "\"This is life, and I will not lie by saying every day will be sunshine. But there will be sunshine again, and that is a very different thing to say.\"</br> - Brandon Sanderson, Rhythm of War",
@@ -1039,6 +1036,14 @@
       "github": "https://github.com/gameliaprogrammer",
       "linkedin": "https://www.linkedin.com/in/jamila-developer/",
       "email": "mailto:youremail@gmail.com"
+
+    {
+      "name": "Nicolas Manigand",
+      "profession": "Web Developer",
+      "quote": "\"There is a whale under gravel\"</br> - Said By Me",
+      "github": "https://github.com/NicolasM-83200",
+      "linkedin": "https://www.linkedin.com/in/nicolas-manigand-a6910b2a6/",
+      "email": "mailto:manigand.nicolas@gmail.com"
     }
   ]
 }
