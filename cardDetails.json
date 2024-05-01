@@ -1036,6 +1036,7 @@
       "github": "https://github.com/gameliaprogrammer",
       "linkedin": "https://www.linkedin.com/in/jamila-developer/",
       "email": "mailto:youremail@gmail.com"
+    },
 
     {
       "name": "Nicolas Manigand",
@@ -1044,6 +1045,14 @@
       "github": "https://github.com/NicolasM-83200",
       "linkedin": "https://www.linkedin.com/in/nicolas-manigand-a6910b2a6/",
       "email": "mailto:manigand.nicolas@gmail.com"
+    },
+    {
+      "name": "Kennedy Musau",
+      "profession": "Web Developer",
+      "quote": "\"Celebrate small victories; they lead to big breakthroughs.\"</br> - Said By Me",
+      "github": "https://github.com/kenmusau",
+      "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
+      "email": "mailto:kennedy.musauu@gmail.com"
     }
   ]
 }
