@@ -1064,6 +1064,17 @@
       "email": "mailto:manigand.nicolas@gmail.com"
     },
     {
+      "name": "Emmanuel Maunga",
+      "profession": "Software Engineer",
+      "quote": "\"Be the change you wish to see in the world\"</br> - Mahatma Gandhi",
+      "twitter": "https://twitter.com/cap_nemo1",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/maunga-et",
+      "linkedin": "https://linkedin.com/in/emmanuel-maunga-7555b7182",
+      "email": "mailto:tanyahmaunga274@gmail.com"
+    },
+    {
       "name": "Kennedy Musau",
       "profession": "Web Developer",
       "quote": "\"Celebrate small victories; they lead to big breakthroughs.\"</br> - Said By Me",
@@ -1071,5 +1082,6 @@
       "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
       "email": "mailto:kennedy.musauu@gmail.com"
     }
+
   ]
 }
