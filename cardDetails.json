@@ -12,6 +12,14 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Kerimcan Balkan",
+      "profession": "Student",
+      "quote": "\"God does not play dice\"</br> - Albert Einstein",
+      "github": "https://github.com/kerimcanbalkan",
+      "linkedin": "https://linkedin.com/kerimcanbalkan",
+      "email": "mailto:kerimcanbalkan@gmail.com"
+    },
+    {
       "name": "Samkelo chamane",
       "profession": "PowerApp Developer and Data Analyst",
       "quote": "\"Believe and show up everyday for yourself\"</br> - Said By Me",
@@ -52,6 +60,15 @@
       "github": "https://github.com/danyalejaz",
       "linkedin": "https://linkedin.com/danyalejaz",
       "email": "mailto:danyalejaz10@outlook.com"
+    },
+    {
+      "name": "Cyril Baah",
+      "profession": "DevOps Engineer",
+      "quote": "\"It easy to lose what you've gain if you don't make efforts to hold it\"</br> - Unknown",
+      "twitter": "https://twitter.com/baahcy",
+      "github": "https://github.com/CyrilBaah",
+      "linkedin": "https://www.linkedin.com/in/cyril-baah",
+      "email": "mailto:baah_yard12@yahoo.com"
     },
 
     {
@@ -1037,6 +1054,7 @@
       "linkedin": "https://www.linkedin.com/in/jamila-developer/",
       "email": "mailto:youremail@gmail.com"
     },
+
     {
       "name": "Nicolas Manigand",
       "profession": "Web Developer",
@@ -1056,5 +1074,14 @@
       "linkedin": "https://linkedin.com/in/emmanuel-maunga-7555b7182",
       "email": "mailto:tanyahmaunga274@gmail.com"
     },
+    {
+      "name": "Kennedy Musau",
+      "profession": "Web Developer",
+      "quote": "\"Celebrate small victories; they lead to big breakthroughs.\"</br> - Said By Me",
+      "github": "https://github.com/kenmusau",
+      "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
+      "email": "mailto:kennedy.musauu@gmail.com"
+    }
+
   ]
 }
