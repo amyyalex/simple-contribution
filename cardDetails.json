@@ -12,6 +12,12 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Ndifon",
+      "profession": "Software Engineer and Student",
+      "quote": "\"Dont't let your friends know you are a designer\"</br> - Said By Me",
+      "github": "https://github.com/N-TITIAN"
+    },
+    {
       "name": "zehor-l",
       "profession": "Apspiring Engineer",
 
@@ -1089,6 +1095,5 @@
       "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
       "email": "mailto:kennedy.musauu@gmail.com"
     }
-
   ]
 }
