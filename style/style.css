@@ -343,7 +343,7 @@ section {
   height: 400px;
 }
 
-.cards {
+.cards{
   width: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -351,6 +351,7 @@ section {
   align-items: center;
   margin: 0 auto;
 }
+
 
 .card-details h1 {
   text-transform: capitalize;
@@ -364,6 +365,11 @@ section {
   font-family: "Tangerine", cursive;
   font-size: 25px;
 }
+
+.card:hover{
+  background: rgba(10, 3, 50, 0.227);
+}
+
 
 .social-icon a {
   font-size: 1.5rem;
@@ -443,8 +449,7 @@ section {
 
 .contribute-container {
   padding: 50px;
-  /* margin-top: 40px; */
-  margin-bottom: 60px;
+  margin-bottom: 40PX;
   width: 800px;
   text-align: center;
   align-items: center;
