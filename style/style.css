@@ -443,6 +443,8 @@ section {
 
 .contribute-container {
   padding: 50px;
+  /* margin-top: 40px; */
+  margin-bottom: 60px;
   width: 800px;
   text-align: center;
   align-items: center;
