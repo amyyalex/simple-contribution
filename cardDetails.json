@@ -12,11 +12,18 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Ndifon",
+      "profession": "Software Engineer and Student",
+      "quote": "\"Dont't let your friends know you are a designer\"</br> - Said By Me",
+      "github": "https://github.com/N-TITIAN"
+    },
+    {
       "name": "Ch.Sai Pradyumna Goud",
       "profession": "Apspiring Full stack developer",
       "github": "https://github.com/saipradyumnagoud",
       "linkedin": "https://www.linkedin.com/in/saipradyumnagoudch/"
-    }
+    },
+
     {
       "name": "zehor-l",
       "profession": "Apspiring Engineer",
