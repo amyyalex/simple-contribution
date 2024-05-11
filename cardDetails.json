@@ -18,6 +18,13 @@
       "github": "https://github.com/N-TITIAN"
     },
     {
+      "name": "Ch.Sai Pradyumna Goud",
+      "profession": "Apspiring Full stack developer",
+      "github": "https://github.com/saipradyumnagoud",
+      "linkedin": "https://www.linkedin.com/in/saipradyumnagoudch/"
+    },
+
+    {
       "name": "zehor-l",
       "profession": "Apspiring Engineer",
 
@@ -1094,6 +1101,22 @@
       "github": "https://github.com/kenmusau",
       "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
       "email": "mailto:kennedy.musauu@gmail.com"
+    },
+    {
+      "name": "Kelly Kiiru",
+      "profession": "Full Stack Web Developer",
+      "quote": "\"Learn, unlearn, relearn. Keep Learning.\"</br> - Said By Me",
+      "github": "https://github.com/kellykiiru",
+      "linkedin": "https://www.linkedin.com/in/kelly-kiiru-15a852231/",
+      "email": "mailto:infowithkiiru@gmail.com"
+     ),
+     {
+      "name": "Silvia Wachira",
+      "profession": "Web Developer",
+      "quote": "\"Success is not final; failure is not fatal: It is the courage to continue that counts..\"</br> - Said By Me",
+      "github": "https://github.com/Silvia-Wachira",
+      "linkedin": "https://www.linkedin.com/in/silvia-wachira",
+      "email": "mwachirasilvia8@gmail.com"
     }
   ]
 }
