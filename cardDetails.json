@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Tadiwanashe Rodney Zvidza",
+      "profession": "Software Developer || Entrepreneur || Open Source Contributer",
+      "quote": "\"I say luck is when an opportunity comes along and you are prepared for it\"</br> - Denzel Washington",
+      "twitter": "https://twitter.com/mysterious_son",
+      "github": "https://github.com/tadiwanashezvidzarodney",
+      "linkedin": "https://linkedin.com/in/tadiwanashe-zvidza-48583424b",
+      "email": "mailto:tadiwarodneyzvidza@gmail.com"
+    },
+    {
       "name": "Ndifon",
       "profession": "Software Engineer and Student",
       "quote": "\"Dont't let your friends know you are a designer\"</br> - Said By Me",
@@ -23,11 +32,9 @@
       "github": "https://github.com/saipradyumnagoud",
       "linkedin": "https://www.linkedin.com/in/saipradyumnagoudch/"
     },
-
     {
       "name": "zehor-l",
       "profession": "Apspiring Engineer",
-
       "github": "https://github.com/zehor-l",
       "linkedin": "https://linkedin.com/in/zehor-lahlah"
     },
@@ -90,7 +97,6 @@
       "linkedin": "https://www.linkedin.com/in/cyril-baah",
       "email": "mailto:baah_yard12@yahoo.com"
     },
-
     {
       "name": "Claudia Varona",
       "profession": "Software Engineer",
@@ -110,7 +116,6 @@
       "linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
       "email": "mailto:addudx@gmail.com"
     },
-
     {
       "name": "Tracy Sambu",
       "profession": "Software Developer and OpenSource Contributor",
@@ -120,7 +125,6 @@
       "linkedin": "https://www.linkedin.com/in/tracysambu/",
       "email": "tracysambut@gmail.com"
     },
-
     {
       "name": "Essi Akpevwe Praise",
       "profession": "Software Developer & IT",
@@ -138,7 +142,6 @@
       "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
       "email": "wainainajamesgatheru@gmail.com"
     },
-
     {
       "name": "Jonas Ermert",
       "profession": "Flutter, Dart",
@@ -328,7 +331,6 @@
       "linkedin": "https://www.linkedin.com/in/ambrosematata/",
       "email": "ambrose.matata11@gmail.com"
     },
-
     {
       "name": "Brian Chebon",
       "profession": "Software Developer | Web Dev",
@@ -962,7 +964,6 @@
       "linkedin": "https://www.linkedin.com/in/faith-adewuyi-64923542/",
       "email": "mailto:faith.adewuyi18@gmail.com"
     },
-
     {
       "name": "Ahmad Mohamadirad",
       "profession": "Web Developer",
@@ -1058,7 +1059,6 @@
       "linkedin": "https://linkedin.com/serethewind",
       "email": "mailto:osasereu@gmail.com"
     },
-
     {
       "name": "Ayush gupta",
       "profession": "Student",
@@ -1066,7 +1066,6 @@
       "linkedin": "https://linkedin.com/ayushgupta1",
       "email": "mailto:ayushg3512@gmail.com"
     },
-
     {
       "name": "Gamila Programmer",
       "profession": "Frontend Developer",
@@ -1074,7 +1073,6 @@
       "linkedin": "https://www.linkedin.com/in/jamila-developer/",
       "email": "mailto:youremail@gmail.com"
     },
-
     {
       "name": "Nicolas Manigand",
       "profession": "Web Developer",
@@ -1109,8 +1107,8 @@
       "github": "https://github.com/kellykiiru",
       "linkedin": "https://www.linkedin.com/in/kelly-kiiru-15a852231/",
       "email": "mailto:infowithkiiru@gmail.com"
-     ),
-     {
+    },
+    {
       "name": "Silvia Wachira",
       "profession": "Web Developer",
       "quote": "\"Success is not final; failure is not fatal: It is the courage to continue that counts..\"</br> - Said By Me",
