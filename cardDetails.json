@@ -1,1144 +1,1153 @@
 {
   "cardDetails": [
-    {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
-    },
-    {
-      "name": "Tadiwanashe Rodney Zvidza",
-      "profession": "Software Developer || Entrepreneur || Open Source Contributer",
-      "quote": "\"I say luck is when an opportunity comes along and you are prepared for it\"</br> - Denzel Washington",
-      "twitter": "https://twitter.com/mysterious_son",
-      "github": "https://github.com/tadiwanashezvidzarodney",
-      "linkedin": "https://linkedin.com/in/tadiwanashe-zvidza-48583424b",
-      "email": "mailto:tadiwarodneyzvidza@gmail.com"
-    },
-    {
-      "name": "Ndifon",
-      "profession": "Software Engineer and Student",
-      "quote": "\"Dont't let your friends know you are a designer\"</br> - Said By Me",
-      "github": "https://github.com/N-TITIAN"
-    },
-    {
-      "name": "Meryem Ahmaine",
-      "profession": "Full stack developer",
-      "github": "https://github.com/meryemahmaine",
-      "linkedin": "https://www.linkedin.com/in/meryem-ahmaine-aa76a728b/"
-    },
-    {
-      "name": "Ch.Sai Pradyumna Goud",
-      "profession": "Apspiring Full stack developer",
-      "github": "https://github.com/saipradyumnagoud",
-      "linkedin": "https://www.linkedin.com/in/saipradyumnagoudch/"
-    },
-    {
-      "name": "zehor-l",
-      "profession": "Apspiring Engineer",
-      "github": "https://github.com/zehor-l",
-      "linkedin": "https://linkedin.com/in/zehor-lahlah"
-    },
-    {
-      "name": "Kerimcan Balkan",
-      "profession": "Student",
-      "quote": "\"God does not play dice\"</br> - Albert Einstein",
-      "github": "https://github.com/kerimcanbalkan",
-      "linkedin": "https://linkedin.com/kerimcanbalkan",
-      "email": "mailto:kerimcanbalkan@gmail.com"
-    },
-    {
-      "name": "Ajiri Enoch Osiobe",
-      "profession": "Software Developer",
-      "quote": "\"Anything Worth Having Takes Time\"</br> - Said by Anonymous",
-      "github": "https://github.com/AJ-droi",
-      "linkedin": "https://linkedin.com/in/ajiri-osiobe-801675184",
-      "email": "mailto:ajiriosiobe@gmail.com"
-    },
-    {
-      "name": "Samkelo chamane",
-      "profession": "PowerApp Developer and Data Analyst",
-      "quote": "\"Believe and show up everyday for yourself\"</br> - Said By Me",
-      "github": "https://github.com/samkelo-chamane",
-      "linkedin": "https://www.linkedin.com/in/samkelochamane/",
-      "email": "mailto:samke54m@gmail.com"
-    },
-    {
-      "name": "Ashley Hendrata",
-      "profession": "Student and Future Software Engineer",
-      "quote": "\"sometimes a nap is the best solution\"</br> - Said By Me",
-      "github": "https://github.com/ashhendrata",
-      "linkedin": "https://www.linkedin.com/in/ashley-hendrata/",
-      "email": "mailto:ashley.m.hendrata@gmail.com"
-    },
-    {
-      "name": "Ivan Ho",
-      "profession": "Student",
-      "quote": "\"If you can’t be kind, at least be vague.\"</br> - Judith Martin",
-      "github": "https://github.com/iho21",
-      "linkedin": "https://www.linkedin.com/in/ivanhocsula/"
-    },
-    {
-      "name": "Itzel Bailon",
-      "profession": "Learning Assistant",
-      "quote": "\"The only person you should try to be better than is the person you were yesterday.\"</br>  - Unknown",
-      "github": "https://github.com/Xatziri",
-      "linkedin": "https://www.linkedin.com/in/itzel-bailon/",
-      "email": "mailto:ibailon.ptc@gmail.com"
-    },
-    {
-      "name": "Danyal Ejaz",
-      "profession": "Student",
-      "quote": "\"Everything you can imagine is real\"</br> - Said By Me",
-      "twitter": "https://twitter.com/twtdanyal",
-      "dribbble": "https://dribbble.com/danyalejaz",
-      "behance": "https://behance.com/danyalejaz",
-      "github": "https://github.com/danyalejaz",
-      "linkedin": "https://linkedin.com/danyalejaz",
-      "email": "mailto:danyalejaz10@outlook.com"
-    },
-    {
-      "name": "Cyril Baah",
-      "profession": "DevOps Engineer",
-      "quote": "\"It easy to lose what you've gain if you don't make efforts to hold it\"</br> - Unknown",
-      "twitter": "https://twitter.com/baahcy",
-      "github": "https://github.com/CyrilBaah",
-      "linkedin": "https://www.linkedin.com/in/cyril-baah",
-      "email": "mailto:baah_yard12@yahoo.com"
-    },
-    {
-      "name": "Claudia Varona",
-      "profession": "Software Engineer",
-      "quote": "\"Dreams don't work unless you do.\"</br> - John C. Maxwell",
-      "github": "https://github.com/Clau050994/",
-      "linkedin": "https://www.linkedin.com/in/claudia-varona-p%C3%A9rez-96b3bb114/",
-      "email": "clau050994gmail@gmail.com"
-    },
-    {
-      "name": "Adarsh Sahu",
-      "profession": "Student",
-      "quote": "\"Stop thinking, Start doing\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/yaarAdarsh",
-      "linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
-      "email": "mailto:addudx@gmail.com"
-    },
-    {
-      "name": "Tracy Sambu",
-      "profession": "Software Developer and OpenSource Contributor",
-      "quote": "\"We still Rise\"</br> - Said By Lewis Hamilton",
-      "twitter": "https://twitter.com/sambu_tracy",
-      "github": "https://github.com/sambutracy",
-      "linkedin": "https://www.linkedin.com/in/tracysambu/",
-      "email": "tracysambut@gmail.com"
-    },
-    {
-      "name": "Essi Akpevwe Praise",
-      "profession": "Software Developer & IT",
-      "quote": "\"Your He who has a why can bear almost any how\"</br> - Viktor E. Frankl",
-      "twitter": "https://twitter.com/praisex64",
-      "github": "https://github.com/Akpevwe11",
-      "linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
-      "email": "mailto:essiakpevwepraise@gmail.com"
-    },
-    {
-      "name": "James Wainaina",
-      "profession": "Software Developer",
-      "quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
-      "github": "https://github.com/JamesWainaina",
-      "linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
-      "email": "wainainajamesgatheru@gmail.com"
-    },
-    {
-      "name": "Jonas Ermert",
-      "profession": "Flutter, Dart",
-      "quote": "Welcome to my profile",
-      "twitter": "https://twitter.com/Jonas20692",
-      "github": "https://github.com/jonasermert",
-      "linkedin": "https://linkedin.com/in/jonasermert/"
-    },
-    {
-      "name": "Eslam AbdElhakem",
-      "profession": "Software Engineer",
-      "quote": "\"Be The Last Man Standing\"</br> - Said By Me",
-      "github": "https://github.com/EslamAbdElhakem",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
-    },
-    {
-      "name": "Julius L. Jones Jr.",
-      "profession": "Student",
-      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/jlwj22",
-      "linkedin": "https://linkedin.com/in/juliusljonesjr",
-      "email": "mailto:Juliuslwj22@gmail.com"
-    },
-    {
-      "name": "FRANCK KASONGO",
-      "profession": "Student",
-      "quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/Franckkasongo15/Franck-kasongo",
-      "linkedin": "https://linkedin.com/in/franckkasongo15",
-      "email": "franckkasongokalala@gmail.com"
-    },
-    {
-      "name": "Jerry Onyango",
-      "profession": "Computer Science Student",
-      "quote": "\"All this jewelry have no use at night\"</br> - Said by not me",
-      "twitter": "no twitter",
-      "dribbble": "no dribble",
-      "behance": "no behance",
-      "github": "https://github.com/onyangojerry",
-      "linkedin": "https://www.linkedin.com/in/jerry-rawlings-onyango/",
-      "email": "jerry.onyango.rawlings@gmail.com"
-    },
-    {
-      "name": "Chad Peter",
-      "profession": "Your Profession",
-      "quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
-      "twitter": "https://twitter.com/chardpeter10",
-      "github": "https://github.com/ChardPeter",
-      "linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
-      "email": "chardpeter10@gmail.com"
-    },
-    {
-      "name": "Tsafac Nkombong Regine Cyrille",
-      "profession": "Network Engineer",
-      "quote": "\"Push Yourself, No One Else Will\"</br> - By Hermann & Me",
-      "twitter": "https://twitter.com/RegineCyrille1",
-      "github": "https://github.com/Regine12",
-      "linkedin": "https://www.linkedin.com/in/tsafac-nkombong-regine-cyrille",
-      "email": "reginecyrille@gmail.com"
-    },
-    {
-      "name": "Auwalu Hamza",
-      "profession": "Fullstack Developer",
-      "quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
-      "twitter": "https://twitter.com/afhamu",
-      "github": "https://github.com/afhamu",
-      "linkedin": "https://linkedin.com/auwalu-hamza",
-      "email": "mailto:auwalufalalu1@gmail.com"
-    },
-    {
-      "name": "Henry Saya",
-      "profession": "Software Engineer",
-      "quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
-      "twitter": "https://twitter.com/HenrySaya",
-      "github": "https://github.com/HenrySaya",
-      "linkedin": "https://linkedin.com/in/henry-saya",
-      "email": "mailto:henrysaya@skiff.com"
-    },
-    {
-      "name": "Ikegah Oliver",
-      "profession": "Student",
-      "quote": "\"Memento mori, live well.\"</br> - Said by Marcus Aurelius",
-      "github": "https://github.com/oliverTwist2",
-      "linkedin": "https://www.linkedin.com/in/ikegah-oliver/",
-      "email": "oliverikegah@gmail.com"
-    },
-    {
-      "name": "Mwofoh Adriel",
-      "profession": "Student",
-      "quote": "\"Time isn't the main thing. It's the only thing.\"</br> - Said by Miles Davis",
-      "github": "https://github.com/Mwofoh-Adriel",
-      "linkedin": "https://www.linkedin.com/in/adriel-mwofoh-6ab680269//",
-      "instagram": "https://www.instagram.com/mwofohadriel/",
-      "email": "Mwofohadriel@gmail.com"
-    },
-    {
-      "name": "Ande Gangadhara Rao",
-      "profession": "Looking for an oppertunity",
-      "quote": "\"If, at first, you do not succeed, call it version 1.0.\"</br> - Said by Khayri R.R. Woulfe",
-      "twitter": "https://twitter.com/Gangadhara18Rao",
-      "github": "https://github.com/gangadhararaoande",
-      "linkedin": "https://www.linkedin.com/in/gangadhara-rao-ande/",
-      "email": "mailto:gangadharr18@gmail.com"
-    },
-    {
-      "name": "Azizbek Yunusaliev",
-      "profession": "Frontend Developer",
-      "quote": "\"Hope is only in Education\"</br> - Said by Me 😉",
-      "github": "https://github.com/azick99",
-      "linkedin": "https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232",
-      "email": "mailto:azizbekyunusaliev99@gmail.com"
-    },
-    {
-      "name": "Brian kyalo",
-      "profession": "Software Developer",
-      "quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
-      "github": "https://github.com/kyalo3",
-      "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
-      "email": "mailto:kyalokimeu0@gmail.com"
-    },
-    {
-      "name": "Sergius Justus Nyah",
-      "profession": "Computer Science student",
-      "quote": "\"The greatest penalty to declining leadership is to be ruled be ruled by someone inferior to you\"<br> - Pluto",
-      "github": "https://github.com/Sergius-Nyah",
-      "LinkedIn": "https://linked/in.com/Sergius-Nyah/",
-      "email": "mailto://sergiusnyah@gmail.com"
-    },
-    {
-      "name": "Brian kyalo",
-      "profession": "Software Developer",
-      "quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/kyalo3",
-      "linkedin": "https://linkedin.com/brian-kyalo-531394281/",
-      "email": "mailto:kyalokimeu0@gmail.com"
-    },
-    {
-      "name": "J R Jewell",
-      "profession": "Web Developer",
-      "quote": "\"The world is a mountain, in which your words are echoed back to you.\"</br> - Said by Rumi",
-      "github": "https://github.com/JeremyRayJewell",
-      "linkedin": "https://linkedin.com/in/jeremyrayjewell",
-      "email": "mailto:jeremy.jewell001@gmail.com"
-    },
-    {
-      "name": "John Irem",
-      "profession": "Software Engineer",
-      "quote": "\"Try not. Do, or do not. There is no try.\"</br> - Said by Yoda",
-      "twitter": "https://twitter.com/rasine_era",
-      "github": "https://github.com/eyesaidyo",
-      "linkedin": "https://linkedin.com/in/john-irem",
-      "email": "rajonirem8@gmail.com"
-    },
-    {
-      "name": "Elísio Massaqui",
-      "profession": "Software Developer",
-      "quote": "\"Believe in your Skills\"</br> - Said by",
-      "twitter": "https://twitter.com/elisio_massaqui",
-      "github": "https://github.com/elisioMassaqui",
-      "email": "elisiomassaqui8@gmail.com"
-    },
-    {
-      "name": "Abdessamad Touzani",
-      "profession": "Software engineer and Data scientist",
-      "quote": "\"Never bend your head. Always hold it high. Look the world straight in the eye.\"</br> - Helen Keller",
-      "twitter": "https://twitter.com/at9kat",
-      "github": "https://github.com/AbdessamadTzn",
-      "linkedin": "https://linkedin.com/in/abdessamadtouzani",
-      "email": "mailto:abdessamadtz6@gmail.com"
-    },
-    {
-      "name": "Ambrose Matata",
-      "profession": "Software Engineer",
-      "quote": "\"Victory loves preparation.\"</br> - Extracted from the Movie Mechanic",
-      "twitter": "https://twitter.com/MatataAmbrose",
-      "github": "https://github.com/Masaku12",
-      "linkedin": "https://www.linkedin.com/in/ambrosematata/",
-      "email": "ambrose.matata11@gmail.com"
-    },
-    {
-      "name": "Brian Chebon",
-      "profession": "Software Developer | Web Dev",
-      "quote": "\"Welcome to my profile! I am a passionate software developer with expertise in web development. I love turning ideas into functional and user-friendly applications. Explore my journey in the world of coding and technology.",
-      "twitter": "https://twitter.com/Chebon254",
-      "github": "https://github.com/Chebon-breezy",
-      "linkedin": "https://www.linkedin.com/in/brianchebon",
-      "email": "mailto:brynnlamura@gmail.com"
-    },
-    {
-      "name": "Kelvin OKumu",
-      "profession": "Data Analyst | Instructor",
-      "quote": "\"Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.\"</br> - Said by Edward Snowden",
-      "twitter": "https://twitter.com/OkushKelvin",
-      "github": "https://github.com/kelvinokumu",
-      "linkedin": "https://www.linkedin.com/in/kelvin-okumu-965bb0147/",
-      "email": "mailto:oumakelvinokumu@gmail.com"
-    },
-    {
-      "name": "Mblessing Muchafa CoderBlee",
-      "profession": "Student| CyberSecurity|Data Analysis|Computer Science",
-      "quote": "\"Believe in yourself and all that you are.Know that there is something inside you that is greater than any obstacle.\"</br> - Said by MBlessingG",
-      "twitter": "https://twitter.com/kamoblessingg",
-      "github": "https://github.com/CoderBlee",
-      "linkedin": "https://www.linkedin.com/in/blessing-muchafa-772305247/",
-      "email": "gamuchiraiblessing7@gmail.com"
-    },
-    {
-      "name": "AkashGGaonkar",
-      "profession": "Undergraduate Student",
-      "quote": "\"He travels the fastest who travels alone\"</br> - Rudyard Kipling",
-      "github": "https://github.com/Gaonkar30",
-      "linkedin": "https://www.linkedin.com/in/akash-g-gaonkar-345656256/",
-      "email": "akashggaonkar@gmail.com"
-    },
-    {
-      "name": "Mblessing Muchafa CoderBlee",
-      "profession": "Student| CyberSecurity| SoftwareEngineer| Data Analysis",
-      "quote": "\"Everything has its own time, hold on as there is light at the end of the tunnel\"</br> - Said by GamuchiraiM",
-      "twitter": "https://twitter.com/kamoblessingg",
-      "github": "https://github.com/CoderBlee",
-      "linkedin": "https://www.linkedin.com/in/blessing-muchafa-772305247/",
-      "email": "gamuchiraiblessing7@gmail.com"
-    },
-    {
-      "name": "Sabeha Khan",
-      "profession": "Computer Science Student",
-      "quote": "\"If it works, don't touch it.\"</br> - Anonymous",
-      "github": "https://github.com/Sab3ha",
-      "linkedin": "https://www.linkedin.com/in/sabeha-k321/",
-      "email": "mailto:sabehakhan321@gmail.com"
-    },
-    {
-      "name": "Tony B. Nya",
-      "profession": "Software Engineer",
-      "quote": "\"The only way that we can justify privileges is by solving the world's biggest problems, and by doing hard things. But of all the hard things we have to do, the most difficult thing is to keep going.\"</br> - Fred Swaniker",
-      "instagram": "https://www.instagram.com/tonybnya/",
-      "github": "https://github.com/tonybnya",
-      "linkedin": "https://www.linkedin.com/in/tonybnya/",
-      "email": "tonybnya@gmail.com"
-    },
-    {
-      "name": "Sandeep Dewangan",
-      "profession": "Web Developer",
-      "quote": "It's Not a Bug, It's a Feature",
-      "twitter": "https://twitter.com/sandeep15d",
-      "github": "https://github.com/sandy15d",
-      "linkedin": "https://www.linkedin.com/in/sandy15d/",
-      "email": "mailto:sandeepdewangan2012@gmail.com"
-    },
-    {
-      "name": "Dhel Malith",
-      "profession": "Junior Cybersecurity Analyst",
-      "twitter": "https://twitter.com/ThomasObote1?s=09",
-      "github": "https://github.com/thomasobote211",
-      "linkedin": "https://www.linkedin.com/in/thomas-obote-a7b5131b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "email": "dhelmcm@gmail.com"
-    },
-    {
-      "name": "Jim Hatley",
-      "profession": "Programmer",
-      "github": "https://github.com/jhatley75",
-      "email": "jimdhatley@gmail.com"
-    },
-    {
-      "name": "Vincent Dushime",
-      "profession": "Software Engineer | computer repair technician",
-      "quote": "\"There is no such thing as Something for nothing.\"</br> - Napoleon HIll",
-      "twitter": "https://twitter.com/vinci_dax",
-      "github": "https://github.com/Vincidax",
-      "linkedin": "https://www.linkedin.com/in/vincentdushime/",
-      "email": "mailto:vincentdx18@gmail.com"
-    },
-    {
-      "name": "Sreekakulam Lohith",
-      "profession": "Recent Grad",
-      "quote": "\"Go forth on your path, as it exists only through your walking.\"</br> - Augustine of Hippo",
-      "github": "https://github.com/SreekakulamLohith",
-      "linkedin": "https://www.linkedin.com/in/sreekakulam-lohith-322461203/",
-      "email": "mailto:lohith.sreekakulam@gmail.com"
-    },
-    {
-      "name": "Felix Gomez",
-      "profession": "Mechatronics Engineer | AI/ML Engineer | Web & Mobile Developer",
-      "quote": "\"Only the people who are crazy enough to think they can change the world are the ones who do.\"</br> - Steve Jobs",
-      "twitter": "https://twitter.com/felixdavid1221",
-      "github": "https://github.com/felixdavid12",
-      "linkedin": "https://www.linkedin.com/in/felix-david-gomez-marin/",
-      "email": "mailto:felix@ifelix.dev"
-    },
-    {
-      "name": "Mblessing Muchafa",
-      "profession": "Web developer| CyberSecurity|CloudE",
-      "quote": "\"Everything has its own time, be patient\"</br> - Said by Blessing",
-      "twitter": "https://twitter.com/kamoblessingg",
-      "github": "https://github.com/CoderBlee",
-      "linkedin": "https://cs50.me/cs50cy#!",
-      "email": "gamuchiraiblessing7@gmail.com"
-    },
-    {
-      "name": "Vincent Kimani",
-      "profession": "Frontend Software Engineer || Technical writer || Open Source Contributor",
-      "quote": "\"In real open source, you have the right to control your own destiny.\"</br> - Linus Torvalds",
-      "twitter": "https://twitter.com/theevincekimani",
-      "github": "https://github.com/Vince-arch",
-      "linkedin": "https://www.linkedin.com/in/vincent-kimani/",
-      "email": "mailto:vincekimani006@gmail.com"
-    },
-    {
-      "name": "Vivien Ogoun",
-      "profession": "Full Stack Web Developer",
-      "quote": "\"Knowledge is power\"</br> - Francis Bacon",
-      "github": "https://github.com/vivienogoun",
-      "linkedin": "https://www.linkedin.com/in/vivien-ogoun",
-      "email": "mailto:vivienogoun1@gmail.com"
-    },
-    {
-      "name": "Chisom",
-      "profession": "Technical Writer, QA Engineer",
-      "quote": "\"To die is gain\"</br> - Said by Christ",
-      "twitter": "https://x.com/Cathiecodes?t=TRFQdl8gxUaVMu0hfwg3aw&s=09",
-      "github": "https://github.com/catherine-chisom",
-      "linkedin": "https://linkedin.com/in/chisom-catherine-dick",
-      "email": "mailto:chisomdick2@gmail.com"
-    },
-    {
-      "name": "YoTi",
-      "profession": "Full-Stack Developer",
-      "quote": "\"Code is like humor. When you have to explain it, it’s bad\"</br> - Said by Cory House",
-      "twitter": "https://twitter.com/YoTi1412",
-      "github": "https://github.com/YoTi1412",
-      "email": "mailto:yasserrafai5@gmail.com"
-    },
-    {
-      "name": "Amin Vahdani",
-      "profession": "Python_DevOps and Sys_Admin",
-      "quote": "\"Imagination is more important than knowledge\"</br> by - Albert Einstein",
-      "twitter": "https://x.com/Amiiin94",
-      "github": "https://github.com/amin2ace",
-      "linkedin": "https://www.linkedin.com/in/amin-map-6a060a210/",
-      "email": "avmap.py@gmail.com"
-    },
-    {
-      "name": "Manu Arias",
-      "profession": "Full Stack Web Developer",
-      "quote": "\"I can't go back to yesterday because I was a different person then\"</br> - Lewis Carroll",
-      "instagram": "https://www.instagram.com/jmanarias/",
-      "github": "https://github.com/thekain9",
-      "linkedin": "https://www.linkedin.com/in/j-m-arias-542a74238/",
-      "email": "mailto:themanuarias@gmail.com"
-    },
-    {
-      "name": "Mounssif nuuX BOUHLAOUI",
-      "profession": "FrontEnd | BackEnd | DevOps",
-      "quote": "\"Be Water My Friend\"</br> - Bruce Lee",
-      "twitter": "https://twitter.com/nuux_tv",
-      "github": "https://github.com/nuuxcode",
-      "linkedin": "https://www.linkedin.com/in/mounssif-bouhlaoui-25934570/",
-      "email": "mailto:cv.bouhlaoui@gmail.com"
-    },
-    {
-      "name": "Sylvester Sergeant",
-      "profession": "IT Specialist/ System Admin",
-      "quote": "\"The future belongs to those who believe in the beauty of their dreams.\"</br> - Said by Eleanor Roosevelt",
-      "twitter": "https://twitter.com/Posture_Pace",
-      "medium": "https://medium.com/@bytesizebasics",
-      "github": "https://github.com/sylvesterserg",
-      "linkedin": "https://www.linkedin.com/in/sylvester-sergeant/",
-      "email": "mailto:Sylvester.Sergeant@gmail.com"
-    },
-    {
-      "name": "Nkunze Caleb",
-      "profession": "Software Developer & IT",
-      "quote": "\"There is always a better side of everything.\"</br> - Said by Cank256",
-      "twitter": "https://twitter.com/calebnkunze",
-      "github": "https://github.com/Cank256",
-      "linkedin": "https://linkedin.com/in/nkunzecaleb",
-      "medium": "https://medium.com/@NkunzeCaleb",
-      "email": "mailto:nkunzecaleb@gmail.com"
-    },
-    {
-      "name": "Motlatsi Moea",
-      "profession": "full stack Web developer",
-      "quote": "\"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?\"</br> - Said by Erin Hanson",
-      "twitter": "https://twitter.com/MotlatsiMo3a",
-      "github": "https://github.com/motlatsimoea",
-      "linkedin": "https://www.linkedin.com/in/motlatsi-moea-b33b25119/",
-      "email": "mailto:motlatsi.moea@gmail.com"
-    },
-    {
-      "name": "Silvia Muthangya",
-      "profession": "DevOps Engineer",
-      "quote": "\"Do the best you can until you know better. Then when you know better, do better.\"</br> - Maya Angelou",
-      "twitter": "https://twitter.com/SilviaMuthangya",
-      "github": "https://github.com/musangisilvia",
-      "linkedin": "https://linkedin.com/in/silvia-muthangya",
-      "email": "mailto:muthangyasilvia@gmail.com"
-    },
-    {
-      "name": "Dayo Orunsolu",
-      "profession": "SQL || Cloud || DevOps",
-      "quote": "\"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead\" - Marjorie Pay Hinkley",
-      "github": "https://github.com/ORUNSOLU",
-      "linkedin": "https://www.linkedin.com/in/dayo-o-44983b116",
-      "email": "mailto:oruns@outlook.com"
-    },
-    {
-      "name": "Wesley Perrang",
-      "profession": "Software Developer",
-      "quote": "\"If you don't fight, You can't win!\"</br> - Eren Yeager",
-      "twitter": "https://twitter.com/WPerrang",
-      "dribbble": "https://dribbble.com/Wes_Per",
-      "behance": "https://behance.com",
-      "github": "https://github.com/Wesley-Perrang",
-      "linkedin": "https://www.linkedin.com/in/wesley-perrang/",
-      "email": "wes3perrang@gmail.com"
-    },
-    {
-      "name": "Adeshina Olorogun",
-      "profession": "Software Engineer",
-      "quote": "\"He who fails to plan has planned to fail\"</br> - Said by",
-      "twitter": "https://twitter.com/AdesinaOlorogun",
-      "github": "https://github.com/AdeshinaOlorogun",
-      "linkedin": "https://linkedin.com/Adeshina-m-Olorogun",
-      "email": "mailto:Adeshinamolorogun@gmail.com"
-    },
-    {
-      "name": "Ukpong O. Zion",
-      "profession": "Frontend Developer, Technical Writer, CS student",
-      "quote": "\" The only person you should be in competition with, is yourself. \"<br> - Unknown ",
-      "twitter": "https://twitter.com/tega_zion",
-      "github": "https://github.com/tegacodess",
-      "linkedin": "https://github.com/tegacodess",
-      "email": "mailto:tegazion7@gmail.com"
-    },
-    {
-      "name": "Félix Domingos",
-      "profession": "Web Fullstack Developer",
-      "quote": "\"When you change your thoughts, remember to also change your world\"</br> - Said by Norman Vincent Peale",
-      "twitter": "https://twitter.com/FelixSDomingos2",
-      "dribbble": "https://dribbble.com/F9_-",
-      "behance": "https://www.behance.net/flixsdomingos",
-      "github": "https://github.com/felixdomingos1",
-      "linkedin": "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
-      "email": "Félix:felixsdomingos93@gmail.com"
-    },
-    {
-      "name": " Elísio Massaqui",
-      "profession": "Web FrontEnd & Mobile Developer",
-      "quote": "When you believe so much in something, that thing becomes real. -Mr.Robot",
-      "twitter": "https://twitter.com/elisio_massaqui",
-      "github": "https://github.com/elisioMassaqui",
-      "linkedin": "https://www.linkedin.com/in/el%C3%ADsio-massaqui-202635291/",
-      "email": "elisiomassaqui8@gmail.com"
-    },
-    {
-      "name": "Anish Yakkanti",
-      "profession": "Texas A&M Student",
-      "quote": "What is better, to be born good or to overcome your evil nature through great effort?",
-      "github": "https://github.com/AnishYakk",
-      "linkedin": "https://linkedin.com/in/anish-yakkanti",
-      "email": "mailto:yakkantian@gmail.com"
-    },
-    {
-      "name": "Abhi Joshi",
-      "profession": "Recruiter turned front-end developer",
-      "quote": "\"Jarvis, sometimes you gotta run before you can walk.\"</br> - Tony Stark",
-      "twitter": "https://twitter.com/abhiness",
-      "github": "https://github.com/abhiness",
-      "linkedin": "https://linkedin.com/in/abhijoshi747",
-      "email": "mailto:abhijoshi30995@gmail.com"
-    },
-    {
-      "name": "Ademola Onayemi",
-      "profession": "Backend developer",
-      "quote": "\"Continuos drop of water turns out to become a river.\"</br> - Yoruba Adage",
-      "twitter": "https://x.com/@tinnythrill",
-      "github": "https://github.com/Ademola111",
-      "linkedin": "https://linkedin.com/in/onayemi-h-ademola",
-      "email": "mailto:onayemi.hakeem@gmail.com"
-    },
-    {
-      "name": "Dário Prazeres",
-      "profession": "FullStack developer",
-      "quote": "\"I only know that I know nothing.\"</br> - Socrates",
-      "twitter": "https://x.com/@dario_prazeres",
-      "github": "https://github.com/DarioPrazeres",
-      "linkedin": "https://linkedin.com/in/dário-prazeres",
-      "email": "mailto:darioedgarprazeres@gmail.com"
-    },
-    {
-      "name": "Vedang",
-      "profession": "Undergraduate Student",
-      "quote": "\"Never stop learning\"</br>-annonymous",
-      "twitter": "https://twitter.com/ThisIsVedang",
-      "github": "https://github.com/vedang685",
-      "linkedin": "https://www.linkedin.com/in/vedang-69674222b",
-      "email": "mailto:vedang685@gmail.com"
-    },
-    {
-      "name": "Rita Uzoma",
-      "profession": "Frontend Developer",
-      "quote": "Challenges are hard to overcome but without them, success would have no meaning.",
-      "twitter": "https://twitter.com/reetahUzoma",
-      "github": "https://github.com/i-am-rita",
-      "linkedin": "https://www.linkedin.com/in/ritauzoma/",
-      "email": "mailto:ritauzoma07@gmail.com"
-    },
-    {
-      "name": "CHILAKA CHIGOZIE MICHEAL",
-      "profession": "FULL STACK STUDENT",
-      "quote": "It's only you can help yourself to win",
-      "twitter": "https://twitter.com/officialbos_s",
-      "github": "https://github.com/officialboss1",
-      "email": "mailto:mikeedaboss1@gmail.com"
-    },
-    {
-      "name": "Wesley Waka",
-      "profession": "FULL STACK DEVELOPER",
-      "quote": "No pain, no gain",
-      "twitter": "https://twitter.com/WesleyWaka1",
-      "github": "https://github.com/Wesley-waka",
-      "email": "mailto:wesleywaka77@gmail.com"
-    },
-    {
-      "name": "DIABY IBRAHIM MOHAMED",
-      "profession": "FULL STACK STUDENT",
-      "quote": "Truth can only be found in one place: the code.",
-      "twitter": "https://twitter.com/kingibro345",
-      "behance": "https://behance.com/Diaby%20Mohammed%20Ibrahim",
-      "github": "https://github.com/Dmambo",
-      "linkedin": "https://linkedin.com/Diaby%20Mohammed%20Ibrahim",
-      "email": "mailto:ibkhalidworld@gmail.com"
-    },
-    {
-      "name": "Gracioux Mbanugo",
-      "profession": "Frontend Software Developer",
-      "quote": "\"You can't rely on how you look to sustain you, what sustains us, what is fundamentally beautiful is compassion; for yourself and for those around you.\" - Lupita Nyong'o",
-      "twitter": "https://twitter.com/Gracioux_codes",
-      "github": "https://github.com/GraciouxMbanugo",
-      "linkedin": "https://linkedin.com/in/grace-mbanugo",
-      "email": "mailto:chiziterem01@gmail.com"
-    },
-    {
-      "name": "Daniel Ukoha",
-      "profession": "Front End Software Engineer & Open Source Contributor",
-      "quote": "Hard work is worthless for those that do not believe in themselves - uzumaki naruto",
-      "twitter": "https://twitter.com/i_amsuperfly",
-      "github": "https://github.com/superfly101",
-      "linkedin": "https://linkedin.com/in/danielukoha101",
-      "email": "mailto:danielukoha101@gmail.com"
-    },
-    {
-      "name": "Carmen Amba",
-      "profession": "Software Engineer and OpenSource contributor",
-      "quote": "\"Whatever is worth doing at all, is worth doing well.\" - Philip Stanhope",
-      "twitter": "https://twitter.com/car__mie",
-      "github": "https://github.com/Carmenbelle",
-      "linkedin": "https://www.linkedin.com/in/carmen-amba-226975185/",
-      "email": "mailto:carmieamba@gmail.com"
-    },
-    {
-      "name": "Amyy Alex-Okenwa",
-      "profession": "Software Engineer",
-      "quote": "While you might be doubting yourself, someone else is admiring your strength.",
-      "twitter": "https://twitter.com/AlexStephanie10",
-      "dribbble": "https://dribbble.com/Stephnny",
-      "github": "https://github.com/amyyalex",
-      "linkedin": "https://linkedin.com/stephaniealexokenwa",
-      "email": "mailto:deeptruth247@gmail.com"
-    },
-    {
-      "name": "s_shemmee",
-      "profession": "Web Developer and OpenSource contributor",
-      "quote": "Dream big, Stay positive, Work hard + Enjoy the Journey",
-      "twitter": "https://twitter.com/s_shemmee",
-      "dribbble": "https://dribbble.com/s-shemmee",
-      "github": "https://github.com/s-shemmee"
-    },
-    {
-      "name": "Jeffrey Whewhetu",
-      "profession": "Software Developer and OpenSource Contributor",
-      "quote": "Know thyself - Socrates",
-      "twitter": "https://twitter.com/c0d33ngr",
-      "github": "https://github.com/c0d33ngr",
-      "linkedin": "https://linkedin.com/in/jeffrey-whewhetu-483170240"
-    },
-    {
-      "name": "Tenneh Kanneh",
-      "profession": "STEM Tutor",
-      "quote": "I will not accept a life I do not deserve- Maxine Minx",
-      "twitter": "https://twitter.com/tennehkanneh",
-      "github": "https://github.com/tennehkanneh",
-      "linkedin": "https://www.linkedin.com/in/tenneh-kanneh-888132238/",
-      "email": "tennehkannehofficial@gmail.com"
-    },
-    {
-      "name": "Favour Naza Anajemba",
-      "profession": "Software Developer",
-      "quote": "Be a rainbow in someone else's cloud - Maya Angelou",
-      "twitter": "https://www.twitter.com/TechSiz",
-      "github": "https://github.com/naz-coder",
-      "linkedin": "https://www.linkedin.com/in/favour-naza-anajemba-02a156196",
-      "email": "mailto:nazanajemba@gmail.com"
-    },
-    {
-      "name": "Ashwin Dhangar",
-      "profession": "Frontend Developer",
-      "quote": "You never meet same person again - Ashwin Dhangar",
-      "github": "https://github.com/MrAshwin2142",
-      "linkedin": "https://www.linkedin.com/in/ashwin-dhangar-btech24"
-    },
-    {
-      "name": "Casey Charleston",
-      "profession": "UT Austin Researcher + Teaching Assistant",
-      "quote": "Program testing can be used to show the presence of bugs, but never to show their absence!</br> - Edsger W. Djikstra",
-      "twitter": "https://twitter.com/imcaseych",
-      "github": "https://github.com/caseycharleston",
-      "linkedin": "https://www.linkedin.com/in/caseycharleston/"
-    },
-    {
-      "name": "David Banitongwa",
-      "profession": "Software Engineer",
-      "quote": "\"Each day is a new opportunity to become better\"</br> - Unknown",
-      "github": "https://github.com/Banitongwa7",
-      "linkedin": "https://www.linkedin.com/in/david-banitongwa/",
-      "email": "mailto:davidbanitongwa@gmail.com"
-    },
-    {
-      "name": "Denis AKPAGNONITE",
-      "profession": "Aspiring Site Reliability Engineer",
-      "quote": "\"Sic parvis magna - (Greatness from small beginnings)\"</br> - Sir Francis Drake",
-      "github": "https://github.com/denisakp",
-      "twitter": "https://twitter.com/denis_Akp",
-      "linkedin": "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
-      "email": "mailto:akpagnonited@gmail.com"
-    },
-    {
-      "name": "Kevin Crumbleton",
-      "profession": "Software Engineer",
-      "quote": "You learn more from failure than success - Unknown",
-      "github": "https://github.com/murf-o"
-    },
-    {
-      "name": "Emmanuel Okanlawon",
-      "profession": "Software Engineer",
-      "quote": "\"Imagination is more important than knowledge\"</br> - Albert Einstein",
-      "twitter": "https://twitter.com/solarsoft0",
-      "github": "https://github.com/solarsoft0",
-      "linkedin": "https://linkedin.com/in/okanlawonema",
-      "email": "mailto:okanlawonemmanuel41@gmail.com"
-    },
-    {
-      "name": "Glenn Tedd Onayngo",
-      "profession": "Frontend Engineer",
-      "quote": "\"A poor man has no wisdom\"</br> - Daniel Arap Moi",
-      "twitter": "https://twitter.com/legendary_tedd",
-      "github": "https://github.com/GlennOnyango",
-      "linkedin": "https://www.linkedin.com/in/glenn-onyango-50077a178/",
-      "email": "mailto:glenntedd@gmail.com"
-    },
-    {
-      "name": "Aaron Muti",
-      "profession": "Data Engineer",
-      "quote": "\"Sangala Waya\"</br> - Markus Wings",
-      "email": "mailto:aaron@forestdigitalacademy.com"
-    },
-    {
-      "name": "Carol Rocha Floro",
-      "profession": "Backend Software developer",
-      "quote": "\"In the midst of winter, I found ther was, within me, an invincible summer.\"</br> - Albert Camus",
-      "github": "https://github.com/carolrochafloro",
-      "linkedin": "https://linkedin.com/In/carolina-rocha-floro",
-      "email": "mailto:carolinarochaf@hotmail.com"
-    },
-    {
-      "name": "Abraham O. Olagunju",
-      "profession": "Backend Developer",
-      "quote": "\"Oops! MySQL has gone away.🙊\"</br> - Anonymous",
-      "twitter": "https://twitter.com/OluwaninsolaAO",
-      "github": "https://github.com/OluwaninsolaAO",
-      "linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
-      "email": "mailto:olagunjusola070@gmail.com"
-    },
-    {
-      "name": "Pedro Alberto",
-      "profession": "Software Developer",
-      "quote": "\"If you wish to make an apple pie from scratch, you must first invent the universe\"</br> - Carl Sagan",
-      "twitter": "https://twitter.com/edlavio_",
-      "dribbble": "https://dribbble.com/edlavio",
-      "behance": "https://behance.com/edlavio",
-      "github": "https://github.com/Edlavio",
-      "linkedin": "https://linkedin.com/in/edlavio",
-      "email": "mailto:edlavioe@gmail.com"
-    },
-    {
-      "name": "Ezeliora Godsfavour",
-      "profession": "Software Developer || Technical writer || Open Source Contributor || Community Manager",
-      "quote": "\"For me, feminism is a movement for which the end goal is to make itself no longer needed.\"</br> - Chimamanda Ngozi Adichie",
-      "twitter": "https://twitter.com/phavourshelby",
-      "dribbble": "https://phavourcodesportfolio.vercel.app/",
-      "behance": "https://www.educative.io/profile/view/5820460445466624",
-      "github": "https://github.com/favy-codez",
-      "linkedin": "https://www.linkedin.com/in/ezeliora-favour-8343691bb/",
-      "email": "ezeliorafavour81@gmail.com"
-    },
-    {
-      "name": "Elisa Capololo",
-      "profession": "Frontend Developer, Technical Writer, Community Manager",
-      "quote": "\"If a man does not know which port he is heading for, no wind will be favorable to him.\"</br> - Seneca",
-      "twitter": "https://twitter.com/elisacapololo",
-      "github": "https://github.com/ElisaCapololo",
-      "linkedin": "https://www.linkedin.com/in/elisacapololo/",
-      "email": "mailto:elisacapololo2017@gmail.com"
-    },
-    {
-      "name": "Hadia Djadallah",
-      "profession": "Frontend Developer || open source contributor",
-      "quote": "\"The moon is a loyal companion. It never leaves. It's always there, watching, steadfast, knowing us in our light and dark moments.\"</br> - Tahereh mafi",
-      "twitter": "https://twitter.com/liliumorion",
-      "github": "https://github.com/liliumorion",
-      "linkedin": "https://www.linkedin.com/in/hadia-djadallah/",
-      "email": "mailto:hadiadjd@gmail.com"
-    },
-    {
-      "name": "Haram Yoon",
-      "profession": "Software Engineer and Student",
-      "quote": "\"If you want to look good in front of thousands, you have to outwork thousands in front of nobody...\"</br> - Damian Lillard",
-      "instagram": "https://www.instagram.com/haram._.yoon/",
-      "github": "https://github.com/haram082",
-      "linkedin": "https://www.linkedin.com/in/haram-yoon-b359511b0/",
-      "email": "hyhn2022@mymail.pomona.eud"
-    },
-    {
-      "name": "Penn Junior",
-      "profession": "FullStack Developer",
-      "quote": "\"Fullstack developers are the architects of digital possibilities, seamlessly bridging the gap between front-end magic and back-end wizardry.\"</br> - Anonymous",
-      "instagram": "https://www.instagram.com/malonepenn/",
-      "github": "https://github.com/Payne680",
-      "linkedin": "https://www.linkedin.com/in/penn-junior/",
-      "email": "pennjunior680@gmail.com"
-    },
-    {
-      "name": "Veríssimo Cassange",
-      "profession": "Computer Engineering Student",
-      "quote": "\"The best insurance for tomorrow is a job well done today.\"</br> - Dr. Jonas Savimbigit",
-      "instagram": "https://www.instagram.com/vec21_/",
-      "github": "https://github.com/Vec21",
-      "linkedin": "https://www.linkedin.com/in/vec21/",
-      "email": "veccpro@gmail.com"
-    },
-    {
-      "name": "Riccardi Dalexis",
-      "profession": "Software Engineer and Student",
-      "quote": "\"Sometimes, the only choices you have are bad ones, but you still have to choose.\"</br> - The Twelfth Doctor",
-      "github": "https://github.com/rod7760",
-      "linkedin": "https://www.linkedin.com/in/riccardi-dalexis/",
-      "email": "rod7760@rit.edu"
-    },
-    {
-      "name": "Dapo Adedire",
-      "profession": "Software Developer",
-      "quote": "\"If my mind can conceive it, if my heart can believe it--then I can achieve it.\"</br> - Muhammad Ali",
-      "twitter": "https://twitter.com/dapo_adedire",
-      "github": "https://github.com/dapoadedire",
-      "linkedin": "https://linkedin.com/in/dapoadedire",
-      "email": "mailto:adedireadedapo19@gmail.com"
-    },
-    {
-      "name": "Tataw Clarkson",
-      "profession": "Student",
-      "quote": "\"Life is easy when you live it the hard way\"</br> - Said by Dave Kekich",
-      "github": "https://github.com/tataw-cl",
-      "linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
-      "email": "tatawclarkson@gmail.com"
-    },
-    {
-      "name": "Joan Aneas",
-      "profession": "Student",
-      "quote": "\"Life is hard, but the sand isn't.\"</br> - Said by Lightning McQueen",
-      "github": "https://github.com/joananeas"
-    },
-    {
-      "name": "Onyedikachi Amaechi-Okorie",
-      "profession": "Quality Asssurance Engineer",
-      "quote": "\"Be Extraordinary in ordinary things.\"",
-      "github": "https://github.com/Honyii"
-    },
-    {
-      "name": "Mamolateli Mokhethi",
-      "profession": "Student",
-      "quote": "\"Try and fail, but don't fail to try",
-      "github": "https://github.com/Mamolets",
-      "linkedin": "https://www.linkedin.com/in/mamolateli-mokhethi-86585327a/",
-      "email": "mamolatelimokhethi5@gmail.com"
-    },
-    {
-      "name": "Mba Blessing Nnenna",
-      "profession": "Software Engineer and OpenSource contributor",
-      "quote": "\"You have to get up and create the life you want",
-      "github": "https://github.com/Blessing-Mba",
-      "linkedin": "https://www.linkedin.com/in/blessing-mba-24a8a2184/",
-      "email": "blessingmba3@gmail.com"
-    },
-    {
-      "name": "Faith Adewuyi",
-      "profession": "Frontend Developer || Open source contributor",
-      "quote": "\"No matter how small, any progress made is better than none at all. Remember slow and steady wins the race.\"</br> - Aesop",
-      "twitter": "https://twitter.com/adewuyi_faith",
-      "github": "https://github.com/faithadewuyi",
-      "linkedin": "https://www.linkedin.com/in/faith-adewuyi-64923542/",
-      "email": "mailto:faith.adewuyi18@gmail.com"
-    },
-    {
-      "name": "Ahmad Mohamadirad",
-      "profession": "Web Developer",
-      "quote": "no matter what just try, try and try.",
-      "github": "https://github.com/radman17",
-      "linkedin": "https://www.linkedin.com/in/ahmad-radman-a7804b259/",
-      "email": "mailto:ahmadradman2006@gmail.com"
-    },
-    {
-      "name": "Ayomide Ogunlade",
-      "profession": "Product Designer || Open-source Design Contributor",
-      "quote": "\"Fun Isn't Something One Considers When Programming On VS Code. But This… Does Put A Smile On My Face.\"</br> - Ayomide Ogunlade",
-      "twitter": "https://twitter.com/adelanaofficial",
-      "dribbble": "https://dribbble.com/adelanaofficial",
-      "behance": "https://behance.com/adelanaofficial",
-      "github": "https://github.com/adelanaofficial",
-      "linkedin": "https://linkedin.com/in/adelanaofficial",
-      "email": "mailto:abrahampilip16@gmail.com"
-    },
-    {
-      "name": "Kit-Kat31415926",
-      "profession": "Student",
-      "quote": "\"Everything's science fiction until someone makes it science fact\"<break> - Said By Marie Lu",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/Kit-Kat31415926",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
-    },
-    {
-      "name": "Temitope Emokpae",
-      "profession": "Student",
-      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
-      "github": "https://github.com/temokpae3",
-      "linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
-      "email": "mailto:temokpae3@gmail.com"
-    },
-    {
-      "name": "Pariya Hajipour",
-      "profession": "Computer Engineering Student",
-      "quote": "\"Well, nobody's perfect.\"</br> - Some Like It Hot",
-      "github": "https://github.com/pariyahr",
-      "linkedin": "https://www.linkedin.com/in/pariya-hajipour/",
-      "email": "pariyahajipour@gmail.com"
-    },
-    {
-      "name": "Cephas Tokoli",
-      "profession": "FullStack Developer",
-      "quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
-      "github": "https://github.com/ctokoli",
-      "linkedin": "https://www.linkedin.com/in/ctokoli",
-      "twitter": "https://twitter.com/ctokoli",
-      "email": "mailto:matumasie@gmail.com"
-    },
-    {
-      "name": "Belrick Stephane",
-      "profession": "Software & Automation Eng.",
-      "quote": "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
-      "github": "https://github.com/latioms",
-      "linkedin": "https://www.linkedin.com/in/belrick-stephane/"
-    },
-    {
-      "name": "Ahmed Bentabet",
-      "profession": "SWE Student",
-      "github": "https://github.com/ahmedbentabet",
-      "linkedin": "https://www.linkedin.com/in/ahmedbentabet/"
-    },
-    {
-      "name": "Kamangu Maeti",
-      "profession": "Bioengineer",
-      "quote": "\"If you're not adding things back in at least 10% of the time, you're clearly not deleting enough because the most common error of a smart engineer is to optimise a thing that should not exist \"</br> - Elon Musk",
-      "twitter": "https://twitter.com/kamanguKmg",
-      "github": "https://github.com/KmgSamuel",
-      "linkedin": "https://linkedin.com/in/kamangumaeti",
-      "email": "kamangusamuel152@gmail.com"
-    },
-    {
-      "name": "David Enikuomehin",
-      "profession": "Software Engineer",
-      "quote": "\"Suckin at something is the first step to being sorta good at something \"</br> - Jake the Dog",
-      "twitter": "https://twitter.com/deveniku",
-      "github": "https://github.com/eniiku",
-      "linkedin": "https://linkedin.com/in/david-eniku",
-      "email": "mailto:enikucaches@gmail.com"
-    },
-    {
-      "name": "Noah Uhunmwangho-Johnson",
-      "profession": "Software Engineer",
-      "quote": "\"This is life, and I will not lie by saying every day will be sunshine. But there will be sunshine again, and that is a very different thing to say.\"</br> - Brandon Sanderson, Rhythm of War",
-      "twitter": "https://twitter.com/vsvNoahislegend",
-      "github": "https://github.com/serethewind",
-      "linkedin": "https://linkedin.com/serethewind",
-      "email": "mailto:osasereu@gmail.com"
-    },
-    {
-      "name": "Ayush gupta",
-      "profession": "Student",
-      "github": "https://github.com/ayushgupta35",
-      "linkedin": "https://linkedin.com/ayushgupta1",
-      "email": "mailto:ayushg3512@gmail.com"
-    },
-    {
-      "name": "Gamila Programmer",
-      "profession": "Frontend Developer",
-      "github": "https://github.com/gameliaprogrammer",
-      "linkedin": "https://www.linkedin.com/in/jamila-developer/",
-      "email": "mailto:youremail@gmail.com"
-    },
-    {
-      "name": "Nicolas Manigand",
-      "profession": "Web Developer",
-      "quote": "\"There is a whale under gravel\"</br> - Said By Me",
-      "github": "https://github.com/NicolasM-83200",
-      "linkedin": "https://www.linkedin.com/in/nicolas-manigand-a6910b2a6/",
-      "email": "mailto:manigand.nicolas@gmail.com"
-    },
-    {
-      "name": "Emmanuel Maunga",
-      "profession": "Software Engineer",
-      "quote": "\"Be the change you wish to see in the world\"</br> - Mahatma Gandhi",
-      "twitter": "https://twitter.com/cap_nemo1",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com/maunga-et",
-      "linkedin": "https://linkedin.com/in/emmanuel-maunga-7555b7182",
-      "email": "mailto:tanyahmaunga274@gmail.com"
-    },
-    {
-      "name": "Kennedy Musau",
-      "profession": "Web Developer",
-      "quote": "\"Celebrate small victories; they lead to big breakthroughs.\"</br> - Said By Me",
-      "github": "https://github.com/kenmusau",
-      "linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
-      "email": "mailto:kennedy.musauu@gmail.com"
-    },
-    {
-      "name": "Kelly Kiiru",
-      "profession": "Full Stack Web Developer",
-      "quote": "\"Learn, unlearn, relearn. Keep Learning.\"</br> - Said By Me",
-      "github": "https://github.com/kellykiiru",
-      "linkedin": "https://www.linkedin.com/in/kelly-kiiru-15a852231/",
-      "email": "mailto:infowithkiiru@gmail.com"
-    },
-    {
-      "name": "Silvia Wachira",
-      "profession": "Web Developer",
-      "quote": "\"Success is not final; failure is not fatal: It is the courage to continue that counts..\"</br> - Said By Me",
-      "github": "https://github.com/Silvia-Wachira",
-      "linkedin": "https://www.linkedin.com/in/silvia-wachira",
-      "email": "mwachirasilvia8@gmail.com"
-    },
-    {
-      "name": "Christian Gabi",
-      "profession": "Information Systems Engineer",
-      "quote": "\"What You Type Is What You Get\"</br> - Said By Me",
-      "twitter": "https://twitter.com/christian80gabi",
-      "behance": "https://behance.com/christiangabi",
-      "github": "https://github.com/christian80gabi",
-      "linkedin": "https://linkedin.com/in/christian-gabriel-nana",
-      "email": "mailto:christian-gabriel.nana@outlook.com"
-    }
-  ]
+		{
+			"name": "Your Name",
+			"profession": "Your Profession",
+			"quote": "\"Your favourite quote\"</br> - Said By Me",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com",
+			"linkedin": "https://linkedin.com",
+			"email": "mailto:youremail@gmail.com"
+		},
+		{
+			"name": "Tadiwanashe Rodney Zvidza",
+			"profession": "Software Developer || Entrepreneur || Open Source Contributer",
+			"quote": "\"I say luck is when an opportunity comes along and you are prepared for it\"</br> - Denzel Washington",
+			"twitter": "https://twitter.com/mysterious_son",
+			"github": "https://github.com/tadiwanashezvidzarodney",
+			"linkedin": "https://linkedin.com/in/tadiwanashe-zvidza-48583424b",
+			"email": "mailto:tadiwarodneyzvidza@gmail.com"
+		},
+		{
+			"name": "Ndifon",
+			"profession": "Software Engineer and Student",
+			"quote": "\"Dont't let your friends know you are a designer\"</br> - Said By Me",
+			"github": "https://github.com/N-TITIAN"
+		},
+		{
+			"name": "Meryem Ahmaine",
+			"profession": "Full stack developer",
+			"github": "https://github.com/meryemahmaine",
+			"linkedin": "https://www.linkedin.com/in/meryem-ahmaine-aa76a728b/"
+		},
+		{
+			"name": "Ch.Sai Pradyumna Goud",
+			"profession": "Apspiring Full stack developer",
+			"github": "https://github.com/saipradyumnagoud",
+			"linkedin": "https://www.linkedin.com/in/saipradyumnagoudch/"
+		},
+		{
+			"name": "zehor-l",
+			"profession": "Apspiring Engineer",
+			"github": "https://github.com/zehor-l",
+			"linkedin": "https://linkedin.com/in/zehor-lahlah"
+		},
+		{
+			"name": "Kerimcan Balkan",
+			"profession": "Student",
+			"quote": "\"God does not play dice\"</br> - Albert Einstein",
+			"github": "https://github.com/kerimcanbalkan",
+			"linkedin": "https://linkedin.com/kerimcanbalkan",
+			"email": "mailto:kerimcanbalkan@gmail.com"
+		},
+		{
+			"name": "Ajiri Enoch Osiobe",
+			"profession": "Software Developer",
+			"quote": "\"Anything Worth Having Takes Time\"</br> - Said by Anonymous",
+			"github": "https://github.com/AJ-droi",
+			"linkedin": "https://linkedin.com/in/ajiri-osiobe-801675184",
+			"email": "mailto:ajiriosiobe@gmail.com"
+		},
+		{
+			"name": "Samkelo chamane",
+			"profession": "PowerApp Developer and Data Analyst",
+			"quote": "\"Believe and show up everyday for yourself\"</br> - Said By Me",
+			"github": "https://github.com/samkelo-chamane",
+			"linkedin": "https://www.linkedin.com/in/samkelochamane/",
+			"email": "mailto:samke54m@gmail.com"
+		},
+		{
+			"name": "Ashley Hendrata",
+			"profession": "Student and Future Software Engineer",
+			"quote": "\"sometimes a nap is the best solution\"</br> - Said By Me",
+			"github": "https://github.com/ashhendrata",
+			"linkedin": "https://www.linkedin.com/in/ashley-hendrata/",
+			"email": "mailto:ashley.m.hendrata@gmail.com"
+		},
+		{
+			"name": "Ivan Ho",
+			"profession": "Student",
+			"quote": "\"If you can’t be kind, at least be vague.\"</br> - Judith Martin",
+			"github": "https://github.com/iho21",
+			"linkedin": "https://www.linkedin.com/in/ivanhocsula/"
+		},
+		{
+			"name": "Itzel Bailon",
+			"profession": "Learning Assistant",
+			"quote": "\"The only person you should try to be better than is the person you were yesterday.\"</br>  - Unknown",
+			"github": "https://github.com/Xatziri",
+			"linkedin": "https://www.linkedin.com/in/itzel-bailon/",
+			"email": "mailto:ibailon.ptc@gmail.com"
+		},
+		{
+			"name": "Danyal Ejaz",
+			"profession": "Student",
+			"quote": "\"Everything you can imagine is real\"</br> - Said By Me",
+			"twitter": "https://twitter.com/twtdanyal",
+			"dribbble": "https://dribbble.com/danyalejaz",
+			"behance": "https://behance.com/danyalejaz",
+			"github": "https://github.com/danyalejaz",
+			"linkedin": "https://linkedin.com/danyalejaz",
+			"email": "mailto:danyalejaz10@outlook.com"
+		},
+		{
+			"name": "Cyril Baah",
+			"profession": "DevOps Engineer",
+			"quote": "\"It easy to lose what you've gain if you don't make efforts to hold it\"</br> - Unknown",
+			"twitter": "https://twitter.com/baahcy",
+			"github": "https://github.com/CyrilBaah",
+			"linkedin": "https://www.linkedin.com/in/cyril-baah",
+			"email": "mailto:baah_yard12@yahoo.com"
+		},
+		{
+			"name": "Claudia Varona",
+			"profession": "Software Engineer",
+			"quote": "\"Dreams don't work unless you do.\"</br> - John C. Maxwell",
+			"github": "https://github.com/Clau050994/",
+			"linkedin": "https://www.linkedin.com/in/claudia-varona-p%C3%A9rez-96b3bb114/",
+			"email": "clau050994gmail@gmail.com"
+		},
+		{
+			"name": "Adarsh Sahu",
+			"profession": "Student",
+			"quote": "\"Stop thinking, Start doing\"</br> - Said By Me",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/yaarAdarsh",
+			"linkedin": "https://www.linkedin.com/in/adarsh-sahu-415475239/",
+			"email": "mailto:addudx@gmail.com"
+		},
+		{
+			"name": "Tracy Sambu",
+			"profession": "Software Developer and OpenSource Contributor",
+			"quote": "\"We still Rise\"</br> - Said By Lewis Hamilton",
+			"twitter": "https://twitter.com/sambu_tracy",
+			"github": "https://github.com/sambutracy",
+			"linkedin": "https://www.linkedin.com/in/tracysambu/",
+			"email": "tracysambut@gmail.com"
+		},
+		{
+			"name": "Essi Akpevwe Praise",
+			"profession": "Software Developer & IT",
+			"quote": "\"Your He who has a why can bear almost any how\"</br> - Viktor E. Frankl",
+			"twitter": "https://twitter.com/praisex64",
+			"github": "https://github.com/Akpevwe11",
+			"linkedin": "https://www.linkedin.com/in/akpevwe-essi-45416518b/",
+			"email": "mailto:essiakpevwepraise@gmail.com"
+		},
+		{
+			"name": "James Wainaina",
+			"profession": "Software Developer",
+			"quote": "Be the change that you wish to see in the world. - Mahatma Gandhi",
+			"github": "https://github.com/JamesWainaina",
+			"linkedin": "https://www.linkedin.com/in/james-gatheru-2282b1212/",
+			"email": "wainainajamesgatheru@gmail.com"
+		},
+		{
+			"name": "Jonas Ermert",
+			"profession": "Flutter, Dart",
+			"quote": "Welcome to my profile",
+			"twitter": "https://twitter.com/Jonas20692",
+			"github": "https://github.com/jonasermert",
+			"linkedin": "https://linkedin.com/in/jonasermert/"
+		},
+		{
+			"name": "Eslam AbdElhakem",
+			"profession": "Software Engineer",
+			"quote": "\"Be The Last Man Standing\"</br> - Said By Me",
+			"github": "https://github.com/EslamAbdElhakem",
+			"linkedin": "https://linkedin.com",
+			"email": "mailto:youremail@gmail.com"
+		},
+		{
+			"name": "Julius L. Jones Jr.",
+			"profession": "Student",
+			"quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/jlwj22",
+			"linkedin": "https://linkedin.com/in/juliusljonesjr",
+			"email": "mailto:Juliuslwj22@gmail.com"
+		},
+		{
+			"name": "FRANCK KASONGO",
+			"profession": "Student",
+			"quote": "\"Chopping wood, carrying water\"</br> - Said by Kyrie Irving",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/Franckkasongo15/Franck-kasongo",
+			"linkedin": "https://linkedin.com/in/franckkasongo15",
+			"email": "franckkasongokalala@gmail.com"
+		},
+		{
+			"name": "Jerry Onyango",
+			"profession": "Computer Science Student",
+			"quote": "\"All this jewelry have no use at night\"</br> - Said by not me",
+			"twitter": "no twitter",
+			"dribbble": "no dribble",
+			"behance": "no behance",
+			"github": "https://github.com/onyangojerry",
+			"linkedin": "https://www.linkedin.com/in/jerry-rawlings-onyango/",
+			"email": "jerry.onyango.rawlings@gmail.com"
+		},
+		{
+			"name": "Chad Peter",
+			"profession": "Your Profession",
+			"quote": "\"Whatever has to happen will happen\"</br> - Said by Me",
+			"twitter": "https://twitter.com/chardpeter10",
+			"github": "https://github.com/ChardPeter",
+			"linkedin": "https://www.linkedin.com/in/chard-p-7191a3245/",
+			"email": "chardpeter10@gmail.com"
+		},
+		{
+			"name": "Tsafac Nkombong Regine Cyrille",
+			"profession": "Network Engineer",
+			"quote": "\"Push Yourself, No One Else Will\"</br> - By Hermann & Me",
+			"twitter": "https://twitter.com/RegineCyrille1",
+			"github": "https://github.com/Regine12",
+			"linkedin": "https://www.linkedin.com/in/tsafac-nkombong-regine-cyrille",
+			"email": "reginecyrille@gmail.com"
+		},
+		{
+			"name": "Auwalu Hamza",
+			"profession": "Fullstack Developer",
+			"quote": "\"As long as we persevere and endure, we can get anything we want\"</br> - Said by Mike Tyson",
+			"twitter": "https://twitter.com/afhamu",
+			"github": "https://github.com/afhamu",
+			"linkedin": "https://linkedin.com/auwalu-hamza",
+			"email": "mailto:auwalufalalu1@gmail.com"
+		},
+		{
+			"name": "Henry Saya",
+			"profession": "Software Engineer",
+			"quote": "\"The journey of a thousand miles begins with a single step\"</br> - Said by Lao Tzu",
+			"twitter": "https://twitter.com/HenrySaya",
+			"github": "https://github.com/HenrySaya",
+			"linkedin": "https://linkedin.com/in/henry-saya",
+			"email": "mailto:henrysaya@skiff.com"
+		},
+		{
+			"name": "Ikegah Oliver",
+			"profession": "Student",
+			"quote": "\"Memento mori, live well.\"</br> - Said by Marcus Aurelius",
+			"github": "https://github.com/oliverTwist2",
+			"linkedin": "https://www.linkedin.com/in/ikegah-oliver/",
+			"email": "oliverikegah@gmail.com"
+		},
+		{
+			"name": "Mwofoh Adriel",
+			"profession": "Student",
+			"quote": "\"Time isn't the main thing. It's the only thing.\"</br> - Said by Miles Davis",
+			"github": "https://github.com/Mwofoh-Adriel",
+			"linkedin": "https://www.linkedin.com/in/adriel-mwofoh-6ab680269//",
+			"instagram": "https://www.instagram.com/mwofohadriel/",
+			"email": "Mwofohadriel@gmail.com"
+		},
+		{
+			"name": "Ande Gangadhara Rao",
+			"profession": "Looking for an oppertunity",
+			"quote": "\"If, at first, you do not succeed, call it version 1.0.\"</br> - Said by Khayri R.R. Woulfe",
+			"twitter": "https://twitter.com/Gangadhara18Rao",
+			"github": "https://github.com/gangadhararaoande",
+			"linkedin": "https://www.linkedin.com/in/gangadhara-rao-ande/",
+			"email": "mailto:gangadharr18@gmail.com"
+		},
+		{
+			"name": "Azizbek Yunusaliev",
+			"profession": "Frontend Developer",
+			"quote": "\"Hope is only in Education\"</br> - Said by Me 😉",
+			"github": "https://github.com/azick99",
+			"linkedin": "https://www.linkedin.com/in/azizbek-yunusaliev-6b060b232",
+			"email": "mailto:azizbekyunusaliev99@gmail.com"
+		},
+		{
+			"name": "Brian kyalo",
+			"profession": "Software Developer",
+			"quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
+			"github": "https://github.com/kyalo3",
+			"linkedin": "https://linkedin.com/brian-kyalo-531394281/",
+			"email": "mailto:kyalokimeu0@gmail.com"
+		},
+		{
+			"name": "Sergius Justus Nyah",
+			"profession": "Computer Science student",
+			"quote": "\"The greatest penalty to declining leadership is to be ruled be ruled by someone inferior to you\"<br> - Pluto",
+			"github": "https://github.com/Sergius-Nyah",
+			"LinkedIn": "https://linked/in.com/Sergius-Nyah/",
+			"email": "mailto://sergiusnyah@gmail.com"
+		},
+		{
+			"name": "Brian kyalo",
+			"profession": "Software Developer",
+			"quote": "\"Keep Pushing\"</br> - Said by Alcatraz",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/kyalo3",
+			"linkedin": "https://linkedin.com/brian-kyalo-531394281/",
+			"email": "mailto:kyalokimeu0@gmail.com"
+		},
+		{
+			"name": "J R Jewell",
+			"profession": "Web Developer",
+			"quote": "\"The world is a mountain, in which your words are echoed back to you.\"</br> - Said by Rumi",
+			"github": "https://github.com/JeremyRayJewell",
+			"linkedin": "https://linkedin.com/in/jeremyrayjewell",
+			"email": "mailto:jeremy.jewell001@gmail.com"
+		},
+		{
+			"name": "John Irem",
+			"profession": "Software Engineer",
+			"quote": "\"Try not. Do, or do not. There is no try.\"</br> - Said by Yoda",
+			"twitter": "https://twitter.com/rasine_era",
+			"github": "https://github.com/eyesaidyo",
+			"linkedin": "https://linkedin.com/in/john-irem",
+			"email": "rajonirem8@gmail.com"
+		},
+		{
+			"name": "Elísio Massaqui",
+			"profession": "Software Developer",
+			"quote": "\"Believe in your Skills\"</br> - Said by",
+			"twitter": "https://twitter.com/elisio_massaqui",
+			"github": "https://github.com/elisioMassaqui",
+			"email": "elisiomassaqui8@gmail.com"
+		},
+		{
+			"name": "Abdessamad Touzani",
+			"profession": "Software engineer and Data scientist",
+			"quote": "\"Never bend your head. Always hold it high. Look the world straight in the eye.\"</br> - Helen Keller",
+			"twitter": "https://twitter.com/at9kat",
+			"github": "https://github.com/AbdessamadTzn",
+			"linkedin": "https://linkedin.com/in/abdessamadtouzani",
+			"email": "mailto:abdessamadtz6@gmail.com"
+		},
+		{
+			"name": "Ambrose Matata",
+			"profession": "Software Engineer",
+			"quote": "\"Victory loves preparation.\"</br> - Extracted from the Movie Mechanic",
+			"twitter": "https://twitter.com/MatataAmbrose",
+			"github": "https://github.com/Masaku12",
+			"linkedin": "https://www.linkedin.com/in/ambrosematata/",
+			"email": "ambrose.matata11@gmail.com"
+		},
+		{
+			"name": "Brian Chebon",
+			"profession": "Software Developer | Web Dev",
+			"quote": "\"Welcome to my profile! I am a passionate software developer with expertise in web development. I love turning ideas into functional and user-friendly applications. Explore my journey in the world of coding and technology.",
+			"twitter": "https://twitter.com/Chebon254",
+			"github": "https://github.com/Chebon-breezy",
+			"linkedin": "https://www.linkedin.com/in/brianchebon",
+			"email": "mailto:brynnlamura@gmail.com"
+		},
+		{
+			"name": "Kelvin OKumu",
+			"profession": "Data Analyst | Instructor",
+			"quote": "\"Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.\"</br> - Said by Edward Snowden",
+			"twitter": "https://twitter.com/OkushKelvin",
+			"github": "https://github.com/kelvinokumu",
+			"linkedin": "https://www.linkedin.com/in/kelvin-okumu-965bb0147/",
+			"email": "mailto:oumakelvinokumu@gmail.com"
+		},
+		{
+			"name": "Mblessing Muchafa CoderBlee",
+			"profession": "Student| CyberSecurity|Data Analysis|Computer Science",
+			"quote": "\"Believe in yourself and all that you are.Know that there is something inside you that is greater than any obstacle.\"</br> - Said by MBlessingG",
+			"twitter": "https://twitter.com/kamoblessingg",
+			"github": "https://github.com/CoderBlee",
+			"linkedin": "https://www.linkedin.com/in/blessing-muchafa-772305247/",
+			"email": "gamuchiraiblessing7@gmail.com"
+		},
+		{
+			"name": "AkashGGaonkar",
+			"profession": "Undergraduate Student",
+			"quote": "\"He travels the fastest who travels alone\"</br> - Rudyard Kipling",
+			"github": "https://github.com/Gaonkar30",
+			"linkedin": "https://www.linkedin.com/in/akash-g-gaonkar-345656256/",
+			"email": "akashggaonkar@gmail.com"
+		},
+		{
+			"name": "Mblessing Muchafa CoderBlee",
+			"profession": "Student| CyberSecurity| SoftwareEngineer| Data Analysis",
+			"quote": "\"Everything has its own time, hold on as there is light at the end of the tunnel\"</br> - Said by GamuchiraiM",
+			"twitter": "https://twitter.com/kamoblessingg",
+			"github": "https://github.com/CoderBlee",
+			"linkedin": "https://www.linkedin.com/in/blessing-muchafa-772305247/",
+			"email": "gamuchiraiblessing7@gmail.com"
+		},
+		{
+			"name": "Sabeha Khan",
+			"profession": "Computer Science Student",
+			"quote": "\"If it works, don't touch it.\"</br> - Anonymous",
+			"github": "https://github.com/Sab3ha",
+			"linkedin": "https://www.linkedin.com/in/sabeha-k321/",
+			"email": "mailto:sabehakhan321@gmail.com"
+		},
+		{
+			"name": "Tony B. Nya",
+			"profession": "Software Engineer",
+			"quote": "\"The only way that we can justify privileges is by solving the world's biggest problems, and by doing hard things. But of all the hard things we have to do, the most difficult thing is to keep going.\"</br> - Fred Swaniker",
+			"instagram": "https://www.instagram.com/tonybnya/",
+			"github": "https://github.com/tonybnya",
+			"linkedin": "https://www.linkedin.com/in/tonybnya/",
+			"email": "tonybnya@gmail.com"
+		},
+		{
+			"name": "Sandeep Dewangan",
+			"profession": "Web Developer",
+			"quote": "It's Not a Bug, It's a Feature",
+			"twitter": "https://twitter.com/sandeep15d",
+			"github": "https://github.com/sandy15d",
+			"linkedin": "https://www.linkedin.com/in/sandy15d/",
+			"email": "mailto:sandeepdewangan2012@gmail.com"
+		},
+		{
+			"name": "Dhel Malith",
+			"profession": "Junior Cybersecurity Analyst",
+			"twitter": "https://twitter.com/ThomasObote1?s=09",
+			"github": "https://github.com/thomasobote211",
+			"linkedin": "https://www.linkedin.com/in/thomas-obote-a7b5131b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			"email": "dhelmcm@gmail.com"
+		},
+		{
+			"name": "Jim Hatley",
+			"profession": "Programmer",
+			"github": "https://github.com/jhatley75",
+			"email": "jimdhatley@gmail.com"
+		},
+		{
+			"name": "Vincent Dushime",
+			"profession": "Software Engineer | computer repair technician",
+			"quote": "\"There is no such thing as Something for nothing.\"</br> - Napoleon HIll",
+			"twitter": "https://twitter.com/vinci_dax",
+			"github": "https://github.com/Vincidax",
+			"linkedin": "https://www.linkedin.com/in/vincentdushime/",
+			"email": "mailto:vincentdx18@gmail.com"
+		},
+		{
+			"name": "Sreekakulam Lohith",
+			"profession": "Recent Grad",
+			"quote": "\"Go forth on your path, as it exists only through your walking.\"</br> - Augustine of Hippo",
+			"github": "https://github.com/SreekakulamLohith",
+			"linkedin": "https://www.linkedin.com/in/sreekakulam-lohith-322461203/",
+			"email": "mailto:lohith.sreekakulam@gmail.com"
+		},
+		{
+			"name": "Felix Gomez",
+			"profession": "Mechatronics Engineer | AI/ML Engineer | Web & Mobile Developer",
+			"quote": "\"Only the people who are crazy enough to think they can change the world are the ones who do.\"</br> - Steve Jobs",
+			"twitter": "https://twitter.com/felixdavid1221",
+			"github": "https://github.com/felixdavid12",
+			"linkedin": "https://www.linkedin.com/in/felix-david-gomez-marin/",
+			"email": "mailto:felix@ifelix.dev"
+		},
+		{
+			"name": "Mblessing Muchafa",
+			"profession": "Web developer| CyberSecurity|CloudE",
+			"quote": "\"Everything has its own time, be patient\"</br> - Said by Blessing",
+			"twitter": "https://twitter.com/kamoblessingg",
+			"github": "https://github.com/CoderBlee",
+			"linkedin": "https://cs50.me/cs50cy#!",
+			"email": "gamuchiraiblessing7@gmail.com"
+		},
+		{
+			"name": "Vincent Kimani",
+			"profession": "Frontend Software Engineer || Technical writer || Open Source Contributor",
+			"quote": "\"In real open source, you have the right to control your own destiny.\"</br> - Linus Torvalds",
+			"twitter": "https://twitter.com/theevincekimani",
+			"github": "https://github.com/Vince-arch",
+			"linkedin": "https://www.linkedin.com/in/vincent-kimani/",
+			"email": "mailto:vincekimani006@gmail.com"
+		},
+		{
+			"name": "Vivien Ogoun",
+			"profession": "Full Stack Web Developer",
+			"quote": "\"Knowledge is power\"</br> - Francis Bacon",
+			"github": "https://github.com/vivienogoun",
+			"linkedin": "https://www.linkedin.com/in/vivien-ogoun",
+			"email": "mailto:vivienogoun1@gmail.com"
+		},
+		{
+			"name": "Chisom",
+			"profession": "Technical Writer, QA Engineer",
+			"quote": "\"To die is gain\"</br> - Said by Christ",
+			"twitter": "https://x.com/Cathiecodes?t=TRFQdl8gxUaVMu0hfwg3aw&s=09",
+			"github": "https://github.com/catherine-chisom",
+			"linkedin": "https://linkedin.com/in/chisom-catherine-dick",
+			"email": "mailto:chisomdick2@gmail.com"
+		},
+		{
+			"name": "YoTi",
+			"profession": "Full-Stack Developer",
+			"quote": "\"Code is like humor. When you have to explain it, it’s bad\"</br> - Said by Cory House",
+			"twitter": "https://twitter.com/YoTi1412",
+			"github": "https://github.com/YoTi1412",
+			"email": "mailto:yasserrafai5@gmail.com"
+		},
+		{
+			"name": "Amin Vahdani",
+			"profession": "Python_DevOps and Sys_Admin",
+			"quote": "\"Imagination is more important than knowledge\"</br> by - Albert Einstein",
+			"twitter": "https://x.com/Amiiin94",
+			"github": "https://github.com/amin2ace",
+			"linkedin": "https://www.linkedin.com/in/amin-map-6a060a210/",
+			"email": "avmap.py@gmail.com"
+		},
+		{
+			"name": "Manu Arias",
+			"profession": "Full Stack Web Developer",
+			"quote": "\"I can't go back to yesterday because I was a different person then\"</br> - Lewis Carroll",
+			"instagram": "https://www.instagram.com/jmanarias/",
+			"github": "https://github.com/thekain9",
+			"linkedin": "https://www.linkedin.com/in/j-m-arias-542a74238/",
+			"email": "mailto:themanuarias@gmail.com"
+		},
+		{
+			"name": "Mounssif nuuX BOUHLAOUI",
+			"profession": "FrontEnd | BackEnd | DevOps",
+			"quote": "\"Be Water My Friend\"</br> - Bruce Lee",
+			"twitter": "https://twitter.com/nuux_tv",
+			"github": "https://github.com/nuuxcode",
+			"linkedin": "https://www.linkedin.com/in/mounssif-bouhlaoui-25934570/",
+			"email": "mailto:cv.bouhlaoui@gmail.com"
+		},
+		{
+			"name": "Sylvester Sergeant",
+			"profession": "IT Specialist/ System Admin",
+			"quote": "\"The future belongs to those who believe in the beauty of their dreams.\"</br> - Said by Eleanor Roosevelt",
+			"twitter": "https://twitter.com/Posture_Pace",
+			"medium": "https://medium.com/@bytesizebasics",
+			"github": "https://github.com/sylvesterserg",
+			"linkedin": "https://www.linkedin.com/in/sylvester-sergeant/",
+			"email": "mailto:Sylvester.Sergeant@gmail.com"
+		},
+		{
+			"name": "Nkunze Caleb",
+			"profession": "Software Developer & IT",
+			"quote": "\"There is always a better side of everything.\"</br> - Said by Cank256",
+			"twitter": "https://twitter.com/calebnkunze",
+			"github": "https://github.com/Cank256",
+			"linkedin": "https://linkedin.com/in/nkunzecaleb",
+			"medium": "https://medium.com/@NkunzeCaleb",
+			"email": "mailto:nkunzecaleb@gmail.com"
+		},
+		{
+			"name": "Motlatsi Moea",
+			"profession": "full stack Web developer",
+			"quote": "\"There is freedom waiting for you, on the breezes of the sky, and you ask, what if I fall? Oh my darling, what if you fly?\"</br> - Said by Erin Hanson",
+			"twitter": "https://twitter.com/MotlatsiMo3a",
+			"github": "https://github.com/motlatsimoea",
+			"linkedin": "https://www.linkedin.com/in/motlatsi-moea-b33b25119/",
+			"email": "mailto:motlatsi.moea@gmail.com"
+		},
+		{
+			"name": "Silvia Muthangya",
+			"profession": "DevOps Engineer",
+			"quote": "\"Do the best you can until you know better. Then when you know better, do better.\"</br> - Maya Angelou",
+			"twitter": "https://twitter.com/SilviaMuthangya",
+			"github": "https://github.com/musangisilvia",
+			"linkedin": "https://linkedin.com/in/silvia-muthangya",
+			"email": "mailto:muthangyasilvia@gmail.com"
+		},
+		{
+			"name": "Dayo Orunsolu",
+			"profession": "SQL || Cloud || DevOps",
+			"quote": "\"The trick is to enjoy life. Do not wish away your days waiting for better ones ahead\" - Marjorie Pay Hinkley",
+			"github": "https://github.com/ORUNSOLU",
+			"linkedin": "https://www.linkedin.com/in/dayo-o-44983b116",
+			"email": "mailto:oruns@outlook.com"
+		},
+		{
+			"name": "Wesley Perrang",
+			"profession": "Software Developer",
+			"quote": "\"If you don't fight, You can't win!\"</br> - Eren Yeager",
+			"twitter": "https://twitter.com/WPerrang",
+			"dribbble": "https://dribbble.com/Wes_Per",
+			"behance": "https://behance.com",
+			"github": "https://github.com/Wesley-Perrang",
+			"linkedin": "https://www.linkedin.com/in/wesley-perrang/",
+			"email": "wes3perrang@gmail.com"
+		},
+		{
+			"name": "Adeshina Olorogun",
+			"profession": "Software Engineer",
+			"quote": "\"He who fails to plan has planned to fail\"</br> - Said by",
+			"twitter": "https://twitter.com/AdesinaOlorogun",
+			"github": "https://github.com/AdeshinaOlorogun",
+			"linkedin": "https://linkedin.com/Adeshina-m-Olorogun",
+			"email": "mailto:Adeshinamolorogun@gmail.com"
+		},
+		{
+			"name": "Ukpong O. Zion",
+			"profession": "Frontend Developer, Technical Writer, CS student",
+			"quote": "\" The only person you should be in competition with, is yourself. \"<br> - Unknown ",
+			"twitter": "https://twitter.com/tega_zion",
+			"github": "https://github.com/tegacodess",
+			"linkedin": "https://github.com/tegacodess",
+			"email": "mailto:tegazion7@gmail.com"
+		},
+		{
+			"name": "Félix Domingos",
+			"profession": "Web Fullstack Developer",
+			"quote": "\"When you change your thoughts, remember to also change your world\"</br> - Said by Norman Vincent Peale",
+			"twitter": "https://twitter.com/FelixSDomingos2",
+			"dribbble": "https://dribbble.com/F9_-",
+			"behance": "https://www.behance.net/flixsdomingos",
+			"github": "https://github.com/felixdomingos1",
+			"linkedin": "https://www.linkedin.com/in/f%C3%A9lixdomingos/",
+			"email": "Félix:felixsdomingos93@gmail.com"
+		},
+		{
+			"name": " Elísio Massaqui",
+			"profession": "Web FrontEnd & Mobile Developer",
+			"quote": "When you believe so much in something, that thing becomes real. -Mr.Robot",
+			"twitter": "https://twitter.com/elisio_massaqui",
+			"github": "https://github.com/elisioMassaqui",
+			"linkedin": "https://www.linkedin.com/in/el%C3%ADsio-massaqui-202635291/",
+			"email": "elisiomassaqui8@gmail.com"
+		},
+		{
+			"name": "Anish Yakkanti",
+			"profession": "Texas A&M Student",
+			"quote": "What is better, to be born good or to overcome your evil nature through great effort?",
+			"github": "https://github.com/AnishYakk",
+			"linkedin": "https://linkedin.com/in/anish-yakkanti",
+			"email": "mailto:yakkantian@gmail.com"
+		},
+		{
+			"name": "Abhi Joshi",
+			"profession": "Recruiter turned front-end developer",
+			"quote": "\"Jarvis, sometimes you gotta run before you can walk.\"</br> - Tony Stark",
+			"twitter": "https://twitter.com/abhiness",
+			"github": "https://github.com/abhiness",
+			"linkedin": "https://linkedin.com/in/abhijoshi747",
+			"email": "mailto:abhijoshi30995@gmail.com"
+		},
+		{
+			"name": "Ademola Onayemi",
+			"profession": "Backend developer",
+			"quote": "\"Continuos drop of water turns out to become a river.\"</br> - Yoruba Adage",
+			"twitter": "https://x.com/@tinnythrill",
+			"github": "https://github.com/Ademola111",
+			"linkedin": "https://linkedin.com/in/onayemi-h-ademola",
+			"email": "mailto:onayemi.hakeem@gmail.com"
+		},
+		{
+			"name": "Dário Prazeres",
+			"profession": "FullStack developer",
+			"quote": "\"I only know that I know nothing.\"</br> - Socrates",
+			"twitter": "https://x.com/@dario_prazeres",
+			"github": "https://github.com/DarioPrazeres",
+			"linkedin": "https://linkedin.com/in/dário-prazeres",
+			"email": "mailto:darioedgarprazeres@gmail.com"
+		},
+		{
+			"name": "Vedang",
+			"profession": "Undergraduate Student",
+			"quote": "\"Never stop learning\"</br>-annonymous",
+			"twitter": "https://twitter.com/ThisIsVedang",
+			"github": "https://github.com/vedang685",
+			"linkedin": "https://www.linkedin.com/in/vedang-69674222b",
+			"email": "mailto:vedang685@gmail.com"
+		},
+		{
+			"name": "Rita Uzoma",
+			"profession": "Frontend Developer",
+			"quote": "Challenges are hard to overcome but without them, success would have no meaning.",
+			"twitter": "https://twitter.com/reetahUzoma",
+			"github": "https://github.com/i-am-rita",
+			"linkedin": "https://www.linkedin.com/in/ritauzoma/",
+			"email": "mailto:ritauzoma07@gmail.com"
+		},
+		{
+			"name": "CHILAKA CHIGOZIE MICHEAL",
+			"profession": "FULL STACK STUDENT",
+			"quote": "It's only you can help yourself to win",
+			"twitter": "https://twitter.com/officialbos_s",
+			"github": "https://github.com/officialboss1",
+			"email": "mailto:mikeedaboss1@gmail.com"
+		},
+		{
+			"name": "Wesley Waka",
+			"profession": "FULL STACK DEVELOPER",
+			"quote": "No pain, no gain",
+			"twitter": "https://twitter.com/WesleyWaka1",
+			"github": "https://github.com/Wesley-waka",
+			"email": "mailto:wesleywaka77@gmail.com"
+		},
+		{
+			"name": "DIABY IBRAHIM MOHAMED",
+			"profession": "FULL STACK STUDENT",
+			"quote": "Truth can only be found in one place: the code.",
+			"twitter": "https://twitter.com/kingibro345",
+			"behance": "https://behance.com/Diaby%20Mohammed%20Ibrahim",
+			"github": "https://github.com/Dmambo",
+			"linkedin": "https://linkedin.com/Diaby%20Mohammed%20Ibrahim",
+			"email": "mailto:ibkhalidworld@gmail.com"
+		},
+		{
+			"name": "Gracioux Mbanugo",
+			"profession": "Frontend Software Developer",
+			"quote": "\"You can't rely on how you look to sustain you, what sustains us, what is fundamentally beautiful is compassion; for yourself and for those around you.\" - Lupita Nyong'o",
+			"twitter": "https://twitter.com/Gracioux_codes",
+			"github": "https://github.com/GraciouxMbanugo",
+			"linkedin": "https://linkedin.com/in/grace-mbanugo",
+			"email": "mailto:chiziterem01@gmail.com"
+		},
+		{
+			"name": "Daniel Ukoha",
+			"profession": "Front End Software Engineer & Open Source Contributor",
+			"quote": "Hard work is worthless for those that do not believe in themselves - uzumaki naruto",
+			"twitter": "https://twitter.com/i_amsuperfly",
+			"github": "https://github.com/superfly101",
+			"linkedin": "https://linkedin.com/in/danielukoha101",
+			"email": "mailto:danielukoha101@gmail.com"
+		},
+		{
+			"name": "Carmen Amba",
+			"profession": "Software Engineer and OpenSource contributor",
+			"quote": "\"Whatever is worth doing at all, is worth doing well.\" - Philip Stanhope",
+			"twitter": "https://twitter.com/car__mie",
+			"github": "https://github.com/Carmenbelle",
+			"linkedin": "https://www.linkedin.com/in/carmen-amba-226975185/",
+			"email": "mailto:carmieamba@gmail.com"
+		},
+		{
+			"name": "Amyy Alex-Okenwa",
+			"profession": "Software Engineer",
+			"quote": "While you might be doubting yourself, someone else is admiring your strength.",
+			"twitter": "https://twitter.com/AlexStephanie10",
+			"dribbble": "https://dribbble.com/Stephnny",
+			"github": "https://github.com/amyyalex",
+			"linkedin": "https://linkedin.com/stephaniealexokenwa",
+			"email": "mailto:deeptruth247@gmail.com"
+		},
+		{
+			"name": "s_shemmee",
+			"profession": "Web Developer and OpenSource contributor",
+			"quote": "Dream big, Stay positive, Work hard + Enjoy the Journey",
+			"twitter": "https://twitter.com/s_shemmee",
+			"dribbble": "https://dribbble.com/s-shemmee",
+			"github": "https://github.com/s-shemmee"
+		},
+		{
+			"name": "Jeffrey Whewhetu",
+			"profession": "Software Developer and OpenSource Contributor",
+			"quote": "Know thyself - Socrates",
+			"twitter": "https://twitter.com/c0d33ngr",
+			"github": "https://github.com/c0d33ngr",
+			"linkedin": "https://linkedin.com/in/jeffrey-whewhetu-483170240"
+		},
+		{
+			"name": "Tenneh Kanneh",
+			"profession": "STEM Tutor",
+			"quote": "I will not accept a life I do not deserve- Maxine Minx",
+			"twitter": "https://twitter.com/tennehkanneh",
+			"github": "https://github.com/tennehkanneh",
+			"linkedin": "https://www.linkedin.com/in/tenneh-kanneh-888132238/",
+			"email": "tennehkannehofficial@gmail.com"
+		},
+		{
+			"name": "Favour Naza Anajemba",
+			"profession": "Software Developer",
+			"quote": "Be a rainbow in someone else's cloud - Maya Angelou",
+			"twitter": "https://www.twitter.com/TechSiz",
+			"github": "https://github.com/naz-coder",
+			"linkedin": "https://www.linkedin.com/in/favour-naza-anajemba-02a156196",
+			"email": "mailto:nazanajemba@gmail.com"
+		},
+		{
+			"name": "Ashwin Dhangar",
+			"profession": "Frontend Developer",
+			"quote": "You never meet same person again - Ashwin Dhangar",
+			"github": "https://github.com/MrAshwin2142",
+			"linkedin": "https://www.linkedin.com/in/ashwin-dhangar-btech24"
+		},
+		{
+			"name": "Casey Charleston",
+			"profession": "UT Austin Researcher + Teaching Assistant",
+			"quote": "Program testing can be used to show the presence of bugs, but never to show their absence!</br> - Edsger W. Djikstra",
+			"twitter": "https://twitter.com/imcaseych",
+			"github": "https://github.com/caseycharleston",
+			"linkedin": "https://www.linkedin.com/in/caseycharleston/"
+		},
+		{
+			"name": "David Banitongwa",
+			"profession": "Software Engineer",
+			"quote": "\"Each day is a new opportunity to become better\"</br> - Unknown",
+			"github": "https://github.com/Banitongwa7",
+			"linkedin": "https://www.linkedin.com/in/david-banitongwa/",
+			"email": "mailto:davidbanitongwa@gmail.com"
+		},
+		{
+			"name": "Denis AKPAGNONITE",
+			"profession": "Aspiring Site Reliability Engineer",
+			"quote": "\"Sic parvis magna - (Greatness from small beginnings)\"</br> - Sir Francis Drake",
+			"github": "https://github.com/denisakp",
+			"twitter": "https://twitter.com/denis_Akp",
+			"linkedin": "https://www.linkedin.com/in/denis-akpagnonite-49868b171/",
+			"email": "mailto:akpagnonited@gmail.com"
+		},
+		{
+			"name": "Kevin Crumbleton",
+			"profession": "Software Engineer",
+			"quote": "You learn more from failure than success - Unknown",
+			"github": "https://github.com/murf-o"
+		},
+		{
+			"name": "Emmanuel Okanlawon",
+			"profession": "Software Engineer",
+			"quote": "\"Imagination is more important than knowledge\"</br> - Albert Einstein",
+			"twitter": "https://twitter.com/solarsoft0",
+			"github": "https://github.com/solarsoft0",
+			"linkedin": "https://linkedin.com/in/okanlawonema",
+			"email": "mailto:okanlawonemmanuel41@gmail.com"
+		},
+		{
+			"name": "Glenn Tedd Onayngo",
+			"profession": "Frontend Engineer",
+			"quote": "\"A poor man has no wisdom\"</br> - Daniel Arap Moi",
+			"twitter": "https://twitter.com/legendary_tedd",
+			"github": "https://github.com/GlennOnyango",
+			"linkedin": "https://www.linkedin.com/in/glenn-onyango-50077a178/",
+			"email": "mailto:glenntedd@gmail.com"
+		},
+		{
+			"name": "Aaron Muti",
+			"profession": "Data Engineer",
+			"quote": "\"Sangala Waya\"</br> - Markus Wings",
+			"email": "mailto:aaron@forestdigitalacademy.com"
+		},
+		{
+			"name": "Carol Rocha Floro",
+			"profession": "Backend Software developer",
+			"quote": "\"In the midst of winter, I found ther was, within me, an invincible summer.\"</br> - Albert Camus",
+			"github": "https://github.com/carolrochafloro",
+			"linkedin": "https://linkedin.com/In/carolina-rocha-floro",
+			"email": "mailto:carolinarochaf@hotmail.com"
+		},
+		{
+			"name": "Abraham O. Olagunju",
+			"profession": "Backend Developer",
+			"quote": "\"Oops! MySQL has gone away.🙊\"</br> - Anonymous",
+			"twitter": "https://twitter.com/OluwaninsolaAO",
+			"github": "https://github.com/OluwaninsolaAO",
+			"linkedin": "https://www.linkedin.com/in/oluwaninsolaao/",
+			"email": "mailto:olagunjusola070@gmail.com"
+		},
+		{
+			"name": "Pedro Alberto",
+			"profession": "Software Developer",
+			"quote": "\"If you wish to make an apple pie from scratch, you must first invent the universe\"</br> - Carl Sagan",
+			"twitter": "https://twitter.com/edlavio_",
+			"dribbble": "https://dribbble.com/edlavio",
+			"behance": "https://behance.com/edlavio",
+			"github": "https://github.com/Edlavio",
+			"linkedin": "https://linkedin.com/in/edlavio",
+			"email": "mailto:edlavioe@gmail.com"
+		},
+		{
+			"name": "Ezeliora Godsfavour",
+			"profession": "Software Developer || Technical writer || Open Source Contributor || Community Manager",
+			"quote": "\"For me, feminism is a movement for which the end goal is to make itself no longer needed.\"</br> - Chimamanda Ngozi Adichie",
+			"twitter": "https://twitter.com/phavourshelby",
+			"dribbble": "https://phavourcodesportfolio.vercel.app/",
+			"behance": "https://www.educative.io/profile/view/5820460445466624",
+			"github": "https://github.com/favy-codez",
+			"linkedin": "https://www.linkedin.com/in/ezeliora-favour-8343691bb/",
+			"email": "ezeliorafavour81@gmail.com"
+		},
+		{
+			"name": "Elisa Capololo",
+			"profession": "Frontend Developer, Technical Writer, Community Manager",
+			"quote": "\"If a man does not know which port he is heading for, no wind will be favorable to him.\"</br> - Seneca",
+			"twitter": "https://twitter.com/elisacapololo",
+			"github": "https://github.com/ElisaCapololo",
+			"linkedin": "https://www.linkedin.com/in/elisacapololo/",
+			"email": "mailto:elisacapololo2017@gmail.com"
+		},
+		{
+			"name": "Hadia Djadallah",
+			"profession": "Frontend Developer || open source contributor",
+			"quote": "\"The moon is a loyal companion. It never leaves. It's always there, watching, steadfast, knowing us in our light and dark moments.\"</br> - Tahereh mafi",
+			"twitter": "https://twitter.com/liliumorion",
+			"github": "https://github.com/liliumorion",
+			"linkedin": "https://www.linkedin.com/in/hadia-djadallah/",
+			"email": "mailto:hadiadjd@gmail.com"
+		},
+		{
+			"name": "Haram Yoon",
+			"profession": "Software Engineer and Student",
+			"quote": "\"If you want to look good in front of thousands, you have to outwork thousands in front of nobody...\"</br> - Damian Lillard",
+			"instagram": "https://www.instagram.com/haram._.yoon/",
+			"github": "https://github.com/haram082",
+			"linkedin": "https://www.linkedin.com/in/haram-yoon-b359511b0/",
+			"email": "hyhn2022@mymail.pomona.eud"
+		},
+		{
+			"name": "Penn Junior",
+			"profession": "FullStack Developer",
+			"quote": "\"Fullstack developers are the architects of digital possibilities, seamlessly bridging the gap between front-end magic and back-end wizardry.\"</br> - Anonymous",
+			"instagram": "https://www.instagram.com/malonepenn/",
+			"github": "https://github.com/Payne680",
+			"linkedin": "https://www.linkedin.com/in/penn-junior/",
+			"email": "pennjunior680@gmail.com"
+		},
+		{
+			"name": "Veríssimo Cassange",
+			"profession": "Computer Engineering Student",
+			"quote": "\"The best insurance for tomorrow is a job well done today.\"</br> - Dr. Jonas Savimbigit",
+			"instagram": "https://www.instagram.com/vec21_/",
+			"github": "https://github.com/Vec21",
+			"linkedin": "https://www.linkedin.com/in/vec21/",
+			"email": "veccpro@gmail.com"
+		},
+		{
+			"name": "Riccardi Dalexis",
+			"profession": "Software Engineer and Student",
+			"quote": "\"Sometimes, the only choices you have are bad ones, but you still have to choose.\"</br> - The Twelfth Doctor",
+			"github": "https://github.com/rod7760",
+			"linkedin": "https://www.linkedin.com/in/riccardi-dalexis/",
+			"email": "rod7760@rit.edu"
+		},
+		{
+			"name": "Dapo Adedire",
+			"profession": "Software Developer",
+			"quote": "\"If my mind can conceive it, if my heart can believe it--then I can achieve it.\"</br> - Muhammad Ali",
+			"twitter": "https://twitter.com/dapo_adedire",
+			"github": "https://github.com/dapoadedire",
+			"linkedin": "https://linkedin.com/in/dapoadedire",
+			"email": "mailto:adedireadedapo19@gmail.com"
+		},
+		{
+			"name": "Tataw Clarkson",
+			"profession": "Student",
+			"quote": "\"Life is easy when you live it the hard way\"</br> - Said by Dave Kekich",
+			"github": "https://github.com/tataw-cl",
+			"linkedin": "https://www.linkedin.com/in/tataw-clarkson-904a7a296",
+			"email": "tatawclarkson@gmail.com"
+		},
+		{
+			"name": "Joan Aneas",
+			"profession": "Student",
+			"quote": "\"Life is hard, but the sand isn't.\"</br> - Said by Lightning McQueen",
+			"github": "https://github.com/joananeas"
+		},
+		{
+			"name": "Onyedikachi Amaechi-Okorie",
+			"profession": "Quality Asssurance Engineer",
+			"quote": "\"Be Extraordinary in ordinary things.\"",
+			"github": "https://github.com/Honyii"
+		},
+		{
+			"name": "Mamolateli Mokhethi",
+			"profession": "Student",
+			"quote": "\"Try and fail, but don't fail to try",
+			"github": "https://github.com/Mamolets",
+			"linkedin": "https://www.linkedin.com/in/mamolateli-mokhethi-86585327a/",
+			"email": "mamolatelimokhethi5@gmail.com"
+		},
+		{
+			"name": "Mba Blessing Nnenna",
+			"profession": "Software Engineer and OpenSource contributor",
+			"quote": "\"You have to get up and create the life you want",
+			"github": "https://github.com/Blessing-Mba",
+			"linkedin": "https://www.linkedin.com/in/blessing-mba-24a8a2184/",
+			"email": "blessingmba3@gmail.com"
+		},
+		{
+			"name": "Faith Adewuyi",
+			"profession": "Frontend Developer || Open source contributor",
+			"quote": "\"No matter how small, any progress made is better than none at all. Remember slow and steady wins the race.\"</br> - Aesop",
+			"twitter": "https://twitter.com/adewuyi_faith",
+			"github": "https://github.com/faithadewuyi",
+			"linkedin": "https://www.linkedin.com/in/faith-adewuyi-64923542/",
+			"email": "mailto:faith.adewuyi18@gmail.com"
+		},
+		{
+			"name": "Ahmad Mohamadirad",
+			"profession": "Web Developer",
+			"quote": "no matter what just try, try and try.",
+			"github": "https://github.com/radman17",
+			"linkedin": "https://www.linkedin.com/in/ahmad-radman-a7804b259/",
+			"email": "mailto:ahmadradman2006@gmail.com"
+		},
+		{
+			"name": "Ayomide Ogunlade",
+			"profession": "Product Designer || Open-source Design Contributor",
+			"quote": "\"Fun Isn't Something One Considers When Programming On VS Code. But This… Does Put A Smile On My Face.\"</br> - Ayomide Ogunlade",
+			"twitter": "https://twitter.com/adelanaofficial",
+			"dribbble": "https://dribbble.com/adelanaofficial",
+			"behance": "https://behance.com/adelanaofficial",
+			"github": "https://github.com/adelanaofficial",
+			"linkedin": "https://linkedin.com/in/adelanaofficial",
+			"email": "mailto:abrahampilip16@gmail.com"
+		},
+		{
+			"name": "Kit-Kat31415926",
+			"profession": "Student",
+			"quote": "\"Everything's science fiction until someone makes it science fact\"<break> - Said By Marie Lu",
+			"twitter": "https://twitter.com",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/Kit-Kat31415926",
+			"linkedin": "https://linkedin.com",
+			"email": "mailto:youremail@gmail.com"
+		},
+		{
+			"name": "Temitope Emokpae",
+			"profession": "Student",
+			"quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+			"github": "https://github.com/temokpae3",
+			"linkedin": "https://www.linkedin.com/in/temitope-emokpae/",
+			"email": "mailto:temokpae3@gmail.com"
+		},
+		{
+			"name": "Pariya Hajipour",
+			"profession": "Computer Engineering Student",
+			"quote": "\"Well, nobody's perfect.\"</br> - Some Like It Hot",
+			"github": "https://github.com/pariyahr",
+			"linkedin": "https://www.linkedin.com/in/pariya-hajipour/",
+			"email": "pariyahajipour@gmail.com"
+		},
+		{
+			"name": "Cephas Tokoli",
+			"profession": "FullStack Developer",
+			"quote": "\"There will be times on this journey, all you'll see is darkness. But out there somewhere daylight finds you, if you keep believing.\"</br> - Said by Phil Collins",
+			"github": "https://github.com/ctokoli",
+			"linkedin": "https://www.linkedin.com/in/ctokoli",
+			"twitter": "https://twitter.com/ctokoli",
+			"email": "mailto:matumasie@gmail.com"
+		},
+		{
+			"name": "Belrick Stephane",
+			"profession": "Software & Automation Eng.",
+			"quote": "People rarely succeed unless they have fun in what they are doing. - Dale Canergie",
+			"github": "https://github.com/latioms",
+			"linkedin": "https://www.linkedin.com/in/belrick-stephane/"
+		},
+		{
+			"name": "Ahmed Bentabet",
+			"profession": "SWE Student",
+			"github": "https://github.com/ahmedbentabet",
+			"linkedin": "https://www.linkedin.com/in/ahmedbentabet/"
+		},
+		{
+			"name": "Kamangu Maeti",
+			"profession": "Bioengineer",
+			"quote": "\"If you're not adding things back in at least 10% of the time, you're clearly not deleting enough because the most common error of a smart engineer is to optimise a thing that should not exist \"</br> - Elon Musk",
+			"twitter": "https://twitter.com/kamanguKmg",
+			"github": "https://github.com/KmgSamuel",
+			"linkedin": "https://linkedin.com/in/kamangumaeti",
+			"email": "kamangusamuel152@gmail.com"
+		},
+		{
+			"name": "David Enikuomehin",
+			"profession": "Software Engineer",
+			"quote": "\"Suckin at something is the first step to being sorta good at something \"</br> - Jake the Dog",
+			"twitter": "https://twitter.com/deveniku",
+			"github": "https://github.com/eniiku",
+			"linkedin": "https://linkedin.com/in/david-eniku",
+			"email": "mailto:enikucaches@gmail.com"
+		},
+		{
+			"name": "Noah Uhunmwangho-Johnson",
+			"profession": "Software Engineer",
+			"quote": "\"This is life, and I will not lie by saying every day will be sunshine. But there will be sunshine again, and that is a very different thing to say.\"</br> - Brandon Sanderson, Rhythm of War",
+			"twitter": "https://twitter.com/vsvNoahislegend",
+			"github": "https://github.com/serethewind",
+			"linkedin": "https://linkedin.com/serethewind",
+			"email": "mailto:osasereu@gmail.com"
+		},
+		{
+			"name": "Ayush gupta",
+			"profession": "Student",
+			"github": "https://github.com/ayushgupta35",
+			"linkedin": "https://linkedin.com/ayushgupta1",
+			"email": "mailto:ayushg3512@gmail.com"
+		},
+		{
+			"name": "Gamila Programmer",
+			"profession": "Frontend Developer",
+			"github": "https://github.com/gameliaprogrammer",
+			"linkedin": "https://www.linkedin.com/in/jamila-developer/",
+			"email": "mailto:youremail@gmail.com"
+		},
+		{
+			"name": "Nicolas Manigand",
+			"profession": "Web Developer",
+			"quote": "\"There is a whale under gravel\"</br> - Said By Me",
+			"github": "https://github.com/NicolasM-83200",
+			"linkedin": "https://www.linkedin.com/in/nicolas-manigand-a6910b2a6/",
+			"email": "mailto:manigand.nicolas@gmail.com"
+		},
+		{
+			"name": "Emmanuel Maunga",
+			"profession": "Software Engineer",
+			"quote": "\"Be the change you wish to see in the world\"</br> - Mahatma Gandhi",
+			"twitter": "https://twitter.com/cap_nemo1",
+			"dribbble": "https://dribbble.com",
+			"behance": "https://behance.com",
+			"github": "https://github.com/maunga-et",
+			"linkedin": "https://linkedin.com/in/emmanuel-maunga-7555b7182",
+			"email": "mailto:tanyahmaunga274@gmail.com"
+		},
+		{
+			"name": "Kennedy Musau",
+			"profession": "Web Developer",
+			"quote": "\"Celebrate small victories; they lead to big breakthroughs.\"</br> - Said By Me",
+			"github": "https://github.com/kenmusau",
+			"linkedin": "https://www.linkedin.com/in/Kennedy-Musau/",
+			"email": "mailto:kennedy.musauu@gmail.com"
+		},
+		{
+			"name": "Kelly Kiiru",
+			"profession": "Full Stack Web Developer",
+			"quote": "\"Learn, unlearn, relearn. Keep Learning.\"</br> - Said By Me",
+			"github": "https://github.com/kellykiiru",
+			"linkedin": "https://www.linkedin.com/in/kelly-kiiru-15a852231/",
+			"email": "mailto:infowithkiiru@gmail.com"
+		},
+		{
+			"name": "Silvia Wachira",
+			"profession": "Web Developer",
+			"quote": "\"Success is not final; failure is not fatal: It is the courage to continue that counts..\"</br> - Said By Me",
+			"github": "https://github.com/Silvia-Wachira",
+			"linkedin": "https://www.linkedin.com/in/silvia-wachira",
+			"email": "mwachirasilvia8@gmail.com"
+		},
+		{
+			"name": "Christian Gabi",
+			"profession": "Information Systems Engineer",
+			"quote": "\"What You Type Is What You Get\"</br> - Said By Me",
+			"twitter": "https://twitter.com/christian80gabi",
+			"behance": "https://behance.com/christiangabi",
+			"github": "https://github.com/christian80gabi",
+			"linkedin": "https://linkedin.com/in/christian-gabriel-nana",
+			"email": "mailto:christian-gabriel.nana@outlook.com"
+		},
+		{
+			"name": "Ijeoma Igboagu",
+			"profession": "Software Developer || Technical writer ",
+			"quote": "I can do all things through Christ that Stengthens me-said by me",
+			"twitter": "https://twitter.com/ijaydimples",
+      "github":  "https://github.com/ijayhub",
+			"linkedin": "https://www.linkedin.com/in/ijeoma-igboagu/",
+			"email": "mailto:ijeonyi@gmail.com"
+		}
+	]
 }
