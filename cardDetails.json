@@ -12,6 +12,33 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Farhan Sodiq",
+      "profession": "Software Engineer",
+      "quote": "\"Progress is about getting better, one day at a time\"</br> - Kobe Bryant",
+      "twitter": "https://twitter.com/sodiqfarhan",
+      "github": "https://github.com/codeHokage1",
+      "linkedin": "https://linkedin.com/in/sodiqfarhan",
+      "email": "mailto:farhansodiq360@gmail.com"
+    },
+    {
+      "name": "Luke Olende",
+      "profession": "Web FrontEnd Developer",
+      "quote": "\"I want the finer things in my life, so I hustle\"</br> - 50 cent",
+      "twitter": "https://x.com/Luke_Olende",
+      "github": "https://github.com/LukeOlende",
+      "linkedin": "https://www.linkedin.com/in/luke-olende-2k/",
+      "email": "mailto:olendeluke2k@gmail.com"
+    },
+    {
+			"name": "Ijeoma Igboagu",
+			"profession": "Software Developer || Technical writer ",
+			"quote": "I can do all things through Christ that Stengthens me-said by me",
+			"twitter": "https://twitter.com/ijaydimples",
+      "github":  "https://github.com/ijayhub",
+			"linkedin": "https://www.linkedin.com/in/ijeoma-igboagu/",
+			"email": "mailto:ijeonyi@gmail.com"
+		},
+    {
       "name": "Tadiwanashe Rodney Zvidza",
       "profession": "Software Developer || Entrepreneur || Open Source Contributer",
       "quote": "\"I say luck is when an opportunity comes along and you are prepared for it\"</br> - Denzel Washington",
@@ -1141,6 +1168,7 @@
       "email": "mailto:christian-gabriel.nana@outlook.com"
     },
     {
+
       "name": "Samuel Osei",
       "profession": "Student",
       "quote": "\"Gentlemen of the jury, I'm curious, bear with me</br>Are you aware that we're making history?\"</br> - Hamilton (Musical by Lin-Manuel Miranda)",
@@ -1148,6 +1176,15 @@
       "github": "https://github.com/oseiagm",
       "linkedin": "https://linkedin.com/in/samuel-oseigm",
       "email": "mailto:sosei6013@gmail.com"
+    };
+    {
+      "name": "Harshawardhan Kamble",
+      "profession": "Mechanical Design Engineer",
+      "quote": "\"You don’t get to new places by following established tracks\"</br> - Carlo Rovelli",
+      "twitter": "https://twitter.com/k_harsh08",
+      "github": "https://github.com/Harshawardhan-Kamble",
+      "linkedin": "https://www.linkedin.com/in/harshawardhan-kamble",
+      "email": "mailto:kambleharsh08@gmail.com"
     }
   ]
 }
