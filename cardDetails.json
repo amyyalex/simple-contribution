@@ -1203,6 +1203,17 @@
       "email": "mailto:kambleharsh08@gmail.com"
     },
     {
+      "name": "Ephraim Muasya",
+      "profession": "Software Developer & IT Support",
+      "quote": "\"Thank you for showing me that this issue is already solved.\"</br> - Said By IDK 😂",
+      "twitter": "https://twitter.com/MbuviMuasya",
+      "dribbble": "https://dribbble.com/Mbuvi01",
+      "behance": "https://www.behance.net/ephraim_muasya",
+      "github": "https://github.com/Muasya0254",
+      "linkedin": "https://www.linkedin.com/in/ephraim-muasya/",
+      "email": "mailto:muasyaephraim01@gmail.com"
+    },
+    {
       "name": "C Tu",
       "profession": "Python & Web Developer",
       "quote": "\"Don't count the days, make the days count\"</br> - Muhammad Ali",
@@ -1217,6 +1228,7 @@
       "github": "https://github.com/MatteoUrso",
       "linkedin": "https://www.linkedin.com/in/matteo-urso-26026a233/",
       "instagram": "https://www.instagram.com/ursomatteo_"
+
     }
   ]
 }
