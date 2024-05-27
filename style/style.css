@@ -339,9 +339,11 @@ section {
   text-align: center;
   margin: 50px 20px;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 25px;
   background-color: #fff;
   height: 400px;
+  transition: 1s box-shadow;
+  position: relative;
 }
 
 .cards{
@@ -355,6 +357,7 @@ section {
 
 
 .card-details h1 {
+  font-family: "Space Mono", cursive;
   text-transform: capitalize;
 }
 
@@ -363,12 +366,109 @@ section {
 }
 
 .card-details p {
-  font-family: "Tangerine", cursive;
-  font-size: 25px;
+  font-family: "Space Mono", cursive;
+  font-size: 15px;
 }
 
 .card:hover{
-  background: rgba(10, 3, 50, 0.227);
+  box-shadow: 0 5px 35px 0px rgba(0,0,0,.1);
+}
+
+.card:hover::before, .card:hover::after {
+  display: block;
+  content: '';
+  position: absolute;
+  width: 325px;
+  height: 400px;
+  background: rgb(151, 95, 255);
+  box-shadow: 0 5px 35px 0px rgba(151, 95, 255, 0.289);
+  border-radius: 25px;
+  z-index: -10;
+  animation: 1s clockwise infinite;
+}
+
+.card:hover:after {
+  background: rgb(200, 124, 238);
+  box-shadow: 0 5px 35px 0px rgba(200, 124, 238, 0.298);
+  animation: 2s counterclockwise infinite;
+}
+
+@keyframes clockwise {
+  0% {
+    top: -5px;
+    left: 0;
+  }
+  12% {
+    top: -2px;
+    left: 2px;
+  }
+  25% {
+    top: 0;
+    left: 5px;    
+  }
+  37% {
+    top: 2px;
+    left: 2px;
+  }
+  50% {
+    top: 5px;
+    left: 0;    
+  }
+  62% {
+    top: 2px;
+    left: -2px;
+  }
+  75% {
+    top: 0;
+    left: -5px;
+  }
+  87% {
+    top: -2px;
+    left: -2px;
+  }
+  100% {
+    top: -5px;
+    left: 0;    
+  }
+}
+
+@keyframes counterclockwise {
+  0% {
+    top: -5px;
+    right: 0;
+  }
+  12% {
+    top: -2px;
+    right: 2px;
+  }
+  25% {
+    top: 0;
+    right: 5px;    
+  }
+  37% {
+    top: 2px;
+    right: 2px;
+  }
+  50% {
+    top: 5px;
+    right: 0;    
+  }
+  62% {
+    top: 2px;
+    right: -2px;
+  }
+  75% {
+    top: 0;
+    right: -5px;
+  }
+  87% {
+    top: -2px;
+    right: -2px;
+  }
+  100% {
+    top: -5px;
+    right: 0;    
+  }
 }
 
 
@@ -462,15 +562,17 @@ section {
 
 .contribute-container h1 {
   color: rgb(10, 3, 50);
-  font-family: "Corinthia", cursive;
+  font-family: "Space Mono", cursive;
   font-size: 40px;
 }
 
 .contribute-container p {
+  font-family: "Space Mono", cursive;
   margin-bottom: 2rem;
 }
 
 .contribute-container h1 i {
+  font-family: "Space Mono", cursive;
   color: rgb(10, 3, 50);
 }
 
