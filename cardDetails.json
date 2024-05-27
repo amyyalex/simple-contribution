@@ -30,14 +30,14 @@
       "email": "mailto:olendeluke2k@gmail.com"
     },
     {
-			"name": "Ijeoma Igboagu",
-			"profession": "Software Developer || Technical writer ",
-			"quote": "I can do all things through Christ that Stengthens me-said by me",
-			"twitter": "https://twitter.com/ijaydimples",
-      "github":  "https://github.com/ijayhub",
-			"linkedin": "https://www.linkedin.com/in/ijeoma-igboagu/",
-			"email": "mailto:ijeonyi@gmail.com"
-		},
+      "name": "Ijeoma Igboagu",
+      "profession": "Software Developer || Technical writer ",
+      "quote": "I can do all things through Christ that Stengthens me-said by me",
+      "twitter": "https://twitter.com/ijaydimples",
+      "github": "https://github.com/ijayhub",
+      "linkedin": "https://www.linkedin.com/in/ijeoma-igboagu/",
+      "email": "mailto:ijeonyi@gmail.com"
+    },
     {
       "name": "Tadiwanashe Rodney Zvidza",
       "profession": "Software Developer || Entrepreneur || Open Source Contributer",
@@ -1197,6 +1197,15 @@
       "quote": "\"Don't count the days, make the days count\"</br> - Muhammad Ali",
       "github": "https://github.com/ninja-noodle",
       "email": "mailto:snca0606@gmail.com"
+    },
+    {
+      "name": "Matteo Urso",
+      "profession": "Web FrontEnd & Mobile Developer",
+      "quote": "\"The only way to do great work is to love what you do.\"</br> - Steve Jobs",
+      "twitter": "https://x.com/MatteoUrso2002",
+      "github": "https://github.com/MatteoUrso",
+      "linkedin": "https://www.linkedin.com/in/matteo-urso-26026a233/",
+      "instagram": "https://www.instagram.com/ursomatteo_"
     }
   ]
 }
