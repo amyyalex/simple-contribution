@@ -1,16 +1,5 @@
 {
   "cardDetails": [
-   {
-      "name": "Ali Eljerrari",
-      "profession": "FullStack Developer - MernStack | OpenSource Contributor",
-      "quote": "\"Be yourself; everyone else is already taken.\"</br> - Said By Oscar Wilde",
-      "twitter": "https://twitter.com/Coding__Dynasty",
-      "github": "https://github.com/ali-eljerrari",
-      "instagram": "https://www.instagram.com/Ali%20Eljerrari",
-      "facebook": "https://www.facebook.com/codingdynasty",
-      "linkedin": "https://www.linkedin.com/in/ali-eljerrari-3794902b6",
-      "email": "mailto:contact@coding-dynasty.xyz"
-    },,
     {
       "name": "Your Name",
       "profession": "Your Profession",
@@ -21,6 +10,17 @@
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
+    },
+    {
+      "name": "Ali Eljerrari",
+      "profession": "FullStack Developer - MernStack | OpenSource Contributor",
+      "quote": "\"Be yourself; everyone else is already taken.\"</br> - Said By Oscar Wilde",
+      "twitter": "https://twitter.com/Coding__Dynasty",
+      "github": "https://github.com/ali-eljerrari",
+      "instagram": "https://www.instagram.com/Ali%20Eljerrari",
+      "facebook": "https://www.facebook.com/codingdynasty",
+      "linkedin": "https://www.linkedin.com/in/ali-eljerrari-3794902b6",
+      "email": "mailto:contact@coding-dynasty.xyz"
     },
     {
       "name": "Farhan Sodiq",
