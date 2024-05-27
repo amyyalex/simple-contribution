@@ -41,7 +41,7 @@ section {
 /*navbar section styling*/
 .navbar {
   width: 100%;
-  position: fixed;
+  position: absolute;
   top: 0;
   z-index: 6;
 }
@@ -133,6 +133,28 @@ section {
   color: rgb(10, 3, 50);
   background: #fff;
   transition: all 0.5s ease-in-out;
+}
+
+.navbar {
+  transition: background-color 0.2s;
+  /* Force Hardware Acceleration in WebKit */
+  transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.is-visible {
+  /* if the user changes the scrolling direction, we show the header */
+  transform: translate3d(0, 100%, 0);
+}
+
+.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+  top: -75px;
+  transition: transform 0.2s;
+  background-color: #fff;
+  opacity:98%;
 }
 
 /*Banner section styling*/
