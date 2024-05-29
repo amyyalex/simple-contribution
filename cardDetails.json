@@ -1240,6 +1240,14 @@
       "email": "mailto:kambleharsh08@gmail.com"
     },
     {
+      "name": "Dori A",
+      "profession": "FullStack Web Developer",
+      "quote": "\"Success consists of going from failure to failure without loss of enthusiasm\"</br> - Winston Churchill",
+      "github": "https://github.com/EdoriAtiri",
+      "linkedin": "https://linkedin.com/in/edori-atiri",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "Ephraim Muasya",
       "profession": "Software Developer & IT Support",
       "quote": "\"Thank you for showing me that this issue is already solved.\"</br> - Said By IDK 😂",
@@ -1267,5 +1275,6 @@
       "instagram": "https://www.instagram.com/ursomatteo_"
 
     }
+
   ]
 }
