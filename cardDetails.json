@@ -12,11 +12,22 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+
       "name": "Eduarda Mendes",
       "profession": "Front-end Developer",
       "quote": "\"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.\"</br> - Ferris Buller",
       "twitter": "https://x.com/Dudsbytes",
       "github": "https://github.com/EduardaMendes01"
+    },
+    {
+      "name": "Edwin Kihara",
+      "profession": "AI Engineer - MLops | Data Engineer | Software Engineer",
+      "quote": "\"The best way to predict the future is to invent it.\"</br> - Alan Kay",
+      "twitter": "https://x.com/harrtedwin",
+      "github": "https://github.com/harrtedwin",
+      "linkedin": "http://linkedin.com/in/edwinkihara",
+      "email": "mailto:mkihara.edwin@gmail.com"
+
     },
     {
       "name": "Achal Gawande",
