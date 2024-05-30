@@ -13,6 +13,18 @@
     },
     {
 
+      "name": "Susan Githaiga",
+      "profession": "Front End Software Developer",
+      "quote": "\"It's a new day when the sun comes up, we rise again🌹\"</br> - Shenseea",
+      "twitter": "https://twitter.com/Su_Githaiga",
+      "dribbble": "https://dribbble.com/SusanGIthaigaN",
+      "behance": "https://www.behance.net/susangithaiga1",
+      "github": "https://github.com/SusanGithaigaN",
+      "linkedin": "https://www.linkedin.com/in/susan-githaiga-2832b11aa/",
+      "email": "mailto:susangithaiga26@gmail.com"
+    },
+    {
+
       "name": "Eduarda Mendes",
       "profession": "Front-end Developer",
       "quote": "\"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.\"</br> - Ferris Buller",
@@ -58,6 +70,7 @@
       "facebook": "https://www.facebook.com/codingdynasty",
       "linkedin": "https://www.linkedin.com/in/ali-eljerrari-3794902b6",
       "email": "mailto:contact@coding-dynasty.xyz"
+
     },
     {
       "name": "Farhan Sodiq",
