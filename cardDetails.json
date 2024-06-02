@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Sarah Hassan",
+      "profession": "Software Engineer",
+      "quote": "\"Life is too short to argue just say ok and move on. \"</br> - Sarah",
+      "twitter": "https://x.com/serrahhassan",
+      "github": "https://github.com/sarahassan0",
+      "linkedin": "https://www.linkedin.com/in/sarrahhassan/",
+      "email": "mailto:sarahhassandev@gmail.com"
+    },
+    {
 
       "name": "Susan Githaiga",
       "profession": "Front End Software Developer",
