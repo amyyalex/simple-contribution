@@ -21,6 +21,15 @@
       "email": "mailto:kayikayikevin7@gmail.com"
     },
     {
+      "name": "Sarah Hassan",
+      "profession": "Software Engineer",
+      "quote": "\"Life is too short to argue just say ok and move on. \"</br> - Sarah",
+      "twitter": "https://x.com/serrahhassan",
+      "github": "https://github.com/sarahassan0",
+      "linkedin": "https://www.linkedin.com/in/sarrahhassan/",
+      "email": "mailto:sarahhassandev@gmail.com"
+    },
+    {
 
       "name": "Susan Githaiga",
       "profession": "Front End Software Developer",
@@ -1302,6 +1311,15 @@
       "linkedin": "https://www.linkedin.com/in/matteo-urso-26026a233/",
       "instagram": "https://www.instagram.com/ursomatteo_"
 
+    },
+    {
+      "name": "Theresa Seyram Agbenyegah",
+      "profession": "Backend Developer",
+      "quote": "\"Whatever the mind can conceive and believe, it can achieve.\"</br> -  Napoleon Hill",
+      "twitter": "https://x.com/Stancyarie",
+      "github": "https://github.com/Stancy-ai",
+      "linkedin": "https://www.linkedin.com/in/theresa-seyram-agbenyegah-455642173/",
+      "email": "mailto:seyramtheresa@gmail.com"
     }
 
   ]
