@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Joana Lawer",
+      "profession": "Frontend Developer, Data Analyst, Aspiring Machine Learning Engineer",
+      "quote": "There is always room for a new beginning",
+      "twitter": "https://x.com/joana_lawer",
+      "github": "https://github.com/joanalawer",
+      "linkedin": "https://www.linkedin.com/in/joanalawer/",
+      "email": "lawerjoana477@gmail.com"
+    },
+    {
       "name": "Aseru Kevin Ziyada",
       "profession": "Front-end Developer || UI/UX designer || Open Source Contributor(Beginner)",
       "quote": "\"I can do whatever I say I can do, I am wiseeee \"</br> - Kevin",
@@ -1335,7 +1344,7 @@
       "profession": "Data scientist",
       "quote": "\"Torture the data and will confess to anything.\"</br> - Ronald H. Coase",
       "twitter": "https://twitter.com/mutheu97",
-      "github": "https://github.com/bluemutheu",
+      "github": "https://github.com/bluemutheu"
     },
     {
       "name": "Rachael Odetayo",
