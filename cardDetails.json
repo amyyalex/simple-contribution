@@ -1,15 +1,13 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Usiwo Sonia Uyouyou",
+      "profession": "Frontend Developer || Beginner Open Source Contributor",
+      "quote": "\"Set Yourself On Fire And Let The Whole World Watch You Burn\"</br> - Said by John Wesley",
+      "twitter": "https://twitter.com/Uyouyou_S",
+      "github": "https://github.com/Uyouyou",
+      "linkedin": "https://linkedin.com/in/usiwosonia",
+      "email": "mailto:usiwosonia@gmail.com"
     },
     {
       "name": "Jonathan Suru",
