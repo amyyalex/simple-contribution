@@ -21,6 +21,22 @@
       "email": "lawerjoana477@gmail.com"
     },
     {
+      "name": "KPIDIBA De'Indja Florento-David",
+      "profession": "Software Engineer",
+      "quote": "First, solve the problem. Then, write the code.",
+      "github": "https://github.com/kpidiba",
+      "linkedin": "https://www.linkedin.com/in/david-kpidiba-3071601a4/",
+      "email": "kpidibadavid1@gmail.com"
+    },
+    {
+      "name": "Jonathan Suru",
+      "profession": "Student",
+      "quote": "\"The well-being of humanity is the first and only objective of any free society.\"</br> - Said By Peter Kropotkin",
+      "twitter": "https://twitter.com/JonathanSuru",
+      "github": "https://github.com/5uru",
+      "linkedin": "https://linkedin.com/jonathansuru"
+    },
+    {
       "name": "Aseru Kevin Ziyada",
       "profession": "Front-end Developer || UI/UX designer || Open Source Contributor(Beginner)",
       "quote": "\"I can do whatever I say I can do, I am wiseeee \"</br> - Kevin",
@@ -37,6 +53,15 @@
       "github": "https://github.com/sarahassan0",
       "linkedin": "https://www.linkedin.com/in/sarrahhassan/",
       "email": "mailto:sarahhassandev@gmail.com"
+    },
+    {
+      "name": "Dabi Ayu",
+      "profession": "Software Engineer",
+      "quote": "\"That thing you want to archive, do it with all your heart. \"</br> - Dabi",
+      "twitter": "https://x.com/dabi_ayu",
+      "github": "https://github.com/Dabi-ayu",
+      "linkedin": "https://www.linkedin.com/in/dabi_ayu/",
+      "email": "mailto:dabiayu8@gmail.com"
     },
     {
 
@@ -1344,7 +1369,13 @@
       "profession": "Data scientist",
       "quote": "\"Torture the data and will confess to anything.\"</br> - Ronald H. Coase",
       "twitter": "https://twitter.com/mutheu97",
-      "github": "https://github.com/bluemutheu"
+      "github": "https://github.com/bluemutheu",
+      "linkedin": "https://www.linkedin.com/in/diana-m-80b62a14a/"
+    },
+    {
+      "name": "Wairimu Maringa",
+      "profession": "Tech",
+      "Quote": "be free and live fully"
     },
     {
       "name": "Rachael Odetayo",
@@ -1363,7 +1394,6 @@
       "github": "https://github.com/Harshawardhan-Kamble",
       "linkedin": "https://www.linkedin.com/in/harshawardhan-kamble",
       "email": "mailto:kambleharsh08@gmail.com"
-
     }
   ]
 }
