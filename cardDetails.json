@@ -12,6 +12,17 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Dubem Obinwanne",
+      "profession": "Frontend Developer",
+      "quote": "He who sweats more in training, bleeds less in war",
+      "twitter": "https://x.com/dubem_ob/",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/DubemObi/",
+      "linkedin": "https://www.linkedin.com/in/chidubem-obinwanne-0a113819a/",
+      "email": "dubemobiwon@gmail.com"
+    },
+    {
       "name": "Joana Lawer",
       "profession": "Frontend Developer, Data Analyst, Aspiring Machine Learning Engineer",
       "quote": "There is always room for a new beginning",
@@ -64,7 +75,6 @@
       "email": "mailto:dabiayu8@gmail.com"
     },
     {
-
       "name": "Susan Githaiga",
       "profession": "Front End Software Developer",
       "quote": "\"It's a new day when the sun comes up, we rise again🌹\"</br> - Shenseea",
@@ -76,7 +86,6 @@
       "email": "mailto:susangithaiga26@gmail.com"
     },
     {
-
       "name": "Eduarda Mendes",
       "profession": "Front-end Developer",
       "quote": "\"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.\"</br> - Ferris Buller",
@@ -91,7 +100,6 @@
       "github": "https://github.com/harrtedwin",
       "linkedin": "http://linkedin.com/in/edwinkihara",
       "email": "mailto:mkihara.edwin@gmail.com"
-
     },
     {
       "name": "Achal Gawande",
@@ -100,10 +108,8 @@
       "github": "https://github.com/Aterolite24",
       "linkedin": "https://www.linkedin.com/in/achal-gawande-33615b250/",
       "email": "mailto:aterolite24@gmail.com"
-
     },
     {
-
       "name": "Harshwardhan Singh Panwar",
       "profession": "Web Developer",
       "quote": "\"Its better to bite,than to swallow\"</br> - Pete Cobe",
@@ -122,7 +128,6 @@
       "facebook": "https://www.facebook.com/codingdynasty",
       "linkedin": "https://www.linkedin.com/in/ali-eljerrari-3794902b6",
       "email": "mailto:contact@coding-dynasty.xyz"
-
     },
     {
       "name": "Farhan Sodiq",
@@ -1344,7 +1349,6 @@
       "github": "https://github.com/MatteoUrso",
       "linkedin": "https://www.linkedin.com/in/matteo-urso-26026a233/",
       "instagram": "https://www.instagram.com/ursomatteo_"
-
     },
     {
       "name": "Theresa Seyram Agbenyegah",
