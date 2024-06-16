@@ -1,15 +1,13 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Jetur Gavli",
+      "profession": "Technical Expert, Forest Office",
+      "quote": "\"My code is as seamless as the forest's ecosystem\"</br> - Said By Me",
+      "twitter": "https://x.com/Jetur_Gavli_23",
+      "github": "https://github.com/jeturgavli",
+      "linkedin": "https://www.linkedin.com/in/jeturgavli/",
+      "email": "jeturgavli1in1@gmail.com"
     },
     {
       "name": "Dubem Obinwanne",
