@@ -1,15 +1,14 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Mohamed CHATR",
+      "profession": "Software Developer",
+      "quote": "\"Early to bed, early to rise, makes a man young, wealthy and wise.\"</br> - Said by Benjamin Franklin",
+      "twitter": "https://twitter.com/mo_chatr",
+      "medium": "https://medium.com/@mochatr",
+      "github": "https://github.com/Mochatr",
+      "linkedin": "https://www.linkedin.com/in/mochatr/",
+      "email": "mailto:mohamedchatr8@gmail.com"
     },
     {
       "name": "Cheikh Babacar GOUDIABY",
