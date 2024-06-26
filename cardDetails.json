@@ -1438,15 +1438,6 @@
       "email": "mailto:rakielledev@gmail.com"
     },
     {
-      "name": "Harshawardhan Mahadeo Kamble",
-      "profession": "Mechanical Design Engineer",
-      "quote": "\"You don’t get to new places by following established tracks\"</br> - Carlo Rovelli",
-      "twitter": "https://twitter.com/k_harsh08",
-      "github": "https://github.com/Harshawardhan-Kamble",
-      "linkedin": "https://www.linkedin.com/in/harshawardhan-kamble",
-      "email": "mailto:kambleharsh08@gmail.com"
-    },
-    {
       "name": "Ziphozenkosi Ncayiyana",
       "profession": "Software Engineer",
       "quote": "\"The best part of you is you. Always Keep on Doing Hard things!!!",
@@ -1454,6 +1445,15 @@
       "github": "https://github.com/Ziphozenkosimthombe",
       "linkedin": "https://linkedin.com/in/ziphozenkosi",
       "email": "mailto:ziphoncayiyana@gmail.com"
+    },
+    {
+      "name": "Harshawardhan Mahadeo Kamble",
+      "profession": "Mechanical Design Engineer",
+      "quote": "\"You don’t get to new places by following established tracks\"</br> - Carlo Rovelli",
+      "twitter": "https://twitter.com/k_harsh08",
+      "github": "https://github.com/Harshawardhan-Kamble",
+      "linkedin": "https://www.linkedin.com/in/harshawardhan-kamble",
+      "email": "mailto:kambleharsh08@gmail.com"
     }
   ]
 }
