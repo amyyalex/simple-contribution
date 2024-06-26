@@ -30,7 +30,6 @@
       "linkedin": "https://www.linkedin.com/in/maybellobadoni",
       "email": "mailto:wilsonmaybell@gmail.com"
     },
-    
     {
       "name": "Jetur Gavli",
       "profession": "Technical Expert, Forest Office",
@@ -1446,6 +1445,15 @@
       "github": "https://github.com/Harshawardhan-Kamble",
       "linkedin": "https://www.linkedin.com/in/harshawardhan-kamble",
       "email": "mailto:kambleharsh08@gmail.com"
+    },
+    {
+      "name": "Ziphozenkosi Ncayiyana",
+      "profession": "Software Engineer",
+      "quote": "\"The best part of you is you. Always Keep on Doing Hard things!!!",
+      "twitter": "https://twitter.com/Ziphozenkosi478",
+      "github": "https://github.com/Ziphozenkosimthombe",
+      "linkedin": "https://linkedin.com/in/ziphozenkosi",
+      "email": "mailto:ziphoncayiyana@gmail.com"
     }
   ]
 }
