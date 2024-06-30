@@ -1505,8 +1505,17 @@
       "twitter": "https://twitter.com/El_berto31"
       "github": "https://github.com/GilbertKamau",
       "linkedin": "https://www.linkedin.com/in/gilbert-chris-a696151a9",
-      "discord": "https://discord.com/channels/@me/957210257069850676"
+      "discord": "https://discord.com/channels/@me/957210257069850676",
       "email": "gilbertchris062@gmail.com"
     },
+    {
+      "name": "Nathan Sodja",
+      "profession": "Software Engineer",
+      "quote": "Always be building something.",
+      "twitter": "https://twitter.com/me_souljah",
+      "github": "https://github.com/nateos",
+      "linkedin": "https://www.linkedin.com/in/nathan-sodja",
+      "email": "mailto:sodjanathan@gmail.com"
+    }
   ]
 }
