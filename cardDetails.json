@@ -1176,10 +1176,19 @@
       "name": "Veríssimo Cassange",
       "profession": "Computer Engineering Student",
       "quote": "\"The best insurance for tomorrow is a job well done today.\"</br> - Dr. Jonas Savimbigit",
-      "instagram": "https://www.instagram.com/vec21_/",
+      "instagram": "https://www.instagram.com/am_derrick/",
       "github": "https://github.com/Vec21",
       "linkedin": "https://www.linkedin.com/in/vec21/",
       "email": "veccpro@gmail.com"
+    },
+    {
+      "name": "Derrick Ampire",
+      "profession": "Backend Developer",
+      "quote": "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\"</br> - Martin Fowler",
+      "instagram": "https://www.instagram.com/vec21_/",
+      "github": "https://github.com/am-derrick",
+      "linkedin": "https://www.linkedin.com/in/am-derrick/",
+      "email": "ampire90@gmail.com"
     },
     {
       "name": "Riccardi Dalexis",
@@ -1511,7 +1520,7 @@
       "name": "Gilbert Kamau",
       "profession": "Software Developer",
       "quote": "Iriizzzzz warrriiizzz\"</br> - Said By Me",
-      "twitter": "https://twitter.com/El_berto31"
+      "twitter": "https://twitter.com/El_berto31",
       "github": "https://github.com/GilbertKamau",
       "linkedin": "https://www.linkedin.com/in/gilbert-chris-a696151a9",
       "discord": "https://discord.com/channels/@me/957210257069850676",
