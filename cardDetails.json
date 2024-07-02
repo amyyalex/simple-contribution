@@ -1511,7 +1511,7 @@
       "name": "Gilbert Kamau",
       "profession": "Software Developer",
       "quote": "Iriizzzzz warrriiizzz\"</br> - Said By Me",
-      "twitter": "https://twitter.com/El_berto31"
+      "twitter": "https://twitter.com/El_berto31",
       "github": "https://github.com/GilbertKamau",
       "linkedin": "https://www.linkedin.com/in/gilbert-chris-a696151a9",
       "discord": "https://discord.com/channels/@me/957210257069850676",
@@ -1525,6 +1525,15 @@
       "github": "https://github.com/nateos",
       "linkedin": "https://www.linkedin.com/in/nathan-sodja",
       "email": "mailto:sodjanathan@gmail.com"
+    },
+    {
+      "name": "Morufat Lamidi",
+      "profession": "Frontend Developer",
+      "quote": "Life is full of choices, your choices determines how you navigate your life",
+      "twitter": "https://twitter.com/kamalehmk",
+      "github": "https://github.com/Ehmkayel",
+      "linkedin": "https://www.linkedin.com/in/morufat-lamidi/",
+      "email": "mailto:lamidimorufat0@gmail.com"
     }
   ]
 }
