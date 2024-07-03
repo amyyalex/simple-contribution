@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Rachel \"acha\" Okorie",
+      "profession": "Backend Engineer",
+      "quote": "\"Fear not, I am with you. Do not be dismayed, I am your God\"</br> - God",
+      "twitter": "https://https://x.com/rachel0korie",
+      "github": "https://github.com/acha-r",
+      "linkedin": "https://linkedin.com/in/rachel-okorie",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "God'swill Jonathan",
       "profession": "Android Developer </br> Chemical Engineer",
       "quote": "\"Que sera sera\"</br> - Unknown",
@@ -19,6 +28,14 @@
       "github": "https://github.com/Godzuche/",
       "linkedin": "https://www.linkedin.com/in/godxuche/",
       "email": "mailto:godxuche@gmail.com"
+    },
+    {
+      "name": "Gloria Ebubechukwu Okeke",
+      "profession": "Pharmacist, Frontend developer",
+      "quote": "\"Who you give the key to your life drives it. \"</br> - Said By Johnpaul Ezemma",
+      "github": "https://github.com/gloriaebubeokeke",
+      "linkedin": "https://www.linkedin.com/in/gloria-okeke-e-j/",
+      "email": "okekeebubechukwu1@gmail.com"
     },
     {
       "name": "Cheikh Babacar GOUDIABY",
@@ -112,6 +129,15 @@
       "github": "https://github.com/kpidiba",
       "linkedin": "https://www.linkedin.com/in/david-kpidiba-3071601a4/",
       "email": "kpidibadavid1@gmail.com"
+    },
+    {
+      "name": "Osama Rabea",
+      "profession": "Student at the Faculty of Electronic Engineering",
+      "quote": "\"When your goals are clear, you will come up with exactly the right answer at exactly the right time.\"</br> - Said By BrianTracy",
+      "twitter": "https://x.com/OsamaDkrory",
+      "github": "https://github.com/OsamaRab3",
+      "linkedin": "https://www.linkedin.com/in/osama-rabea-201b76255/",
+      "email": "mailto:osrab3@gmail.com"
     },
     {
       "name": "Abdulai Bah",
@@ -1176,10 +1202,19 @@
       "name": "Veríssimo Cassange",
       "profession": "Computer Engineering Student",
       "quote": "\"The best insurance for tomorrow is a job well done today.\"</br> - Dr. Jonas Savimbigit",
-      "instagram": "https://www.instagram.com/vec21_/",
+      "instagram": "https://www.instagram.com/am_derrick/",
       "github": "https://github.com/Vec21",
       "linkedin": "https://www.linkedin.com/in/vec21/",
       "email": "veccpro@gmail.com"
+    },
+    {
+      "name": "Derrick Ampire",
+      "profession": "Backend Developer",
+      "quote": "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\"</br> - Martin Fowler",
+      "instagram": "https://www.instagram.com/vec21_/",
+      "github": "https://github.com/am-derrick",
+      "linkedin": "https://www.linkedin.com/in/am-derrick/",
+      "email": "ampire90@gmail.com"
     },
     {
       "name": "Riccardi Dalexis",
@@ -1511,7 +1546,7 @@
       "name": "Gilbert Kamau",
       "profession": "Software Developer",
       "quote": "Iriizzzzz warrriiizzz\"</br> - Said By Me",
-      "twitter": "https://twitter.com/El_berto31"
+      "twitter": "https://twitter.com/El_berto31",
       "github": "https://github.com/GilbertKamau",
       "linkedin": "https://www.linkedin.com/in/gilbert-chris-a696151a9",
       "discord": "https://discord.com/channels/@me/957210257069850676",
@@ -1526,6 +1561,7 @@
       "linkedin": "https://www.linkedin.com/in/nathan-sodja",
       "email": "mailto:sodjanathan@gmail.com"
     },
+
     {
       "name": "Samuel Chigozie",
       "profession": "Software Developer </br> Chemical Engineer",
@@ -1534,6 +1570,15 @@
       "github": "https://github.com/Samuelchigozie",
       "linkedin": "https://www.linkedin.com/in/devsamuel",
       "email": "mailto:samdevsite@gmail.com"
+    },
+     {
+      "name": "Ana Chimuco",
+      "profession": "Full Stack Developer",
+      "quote": "\"Better things are coming.\"</br> - Said By Me",
+      "twitter": "https://x.com/anadauane",
+      "github": "https://github.com/anaritadauane",
+      "linkedin": "https://www.linkedin.com/in/ana-c-044043140/",
+      "email": "mailto:anarita.dauane@gmail.com"
     }
   ]
 }
