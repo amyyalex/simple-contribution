@@ -1563,6 +1563,18 @@
     },
 
     {
+      "name": "Chris Ayeh-Datey",
+      "profession": "Software Developer & QA Tester",
+      "quote": "\"I have nothing to offer but blood, sweat and tears\"</br> - Said By Winston Churchill",
+      "twitter": "https://twitter.com/chrisaydat",
+      "dribbble": "https://dribbble.com/chrisaydat",
+      "behance": "https://behance.com/chrisaydat",
+      "github": "https://github.com/chrisaydat",
+      "linkedin": "https://linkedin.com/in/chrisaydat",
+      "email": "mailto:chrisaydat@gmail.com"
+    },
+
+    {
       "name": "Morufat Lamidi",
       "profession": "Frontend Developer",
       "quote": "Life is full of choices, your choices determines how you navigate your life",
@@ -1589,7 +1601,6 @@
       "github": "https://github.com/anaritadauane",
       "linkedin": "https://www.linkedin.com/in/ana-c-044043140/",
       "email": "mailto:anarita.dauane@gmail.com"
-
     }
   ]
 }
