@@ -1563,6 +1563,16 @@
     },
 
     {
+      "name": "Morufat Lamidi",
+      "profession": "Frontend Developer",
+      "quote": "Life is full of choices, your choices determines how you navigate your life",
+      "twitter": "https://twitter.com/kamalehmk",
+      "github": "https://github.com/Ehmkayel",
+      "linkedin": "https://www.linkedin.com/in/morufat-lamidi/",
+      "email": "mailto:lamidimorufat0@gmail.com"
+    },
+
+    {
       "name": "Samuel Chigozie",
       "profession": "Software Developer </br> Chemical Engineer",
       "quote": "\"Build It.\"</br> - Samuel",
@@ -1579,6 +1589,7 @@
       "github": "https://github.com/anaritadauane",
       "linkedin": "https://www.linkedin.com/in/ana-c-044043140/",
       "email": "mailto:anarita.dauane@gmail.com"
+
     }
   ]
 }
