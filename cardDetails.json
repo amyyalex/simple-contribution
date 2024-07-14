@@ -1,15 +1,15 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
+      "name": "Cree McIver",
+      "profession": "Photographer and Software Dev Student",
+      "quote": "\"The only thing we have to fear is fear itself.\"</br> - Said By Franklin D. Roosevelt",
       "twitter": "https://twitter.com",
       "dribbble": "https://dribbble.com",
       "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "github": "https://github.com/CMcIver912",
+      "linkedin": "https://linkedin.com/in/cree-mciver-mba",
+      "email": "mailto:cree.mciver1@gmail.com"
     },
     {
       "name": "Khaula Nauman",
