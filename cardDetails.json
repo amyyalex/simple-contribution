@@ -12,6 +12,14 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Douglas Obara",
+      "profession": "Software Engineer",
+      "quote": "\"Programming isn’t about what you know; it’s about what you can figure out.\"</br> - Chris Pine",
+      "github": "https://github.com/Douglas254",
+      "linkedin": "https://www.linkedin.com/in/douglas-obara",
+      "email": "mailto:douglasobara97@gmail.com"
+    },
+    {
       "name": "Farouk Sedick",
       "profession": "Computer Engineering Student",
       "quote": "\"Your favourite quote\"</br> The more I know, the more I realize I know nothing - Anonymous",
@@ -146,7 +154,7 @@
       "quote": "Anything that is worth doing, is worth doing well.",
       "github": "https://github.com/idorenyin9010",
       "linkedin": "http://linkedin.com/in/idorenyin-mkpandiok-b989a322a",
-      "twitter":"https://x.com/@MkpandiokM",
+      "twitter": "https://x.com/@MkpandiokM",
       "email": "idorenyinmkpandiok@gmail.com"
     },
     {
@@ -1648,7 +1656,7 @@
       "linkedin": "https://www.linkedin.com/in/richardcallaby",
       "email": "mailto:richard@richardcallaby.com"
     },
-     {
+    {
       "name": "Ana Chimuco",
       "profession": "Full Stack Developer",
       "quote": "\"Better things are coming.\"</br> - Said By Me",
