@@ -20,6 +20,24 @@
       "email": "mailto:douglasobara97@gmail.com"
     },
     {
+      "name": "Farouk Sedick",
+      "profession": "Computer Engineering Student",
+      "quote": "\"Your favourite quote\"</br> The more I know, the more I realize I know nothing - Anonymous",
+      "twitter": "https://x.com/FarWrld_99",
+      "github": "https://github.com/sedfarouk",
+      "linkedin": "https://linkedin.com/in/farouk-sedick",
+      "email": "mailto:sadikalhanssah@gmail.com"
+    },
+    {
+      "name": "Ann Mukami",
+      "profession": "Frontend Developer || Open source contributor",
+      "quote": "\"Success is the sum of small efforts, repeated day in and day out.\"</br> - Robert Collier",
+      "twitter": "https://x.com/AnnKiungaa",
+      "github": "https://github.com/Kiunga1",
+      "linkedin": "https://www.linkedin.com/in/ann-mukami/",
+      "email": "mailto:amukami15@gmail.com"
+    },
+    {
       "name": "Khaula Nauman",
       "profession": "SWE Student",
       "quote": "\"Do not go gentle into that good night. Rage, rage against the dying of the light.\"</br> - Poem By Dylan Thomas",
@@ -1628,6 +1646,15 @@
       "github": "https://github.com/Samuelchigozie",
       "linkedin": "https://www.linkedin.com/in/devsamuel",
       "email": "mailto:samdevsite@gmail.com"
+    },
+    {
+      "name": "Richard Callaby",
+      "profession": "Security Researcher",
+      "quote": "\"If you spend more time on coffee than on IT Security, you will be hacked.\"</br> - Richard Clarke",
+      "youtube": "https://youtube.com/richardcallaby",
+      "github": "https://github.com/rcallaby",
+      "linkedin": "https://www.linkedin.com/in/richardcallaby",
+      "email": "mailto:richard@richardcallaby.com"
     },
     {
       "name": "Ana Chimuco",
