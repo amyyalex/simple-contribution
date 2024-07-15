@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Farouk Sedick",
+      "profession": "Computer Engineering Student",
+      "quote": "\"Your favourite quote\"</br> The more I know, the more I realize I know nothing - Anonymous",
+      "twitter": "https://x.com/FarWrld_99",
+      "github": "https://github.com/sedfarouk",
+      "linkedin": "https://linkedin.com/in/farouk-sedick",
+      "email": "mailto:sadikalhanssah@gmail.com"
+    },
+    {
       "name": "Ann Mukami",
       "profession": "Frontend Developer || Open source contributor",
       "quote": "\"Success is the sum of small efforts, repeated day in and day out.\"</br> - Robert Collier",
