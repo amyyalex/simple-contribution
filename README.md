@@ -1,30 +1,47 @@
-# simple-contribution
+# Simple Contribution
 
-# [Contribute To This Project](https://amyyalex.github.io/simple-contribution/)
+Welcome to Simple Contribution! This project aims to make open source contributions easy and accessible for everyone, whether you're new to development or looking to expand your GitHub skills.
 
-**Click on the [link](https://amyyalex.github.io/simple-contribution/) to see the live site!**
+## Getting Started
 
-## Introduction
+Visit our [live site](https://amyyalex.github.io/simple-contribution/) to see the project in action!
 
-Hey there! Welcome to the Simple Contribution repo. This is a very simple web project to help first-time contributors easily participate and contribute to open source projects and also get more comfortable in using GitHub. Who knows - our "simple" contribution may become something amazing!
+### Who Can Contribute?
 
-### Who can contribute?
+This project is designed for both developers and non-developers who are interested in contributing to open source. Whether you're a beginner or have some experience, you're welcome to participate and make your mark.
 
-**This project is for both developers and non-developers.**
-Anyone can contribute to this project, developer or otherwise, as long as you want to contribute to an open source project.
-This is intended for complete beginners and also for those with a little more experience who want to make their first open source contribution and gain more experience.
+### How to Contribute
 
-### How and what do I contribute?
+#### Using GitHub GUI (Graphical User Interface)
 
-It's simple, open up the **cardDetails.json** file and add your details to it, you can easily copy any one of the JSON objects and customize it with your own information. To contribute, read the [Contribution guide](contribution.md) to get an explicit guide on the whole process of contributing starting from setting up Github to creating a pull request. If you're an advanced developer and you want to take it up a notch, read the [Advanced Contribution guide](advanced-contribution.md) to get started.
+If you prefer using GitHub's graphical interface:
 
-Once your pull request is merged, the changes will be live on [simple-contribution](https://amyyalex.github.io/simple-contribution/). If you appreciate this amazing project, kindly leave a ⭐ by clicking on the star button on the top right.
-Thank you!
+1. **Fork the Repository**: Click on the "Fork" button at the top right of the repository page. This creates a copy of the repository under your GitHub account.
+   
+2. **Clone Your Fork**: On your forked repository page, click on the "Code" button and then click on "Open with GitHub Desktop" or "Download ZIP" to clone the repository to your local machine.
 
-<h2>🤝 Contributors</h2>
+3. **Add Your Details**: Navigate to the **cardDetails.json** file in your cloned repository. Click on the file to open it, then click the pencil icon to edit. Follow the format of existing JSON objects and add your details.
 
-Thanks goes to these wonderful people:
+4. **Commit Your Changes**: After editing the file, scroll down to the "Commit changes" section. Enter a commit message that briefly describes the changes you made. Ensure the "Commit directly to the main branch" option is selected, then click the "Commit changes" button.
 
-<a href="https://github.com/amyyalex/simple-contribution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=amyyalex/simple-contribution" />
-</a>
+5. **Create a Pull Request (PR)**:
+   - Go back to your forked repository on GitHub.
+   - You should see a message that prompts you to "Compare & pull request". Click that button.
+   - Review the changes you made. If everything looks good, click "Create pull request".
+   - Add a title and description to your pull request explaining your changes, then click "Create pull request" again.
+
+6. **Wait for Review**: Once your PR is submitted, the project maintainers will review your changes. You might receive feedback or requests for revisions before your contribution is accepted.
+
+#### Using Command Line (Optional):
+If you prefer using Git from the command line interface (CLI), follow similar steps but use Git commands for cloning, adding files, committing changes, and pushing to your forked repository.
+
+### Additional Resources
+
+- [Contribution Guide](contribution.md): Detailed instructions on setting up GitHub, using Git commands, and creating pull requests.
+- [Advanced Contribution Guide](advanced-contribution.md): Tips for more experienced developers who want to make more substantial contributions.
+
+Once your pull request is approved and merged, your changes will be live on [Simple Contribution](https://amyyalex.github.io/simple-contribution/). Don't forget to show your support by starring the repository!
+
+## Contributors
+
+A big thank you to all our contributors! Check them out [here](https://github.com/amyyalex/simple-contribution/graphs/contributors).
