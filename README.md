@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Hey there! Welcome to the Simple Contribution repo. This is a very simple web project to help first-time contributors easily participate and contribute to open source projects and also get more comfortable in using GitHub. Who knows - our "simple" contribution may become something amazing!
+Hey there! :wave: Welcome to the Simple Contribution repo. This is a very simple web project to help first-time contributors easily participate and contribute to open source projects and also get more comfortable in using GitHub. Who knows - our "simple" contribution may become something amazing!
 
 ### Who can contribute?
 
