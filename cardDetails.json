@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Gabriel Luchita",
+      "profession": "Software Engineer",
+      "quote": "\"Programs must be written for people to read, and only incidentally for machines to execute.\"</br> - Said By Harold Abelson",
+      "twitter": "https://x.com/gabriel05dev",
+      "github": "https://github.com/gabriel-05-dev",
+      "linkedin": "https://linkedin.com/in/gabrielluchita",
+      "email": "mailto:g.luchita@protonmail.com"
+    },
+    {
       "name": "Stella N. Nwae",
       "profession": "Frontend Developer",
       "quote": "\"Give me six hours to chop down a tree and I will spend the first four sharpening the axe.\"</br> - Said By Abraham Lincoln",
