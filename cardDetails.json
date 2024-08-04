@@ -289,6 +289,12 @@
       "email": "mailto:susangithaiga26@gmail.com"
     },
     {
+      "name": "Stella Wanja",
+      "profession": "Full-Stack Developer",
+      "quote": "\"Who knows? Have patience. Go where you must go, and hope!\"<br /> - Gandalf",
+      "github": "https://github.com/StellaWanja"
+    },
+    {
       "name": "Eduarda Mendes",
       "profession": "Front-end Developer",
       "quote": "\"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.\"</br> - Ferris Buller",
@@ -1640,7 +1646,7 @@
     {
       "name": "Gilbert Kamau",
       "profession": "Software Developer",
-      "quote": "Iriizzzzz warrriiizzz\"</br> - Said By Me",
+      "quote": "\"Iriizzzzz warrriiizzz\"</br> - Said By Me",
       "twitter": "https://twitter.com/El_berto31",
       "github": "https://github.com/GilbertKamau",
       "linkedin": "https://www.linkedin.com/in/gilbert-chris-a696151a9",
