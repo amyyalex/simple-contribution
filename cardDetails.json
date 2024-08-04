@@ -12,6 +12,99 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+
+      "name": "Ahmed Edrees (edrovolt)",
+      "profession": "Full Stack Engineer",
+      "quote": "\"Do for this life as if you live forever, do for the afterlife as if you die tomorrow.\"</br> - Ali ibn Abi Talib",
+      "twitter": "https://x.com/EdroVolt",
+      "github": "https://github.com/EdroVolt",
+      "linkedin": "https://linkedin.com/in/edrovolt",
+      "email": "mailto:ahmededrees30@gmail.com"
+    },
+    {
+      "name": "Gabriel Luchita",
+      "profession": "Software Engineer",
+      "quote": "\"Programs must be written for people to read, and only incidentally for machines to execute.\"</br> - Harold Abelson",
+      "twitter": "https://x.com/gabriel05dev",
+      "github": "https://github.com/gabriel-05-dev",
+      "linkedin": "https://linkedin.com/in/gabrielluchita",
+      "email": "mailto:g.luchita@protonmail.com"
+    },
+    {
+      "name": "Farzan Ullah",
+      "profession": "Web Developer (Frontend & Backend)",
+      "quote": "\"Gaming is Where reality meets limitless imagination\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/Farzan-Ullah",
+      "linkedin": "https://linkedin.com/in/farzanofme",
+      "email": "mailto:farzanullah07@gmail.com"
+    },
+    {
+      "name": "Stella N. Nwae",
+      "profession": "Frontend Developer",
+      "quote": "\"Give me six hours to chop down a tree and I will spend the first four sharpening the axe.\"</br> - Said By Abraham Lincoln",
+      "twitter": "https://x.com/StellaNwae",
+      "dribbble": "https://dribbble.com/stellanic",
+      "behance": "https://www.behance.net/stellanwae",
+      "github": "https://github.com/Stellanwae",
+      "linkedin": "https://www.linkedin.com/in/stella-nicole-3b624814b/",
+      "email": "mailto:stellanwae@gmail.com"
+    },
+    {
+      "name": "Douglas Obara",
+      "profession": "Software Engineer",
+      "quote": "\"Programming isn’t about what you know; it’s about what you can figure out.\"</br> - Chris Pine",
+      "github": "https://github.com/Douglas254",
+      "linkedin": "https://www.linkedin.com/in/douglas-obara",
+      "email": "mailto:douglasobara97@gmail.com"
+    },
+    {
+      "name": "Farouk Sedick",
+      "profession": "Computer Engineering Student",
+      "quote": "\"Your favourite quote\"</br> The more I know, the more I realize I know nothing - Anonymous",
+      "twitter": "https://x.com/FarWrld_99",
+      "github": "https://github.com/sedfarouk",
+      "linkedin": "https://linkedin.com/in/farouk-sedick",
+      "email": "mailto:sadikalhanssah@gmail.com"
+    },
+    {
+      "name": "Ann Mukami",
+      "profession": "Frontend Developer || Open source contributor",
+      "quote": "\"Success is the sum of small efforts, repeated day in and day out.\"</br> - Robert Collier",
+      "twitter": "https://x.com/AnnKiungaa",
+      "github": "https://github.com/Kiunga1",
+      "linkedin": "https://www.linkedin.com/in/ann-mukami/",
+      "email": "mailto:amukami15@gmail.com"
+    },
+    {
+      "name": "Khaula Nauman",
+      "profession": "SWE Student",
+      "quote": "\"Do not go gentle into that good night. Rage, rage against the dying of the light.\"</br> - Poem By Dylan Thomas",
+      "twitter": "https://x.com/khaulahoots",
+      "github": "https://github.com/khaulanauman",
+      "linkedin": "https://www.linkedin.com/in/khaula-nauman/",
+      "email": "mailto:khaulanauman@gmail.com"
+    },
+    {
+      "name": "Gloria Johnson",
+      "profession": "Project Manager",
+      "quote": "\"You Got This\"</br> - Said By Me",
+      "github": "https://github.com/riahtgl",
+      "linkedin": "https://www.linkedin.com/in/gloria-johnson-b5aa27205/",
+      "email": "mailto:gloriahjohnson01@gmail.com"
+    },
+    {
+      "name": "Rachel \"acha\" Okorie",
+      "profession": "Backend Engineer",
+      "quote": "\"Fear not, I am with you. Do not be dismayed, I am your God\"</br> - God",
+      "twitter": "https://https://x.com/rachel0korie",
+      "github": "https://github.com/acha-r",
+      "linkedin": "https://linkedin.com/in/rachel-okorie",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "God'swill Jonathan",
       "profession": "Android Developer </br> Chemical Engineer",
       "quote": "\"Que sera sera\"</br> - Unknown",
@@ -19,6 +112,14 @@
       "github": "https://github.com/Godzuche/",
       "linkedin": "https://www.linkedin.com/in/godxuche/",
       "email": "mailto:godxuche@gmail.com"
+    },
+    {
+      "name": "Gloria Ebubechukwu Okeke",
+      "profession": "Pharmacist, Frontend developer",
+      "quote": "\"Who you give the key to your life drives it. \"</br> - Said By Johnpaul Ezemma",
+      "github": "https://github.com/gloriaebubeokeke",
+      "linkedin": "https://www.linkedin.com/in/gloria-okeke-e-j/",
+      "email": "okekeebubechukwu1@gmail.com"
     },
     {
       "name": "Cheikh Babacar GOUDIABY",
@@ -78,12 +179,23 @@
       "email": "dubemobiwon@gmail.com"
     },
     {
+      "name": "Paul Danso Asare",
+      "profession": "Software Engineer",
+      "quote": "A good name is better than great riches",
+      "twitter": "https://x.com/pauldanso12",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/colorwhite-git",
+      "linkedin": "https://www.linkedin.com/in/paul-danso-asare/",
+      "email": "pauldasare@gmail.com"
+    },
+    {
       "name": "Mkpandiok, Idorenyin Monday",
       "profession": "Civil Engineer",
       "quote": "Anything that is worth doing, is worth doing well.",
       "github": "https://github.com/idorenyin9010",
       "linkedin": "http://linkedin.com/in/idorenyin-mkpandiok-b989a322a",
-      "twitter":"https://x.com/@MkpandiokM",
+      "twitter": "https://x.com/@MkpandiokM",
       "email": "idorenyinmkpandiok@gmail.com"
     },
     {
@@ -112,6 +224,15 @@
       "github": "https://github.com/kpidiba",
       "linkedin": "https://www.linkedin.com/in/david-kpidiba-3071601a4/",
       "email": "kpidibadavid1@gmail.com"
+    },
+    {
+      "name": "Osama Rabea",
+      "profession": "Student at the Faculty of Electronic Engineering",
+      "quote": "\"When your goals are clear, you will come up with exactly the right answer at exactly the right time.\"</br> - Said By BrianTracy",
+      "twitter": "https://x.com/OsamaDkrory",
+      "github": "https://github.com/OsamaRab3",
+      "linkedin": "https://www.linkedin.com/in/osama-rabea-201b76255/",
+      "email": "mailto:osrab3@gmail.com"
     },
     {
       "name": "Abdulai Bah",
@@ -1182,10 +1303,19 @@
       "name": "Veríssimo Cassange",
       "profession": "Computer Engineering Student",
       "quote": "\"The best insurance for tomorrow is a job well done today.\"</br> - Dr. Jonas Savimbigit",
-      "instagram": "https://www.instagram.com/vec21_/",
+      "instagram": "https://www.instagram.com/am_derrick/",
       "github": "https://github.com/Vec21",
       "linkedin": "https://www.linkedin.com/in/vec21/",
       "email": "veccpro@gmail.com"
+    },
+    {
+      "name": "Derrick Ampire",
+      "profession": "Backend Developer",
+      "quote": "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\"</br> - Martin Fowler",
+      "instagram": "https://www.instagram.com/vec21_/",
+      "github": "https://github.com/am-derrick",
+      "linkedin": "https://www.linkedin.com/in/am-derrick/",
+      "email": "ampire90@gmail.com"
     },
     {
       "name": "Riccardi Dalexis",
@@ -1531,6 +1661,65 @@
       "github": "https://github.com/nateos",
       "linkedin": "https://www.linkedin.com/in/nathan-sodja",
       "email": "mailto:sodjanathan@gmail.com"
+    },
+
+    {
+      "name": "Chris Ayeh-Datey",
+      "profession": "Software Developer & QA Tester",
+      "quote": "\"I have nothing to offer but blood, sweat and tears\"</br> - Said By Winston Churchill",
+      "twitter": "https://twitter.com/chrisaydat",
+      "dribbble": "https://dribbble.com/chrisaydat",
+      "behance": "https://behance.com/chrisaydat",
+      "github": "https://github.com/chrisaydat",
+      "linkedin": "https://linkedin.com/in/chrisaydat",
+      "email": "mailto:chrisaydat@gmail.com"
+    },
+
+    {
+      "name": "Morufat Lamidi",
+      "profession": "Frontend Developer",
+      "quote": "Life is full of choices, your choices determines how you navigate your life",
+      "twitter": "https://twitter.com/kamalehmk",
+      "github": "https://github.com/Ehmkayel",
+      "linkedin": "https://www.linkedin.com/in/morufat-lamidi/",
+      "email": "mailto:lamidimorufat0@gmail.com"
+    },
+
+    {
+      "name": "Samuel Chigozie",
+      "profession": "Software Developer </br> Chemical Engineer",
+      "quote": "\"Build It.\"</br> - Samuel",
+      "twitter": "https://x.com/sammyknowledge",
+      "github": "https://github.com/Samuelchigozie",
+      "linkedin": "https://www.linkedin.com/in/devsamuel",
+      "email": "mailto:samdevsite@gmail.com"
+    },
+    {
+      "name": "Richard Callaby",
+      "profession": "Security Researcher",
+      "quote": "\"If you spend more time on coffee than on IT Security, you will be hacked.\"</br> - Richard Clarke",
+      "youtube": "https://youtube.com/richardcallaby",
+      "github": "https://github.com/rcallaby",
+      "linkedin": "https://www.linkedin.com/in/richardcallaby",
+      "email": "mailto:richard@richardcallaby.com"
+    },
+    {
+      "name": "Ana Chimuco",
+      "profession": "Full Stack Developer",
+      "quote": "\"Better things are coming.\"</br> - Said By Me",
+      "twitter": "https://x.com/anadauane",
+      "github": "https://github.com/anaritadauane",
+      "linkedin": "https://www.linkedin.com/in/ana-c-044043140/",
+      "email": "mailto:anarita.dauane@gmail.com"
+    },
+    {
+      "name": "Nada Feteiha",
+      "profession": "Android developer",
+      "quote": "if you can dream it, you can do it.",
+      "twitter": "https://x.com/NadaFeteiha",
+      "github": "https://github.com/NadaFeteiha",
+      "linkedin": "https://www.linkedin.com/in/nada-feteiha/",
+      "email": "mailto:nada.feteiha@gmail.com"
     }
   ]
 }
