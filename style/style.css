@@ -41,7 +41,7 @@ section {
 /*navbar section styling*/
 .navbar {
   width: 100%;
-  position: fixed;
+  position: absolute;
   top: 0;
   z-index: 6;
 }
@@ -64,7 +64,7 @@ section {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  text-decoration: underline;
+  text-decoration:none;
 }
 
 #navbar-link-list-container {
@@ -80,8 +80,49 @@ section {
   margin: 0px 12px;
 }
 
+@keyframes color-change {
+  0% {
+    color: rgb(10, 3, 50);
+  }
+  25% {
+    color: rgb(255, 0, 0);
+  }
+  50% {
+    color: rgb(0, 255, 0);
+  }
+  75% {
+    color: rgb(0, 0, 255);
+  }
+  100% {
+    color: rgb(255, 165, 0);
+  }
+}
+
 .navbar a {
   color: rgb(10, 3, 50);
+  position: relative;
+  transition: color 0.3s ease;
+}
+.navbar a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: rgb(10, 3, 50);
+  left: 0;
+  bottom: -5px;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+
+.navbar a:hover {
+  animation: color-change 1s infinite alternate;
+}
+
+.navbar a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
 }
 
 .navbar h3 {
@@ -98,6 +139,11 @@ section {
 #navbar-menu-icon-1 {
   width: 35px;
   display: none;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+#navbar-menu-icon-1:hover {
+  transform: rotate(90deg);
 }
 
 .navbar-mobile-icon {
@@ -133,6 +179,28 @@ section {
   color: rgb(10, 3, 50);
   background: #fff;
   transition: all 0.5s ease-in-out;
+}
+
+.navbar {
+  transition: background-color 0.2s;
+  /* Force Hardware Acceleration in WebKit */
+  transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.is-visible {
+  /* if the user changes the scrolling direction, we show the header */
+  transform: translate3d(0, 100%, 0);
+}
+
+.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+  top: -75px;
+  transition: transform 0.2s;
+  background-color: #fff;
+  opacity:98%;
 }
 
 /*Banner section styling*/
@@ -328,7 +396,8 @@ section {
 .search-section i {
   font-size: 30px;
 }
-/*card section styling*/
+
+/* Card section styling */
 .card {
   display: flex;
   justify-content: center;
@@ -339,12 +408,14 @@ section {
   text-align: center;
   margin: 50px 20px;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 25px;
   background-color: #fff;
   height: 400px;
+  transition: all 0.5s ease;
+  position: relative;
 }
 
-.cards{
+.cards {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -353,8 +424,8 @@ section {
   margin: 0 auto;
 }
 
-
 .card-details h1 {
+  font-family: "Space Mono", cursive;
   text-transform: capitalize;
 }
 
@@ -363,14 +434,45 @@ section {
 }
 
 .card-details p {
-  font-family: "Tangerine", cursive;
-  font-size: 25px;
+  font-family: "Space Mono", cursive;
+  font-size: 15px;
 }
 
-.card:hover{
-  background: rgba(10, 3, 50, 0.227);
+.card:hover {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  scale:1.05;
+  transition: 1s ease !important ;
+  background: linear-gradient(145deg, #f0f0f0, #ffffff);
 }
 
+.card::before, .card::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+  z-index: -10;
+}
+
+.card::before {
+  top: 0;
+  left: 0;
+  border-top-color: #975fff;
+  border-left-color: #975fff;
+}
+
+.card::after {
+  bottom: 0;
+  right: 0;
+  border-bottom-color: #c87cee;
+  border-right-color: #c87cee;
+}
+
+.card:hover::before, .card:hover::after {
+  width: 100%;
+  height: 100%;
+}
 
 .social-icon a {
   font-size: 1.5rem;
@@ -386,7 +488,7 @@ section {
 }
 
 .social-icon a:hover {
-  color: rgb(170, 166, 191);
+  color: rgb(255, 255, 255);
   background: rgb(10, 3, 50);
 }
 
@@ -396,6 +498,15 @@ section {
   display: inline-block;
   padding: 5px 10px;
   margin-top: 1.5rem;
+  background-color: rgba(10, 3, 50, 0.1);
+  color: rgb(10, 3, 50);
+  transition: all 300ms ease;
+  cursor: pointer;
+}
+
+.connect:hover {
+  background-color: rgb(10, 3, 50);
+  color: rgb(255, 255, 255);
 }
 
 .connect::before {
@@ -421,6 +532,7 @@ section {
   background: rgb(10, 3, 50);
   box-shadow: -5px -8px 0 rgb(10, 3, 50), -5px 8px 0 rgb(10, 3, 50);
 }
+
 /* pagination section style */
 .pagination {
   display: flex;
@@ -462,15 +574,17 @@ section {
 
 .contribute-container h1 {
   color: rgb(10, 3, 50);
-  font-family: "Corinthia", cursive;
+  font-family: "Space Mono", cursive;
   font-size: 40px;
 }
 
 .contribute-container p {
+  font-family: "Space Mono", cursive;
   margin-bottom: 2rem;
 }
 
 .contribute-container h1 i {
+  font-family: "Space Mono", cursive;
   color: rgb(10, 3, 50);
 }
 
