@@ -1,27 +1,30 @@
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener("DOMContentLoaded", () => {
   let scrollPos = 0;
-  const mainNav = document.getElementById('navbar');
+  const mainNav = document.getElementById("navbar");
   const headerHeight = mainNav.clientHeight;
-  window.addEventListener('scroll', function() {
-      const currentTop = document.body.getBoundingClientRect().top * -1;
-      if ( currentTop < scrollPos) {
-          // Scrolling Up
-          if (currentTop > 0 && mainNav.classList.contains('is-fixed')) {
-              mainNav.classList.add('is-visible');
-          } else {
-              console.log(123);
-              mainNav.classList.remove('is-visible', 'is-fixed');
-          }
+  window.addEventListener("scroll", function () {
+    const currentTop = document.body.getBoundingClientRect().top * -1;
+    if (currentTop < scrollPos) {
+      // Scrolling Up
+      if (currentTop > 0 && mainNav.classList.contains("is-fixed")) {
+        mainNav.classList.add("is-visible");
       } else {
-          // Scrolling Down
-          mainNav.classList.remove(['is-visible']);
-          if (currentTop > headerHeight && !mainNav.classList.contains('is-fixed')) {
-              mainNav.classList.add('is-fixed');
-          }
+        console.log(123);
+        mainNav.classList.remove("is-visible", "is-fixed");
       }
-      scrollPos = currentTop;
+    } else {
+      // Scrolling Down
+      mainNav.classList.remove(["is-visible"]);
+      if (
+        currentTop > headerHeight &&
+        !mainNav.classList.contains("is-fixed")
+      ) {
+        mainNav.classList.add("is-fixed");
+      }
+    }
+    scrollPos = currentTop;
   });
-})
+});
 
 // initialization of cardDetailsArray
 let cardDetailsArray;
@@ -36,13 +39,17 @@ function createCard(details) {
   cardClone.querySelector(".card-details p").innerHTML = details.quote;
 
   const socialIcons = cardClone.querySelector(".social-icon");
+  let lets_connect = cardClone.querySelector(".connect");
+  lets_connect.setAttribute("href", details["linkedin"]);
+  lets_connect.setAttribute("target", "_blank");
+  lets_connect.innerHTML = `<span style="display: flex; align-items: center; justify-content: center; width: 100%;">Let's Connect!<i class="uil uil-linkedin" style="font-size: 2rem; margin-left: 0.5rem;"></i></span>`;
 
   // Define the social media platforms and their corresponding icons
   //if you have any other in mind add it here and test it out for icons
   const socialMedia = [
     { key: "twitter", icon: "uil uil-twitter" },
     { key: "github", icon: "uil uil-github" },
-    { key: "linkedin", icon: "uil uil-linkedin" },
+    // { key: "linkedin", icon: "uil uil-linkedin" },
     { key: "dribbble", icon: "uil uil-dribbble" },
     { key: "behance", icon: "uil uil-behance" },
     { key: "email", icon: "uil uil-envelope" },
