@@ -12,6 +12,17 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "carlos saenz",
+      "profession": "Front-end Developer",
+      "quote": "\"love and dedication\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com",
+      "behance": "https://behance.com",
+      "github": "https://github.com/",
+      "linkedin": "www.linkedin.com/in/carloss-saenzz",
+      "email": "mailto:youremail@gmail.com"
+    },
+    {
       "name": "Naman Singh Rana",
       "profession": "Software Engineer || Beginner Open Source Contributor",
       "quote": "\"Rule no. 1 Do not touch it. If it works\"</br> - Said By Me",
