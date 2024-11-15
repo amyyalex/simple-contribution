@@ -49,7 +49,12 @@
         <script>
           function googleTranslateElementInit() {
             new google.translate.TranslateElement(
-              { pageLanguage: 'en' },
+              {
+                pageLanguage: 'en',  // Default language set to English
+                includedLanguages: 'en,es,fr,de,it,pt',  // Example list of languages to include
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                autoDisplay: false,  // Ensures it won't translate until user selects
+              },
               'google_translate_element'
             );
           }
