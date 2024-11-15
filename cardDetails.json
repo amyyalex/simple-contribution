@@ -12,6 +12,13 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "carlos saenz",
+      "profession": "Front-end Developer",
+      "quote": "\"love and dedication\"</br> - Said By Me",
+      "github": "https://github.com/carloss-saenzz",
+      "linkedin": "www.linkedin.com/in/carloss-saenzz",
+    };
+    {
       "name": "Anushanga Kaluarachchi",
       "profession": "Full Stack Developer",
       "quote": "\"Do an one thing at a time\"</br> - Said By Me",
