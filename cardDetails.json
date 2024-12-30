@@ -12,12 +12,20 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Iqra Azam",
+      "profession": "student and Part time developer",
+      "quote": "\"It's not about you it's all about your mindset\"</br> - Said By Me",
+      "twitter": "https://twitter.com",
+      "github": "https://github.com/IQRAZAM",
+      "linkedin": "https://linkedin.com"
+    },
+    {
       "name": "carlos saenz",
       "profession": "Front-end Developer",
       "quote": "\"love and dedication\"</br> - Said By Me",
       "github": "https://github.com/carloss-saenzz",
-      "linkedin": "www.linkedin.com/in/carloss-saenzz",
-    };
+      "linkedin": "www.linkedin.com/in/carloss-saenzz"
+    },
     {
       "name": "Anushanga Kaluarachchi",
       "profession": "Full Stack Developer",
