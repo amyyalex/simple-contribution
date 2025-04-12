@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flashy Banner</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #0f0f0f;
+    }
+
+    .banner {
+      background: linear-gradient(270deg, #1d4ed8, #9333ea, #ec4899, #10b981);
+      background-size: 800% 800%;
+      animation: gradientShift 10s ease infinite;
+      color: white;
+      padding: 100px 30px;
+      text-align: center;
+      position: relative;
+    }
+
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .banner h1 {
+      font-size: 3.5rem;
+      margin: 0;
+      text-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+      animation: glowText 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes glowText {
+      from { text-shadow: 0 0 10px rgba(255, 255, 255, 0.2); }
+      to { text-shadow: 0 0 20px rgba(255, 255, 255, 0.7); }
+    }
+
+    .banner p {
+      font-size: 1.3rem;
+      margin: 20px auto 40px;
+      max-width: 600px;
+      opacity: 0.95;
+    }
+
+    .banner .btn {
+      background: #fff;
+      color: #1d4ed8;
+      padding: 14px 30px;
+      font-size: 1.1rem;
+      border: none;
+      border-radius: 50px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 15px #fff;
+    }
+
+    .banner .btn:hover {
+      background: #f3f4f6;
+      color: #9333ea;
+      box-shadow: 0 0 20px #9333ea;
+    }
+
+    @media (max-width: 600px) {
+      .banner h1 {
+        font-size: 2rem;
+      }
+      .banner p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="banner">
+    <h1>🔥 Welcome to the Future 🔥</h1>
+    <p>Explore our contributor community, celebrate collaboration, and light up the open-source space with your skills.</p>
+    <a href="#contributors" class="btn">🌟 Meet the Team</a>
+  </section>
+
+</body>
+</html>
