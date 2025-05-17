@@ -16,7 +16,7 @@
       "profession": "Front-end Developer",
       "quote": "\"love and dedication\"</br> - Said By Me",
       "github": "https://github.com/carloss-saenzz",
-      "linkedin": "www.linkedin.com/in/carloss-saenzz",
+      "linkedin": "www.linkedin.com/in/carloss-saenzz"
     },
     {
       "name": "Anushanga Kaluarachchi",
@@ -1838,6 +1838,13 @@
       "quota" : "it doesn't matter when you start, but how you finish that matters!",
       "github" : "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
+    },
+    {
+      "name": "Soumyosish Pal",
+      "Profession" : "Currently a second year undergraduate in Btech CSE | Aspiring MERN stack Developer",
+      "quota" : "Everyday comes after darkness to start with a fresh begining enlighting the day with more hardwork and discipline",
+      "github" : "https://github.com/Soumyosish",
+      "linkedin": "https://www.linkedin.com/in/soumyosishpal/"
     }
   ]
 }
