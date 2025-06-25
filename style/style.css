@@ -163,6 +163,109 @@ section {
   display: none;
 }
 
+#google_translate_element {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+/* Google Translate Custom Styling */
+#google_translate_element .goog-te-gadget {
+  font-family: "Poppins", sans-serif !important;
+  font-size: 14px !important;
+}
+
+#google_translate_element .goog-te-gadget .goog-te-combo {
+  background: #f8f9fa;
+  border: 1px solid #e0e6ed;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+#google_translate_element .goog-te-gadget .goog-te-combo:hover {
+  border-color: #007bff;
+}
+
+#google_translate_element .goog-te-gadget .goog-te-combo:focus {
+  border-color: #007bff;
+}
+
+#google_translate_element .goog-te-banner-frame {
+  display: none !important;
+}
+
+#google_translate_element .goog-te-menu-value {
+  color: #333 !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+#google_translate_element .goog-te-menu-value span:first-child {
+  color: #333 !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+#google_translate_element .goog-te-menu-value span:last-child {
+  color: #666 !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+/* Google Translate dropdown menu styling */
+#google_translate_element .goog-te-menu-frame {
+  font-family: "Poppins", sans-serif !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element .goog-te-menu-frame * {
+  font-family: "Poppins", sans-serif !important;
+}
+
+#google_translate_element .goog-te-menu-frame .goog-te-menu2 {
+  font-family: "Poppins", sans-serif !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element .goog-te-menu-frame .goog-te-menu2-item {
+  font-family: "Poppins", sans-serif !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element .goog-te-menu-frame .goog-te-menu2-item div {
+  font-family: "Poppins", sans-serif !important;
+}
+
+/* Remove all shadows from Google Translate elements */
+#google_translate_element .goog-te-gadget,
+#google_translate_element .goog-te-gadget *,
+#google_translate_element .goog-te-combo,
+#google_translate_element .goog-te-menu-frame,
+#google_translate_element .goog-te-menu-frame *,
+#google_translate_element .goog-te-menu2,
+#google_translate_element .goog-te-menu2 * {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+}
+
+/* Apply font to all Google Translate dropdown elements */
+#google_translate_element .goog-te-gadget,
+#google_translate_element .goog-te-gadget *,
+#google_translate_element .goog-te-combo,
+#google_translate_element .goog-te-combo *,
+#google_translate_element .goog-te-menu-frame,
+#google_translate_element .goog-te-menu-frame *,
+#google_translate_element .goog-te-menu2,
+#google_translate_element .goog-te-menu2 *,
+#google_translate_element .goog-te-menu2-item,
+#google_translate_element .goog-te-menu2-item * {
+  font-family: "Poppins", sans-serif !important;
+}
+
 #github-icon {
   font-size: 2rem;
   cursor: pointer;
@@ -704,6 +807,7 @@ footer .lag {
     display: none;
     padding: 10px;
     border-top: 1px solid gray;
+    margin-left: 0;
   }
 
   #navbar-social-media-container {
@@ -759,4 +863,121 @@ footer .lag {
     align-items: center;
     justify-content: space-evenly;
   }
+}
+
+/* === DARK MODE === */
+.dark-mode {
+  background: #0a101f;
+  color: #e0e6ed;
+}
+.dark-mode .navbar,
+.dark-mode .navbar-innner-parent {
+  background: #000000;
+  border-bottom: 1px solid #000000;
+}
+.dark-mode .navbar-link-list {
+  background-color: #000000 !important;
+}
+.dark-mode #navbar-link-list-container > div {
+  border-top: none !important;
+}
+.dark-mode .navbar a {
+  color: #e0e6ed;
+}
+.dark-mode .navbar a::after {
+  background: #e0e6ed;
+}
+.dark-mode .navbar-mobile-icon {
+  background: #1a2236;
+  color: #e0e6ed;
+}
+.dark-mode #github-icon {
+  background: #1a2236;
+  color: #e0e6ed;
+}
+.dark-mode #github-icon:hover {
+  background: #e0e6ed;
+  color: #1a2236;
+}
+.dark-mode .banner {
+  background: linear-gradient(135deg, #1a2236 60%, #232b47 100%);
+  color: #e0e6ed;
+}
+.dark-mode .card {
+  background: #232b47;
+  color: #e0e6ed;
+  box-shadow: 1px 3px 14px rgba(0,0,0,0.5);
+  border: 1px solid #2c365a;
+}
+.dark-mode .card:hover {
+  background: linear-gradient(145deg, #232b47, #101624);
+  border-color: #3a4a7a;
+}
+.dark-mode .social-icon a {
+  background: #101624;
+  color: #e0e6ed;
+}
+.dark-mode .social-icon a:hover {
+  background: #e0e6ed;
+  color: #232b47;
+}
+.dark-mode .connect {
+  background: #232b47;
+  color: #e0e6ed;
+  border-color: #e0e6ed;
+}
+.dark-mode .connect:hover {
+  background: #e0e6ed;
+  color: #232b47;
+}
+.dark-mode .contribute-container {
+  background: #232b47;
+  color: #e0e6ed;
+}
+.dark-mode .click-button1 {
+  background: #101624;
+  color: #e0e6ed;
+  border: 1px solid #3a4a7a;
+}
+.dark-mode .click-button1:hover {
+  background: #e0e6ed;
+  color: #232b47;
+}
+.dark-mode footer .copyright,
+.dark-mode footer .lag {
+  background: #1a2236;
+  color: #e0e6ed;
+}
+/* Google Translate button text color in dark mode */
+.dark-mode #google_translate_element *,
+.dark-mode #google_translate_element span,
+.dark-mode #google_translate_element a,
+.dark-mode #google_translate_element select {
+  color: #111 !important;
+}
+
+.dark-mode #google_translate_element .goog-te-gadget .goog-te-combo {
+  background: #232b47;
+  border: 1px solid #3a4a7a;
+  color: #e0e6ed;
+}
+
+.dark-mode #google_translate_element .goog-te-gadget .goog-te-combo:hover {
+  border-color: #e0e6ed;
+}
+
+.dark-mode #google_translate_element .goog-te-gadget .goog-te-combo:focus {
+  border-color: #e0e6ed;
+}
+
+.dark-mode #google_translate_element .goog-te-menu-value {
+  color: #e0e6ed !important;
+}
+
+.dark-mode #google_translate_element .goog-te-menu-value span:first-child {
+  color: #e0e6ed !important;
+}
+
+.dark-mode #google_translate_element .goog-te-menu-value span:last-child {
+  color: #b0b8c4 !important;
 }
