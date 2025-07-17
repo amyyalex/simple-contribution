@@ -364,37 +364,44 @@ section {
   text-transform: capitalize;
   margin-bottom: 0;
 }
+
 /*This is a form style for desktop*/
 .discription-title {
-  display: grid;
-  grid-template-columns: 70% 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.detail-title {
+  margin-bottom: 20px;
 }
 .search-section {
   display: flex;
-  flex-direction: column;
   justify-content: center;
+  width: 100%;
+  position: relative;
+  left: auto;
 }
-.search-section .search-form {
+.search-form {
   display: flex;
-  justify-content: center;
   align-items: center;
-  justify-content: space-around;
+  border: 1px solid black;
+  border-radius: 9px;
+  padding: 5px 10px;
   width: 330px;
-  border: solid 1px black;
-  border-radius: 9px;
+  background-color: #fff;
 }
-.search-section input {
-  font-family: "Poppins";
-  border-radius: 9px;
-  padding: 4px;
-  width: 250px;
-  height: 40px;
-}
-.search-section input:focus {
+.search-input {
+  border: none;
+  outline: none;
+  width: 90%;
+  padding: 8px;
+  font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
-.search-section i {
-  font-size: 30px;
+.search-form i {
+  font-size: 20px;
+  cursor: pointer;
 }
 
 /* Card section styling */
