@@ -1838,6 +1838,14 @@
       "quota" : "it doesn't matter when you start, but how you finish that matters!",
       "github" : "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
+    },
+    {
+      "name": "Sudhir Jadhav",
+      "profession": "Front End Developer",
+      "quote": "Keep learning",
+      "github": "https://github.com/sudhirjadhav18",
+      "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
+      "email": "mailto:sudhirjadhav@gmail.com"
     }
   ]
 }
