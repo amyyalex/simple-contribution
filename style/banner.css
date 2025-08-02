@@ -1,94 +1,105 @@
 .banner {
-  animation: animatecolor 8s linear infinite;
-}
-
-@keyframes animatecolor {
-  0% {
-    filter: hue-rotate(0deg);
-  }
-  100% {
-    filter: hue-rotate(360deg);
-  }
-}
-.banner .box {
-  display: flex;
-  height: 800px;
-  width: 1250px;
-  position: absolute;
-  margin-top: 20rem;
-  margin-left: 20rem;
-  opacity: 0.8;
-}
-
-.banner .box .infi {
-  position: relative;
-  height: 500px;
-  width: 500px;
-  margin: 0 -12.5px;
-}
-
-.banner .box .infi span {
-  position: absolute;
-  left: 0;
-  right: 0;
-  height: 100%;
   width: 100%;
-  transform: rotate(calc(18deg * var(--i)));
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0f8ff, #e6f7ff);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 1.5rem;
+  box-sizing: border-box;
+  text-align: center;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
-.banner .box .infi span::before {
-  content: "";
-  position: absolute;
-  right: 0;
-  top: calc(50% - 12.5px);
-  width: 25px;
-  height: 25px;
-  background-color: rgba(255, 255, 255);
-  border-radius: 50%;
-  box-shadow: 0 0 10px #15b5ff50, 0 0 20px #15b5ff50, 0 0 40px #15b5ff50,
-    0 0 60px #15b5ff50, 0 0 80px #15b5ff50, 0 0 100px #15b5ff50;
-  transform: scale(0.1);
-  animation: animate 4s infinite;
-  animation-delay: calc(0.1s * var(--i));
+.banner h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin: 1rem 0;
+  animation: slideUp 1s ease-out;
 }
 
-@keyframes animate {
-  0% {
-    transform: scale(1);
+.banner p {
+  font-size: 1.1rem;
+  color: #555;
+  max-width: 700px;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  animation: slideUp 1.2s ease-out;
+}
+
+.banner span {
+  font-weight: 600;
+  color: #0066cc;
+}
+
+.banner .button {
+  background-color: #0066cc;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.3s ease-in-out;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+.banner .button:hover {
+  background-color: #004d99;
+}
+
+/* Optional box styling (if used) */
+#boxContainer {
+  margin-bottom: 1rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
   }
-  50%,
-  100% {
-    transform: scale(0.1);
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
-.banner .box .infi:nth-child(2) {
-  transform: rotate(-180deg);
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-.banner .box .infi:nth-child(2) span::before {
-  animation-delay: calc(-0.1s * var(--i));
+/* Responsive styles */
+@media (max-width: 768px) {
+  .banner h1 {
+    font-size: 2rem;
+  }
+
+  .banner p {
+    font-size: 1rem;
+    padding: 0 1rem;
+  }
 }
 
-@media screen and (max-width: 760px) {
-  /* Add this inside your existing media query for smaller screens */
-  .banner .box {
-    width: 90%; /* Adjust the width of the box for smaller screens */
-
-    margin: 2rem auto;
-    margin-top: 20rem;
-    /* Center the box and add some vertical spacing */
+@media (max-width: 480px) {
+  .banner h1 {
+    font-size: 1.6rem;
   }
 
-  .box .infi {
-    height: 120px; /* Adjust the height of the infi for smaller screens */
-    width: 120px; /* Adjust the width of the infi for smaller screens */
-    margin: 0 -3px; /* Adjust margins for spacing between elements */
+  .banner p {
+    font-size: 0.95rem;
   }
 
-  .box .infi span::before {
-    top: calc(50% - 3px); /* Adjust the top position for smaller screens */
-    width: 6px; /* Adjust the width of the dots for smaller screens */
-    height: 6px; /* Adjust the height of the dots for smaller screens */
+  .banner .button {
+    font-size: 0.9rem;
+    padding: 0.6rem 1.2rem;
   }
 }
