@@ -9,12 +9,12 @@
       "behance": "https://behance.com",
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "email": "mailto:youremail@gmail.com",
     },
     {
       "name": "carlos saenz",
       "profession": "Front-end Developer",
-      "quote": "\"love and dedication\"</br> - Said By Me",
+      "quote": "\"love and dedication\"</br>/\n - Said By Me",
       "github": "https://github.com/carloss-saenzz",
       "linkedin": " www.linkedin.com/in/carloss-saenzz"
     },
@@ -24,7 +24,7 @@
       "quote": "\"Do an one thing at a time\"</br> - Said By Me",
       "github": "https://github.com/Anushanga2001",
       "linkedin": "https://www.linkedin.com/in/anushanga-kaluarachchi-30969825b/",
-      "email": "anushanga2001@gmailcom"
+      "email": "anushanga2001@gmailcom",
     },
     {
       "name": "Naman Singh Rana",
@@ -71,7 +71,7 @@
       "quote": "\"Early to bed, early to rise, makes a man young, wealthy and wise.\"</br> - Said by Benjamin Franklin",
       "twitter": "https://twitter.com/mo_chatr",
       "dribbble": "https://dribbble.com/cbag",
-      "behance": "https://behance.com",
+      "behance": "https://behance.com",,
       "github": "https://github.com/Mochatr",
       "linkedin": "https://www.linkedin.com/in/mochatr/",
       "email": "mailto:mohamedchatr8@gmail.com"
