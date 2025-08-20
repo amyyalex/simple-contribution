@@ -1,0 +1,44 @@
+name: Validate JSON on PR
+
+on:
+  pull_request:
+    paths:
+      - '**.json'   # Only run when JSON files change
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install JSON validator
+        run: npm install -g jsonlint
+
+      - name: Find and validate JSON files
+        id: validate
+        run: |
+          echo "Checking JSON files..."
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }} | grep '.json$' || true)
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No JSON files changed."
+            exit 0
+          fi
+
+          echo "$CHANGED_FILES" | while read file; do
+            echo "Validating $file ..."
+            jsonlint "$file" -q
+          done
+
+      - name: Comment on PR if validation fails
+        if: failure()
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          message: |
+            ❌ JSON validation failed!  
+            Please fix syntax errors or incorrect structure before merging.
