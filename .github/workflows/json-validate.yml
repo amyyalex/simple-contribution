@@ -3,7 +3,7 @@ name: Validate JSON on PR
 on:
   pull_request:
     paths:
-      - '**.json'   # Only run when JSON files change
+      - 'cardDetails.json'   # Sirf cardDetails.json ke liye
 
 jobs:
   validate-json:
@@ -24,7 +24,7 @@ jobs:
         id: validate
         run: |
           echo "Checking JSON files..."
-          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }} | grep '.json$' || true)
+          CHANGED_FILES=$(git diff --name-only ${{ github.sha }} ${{ github.event.pull_request.base.sha }} | grep '.json$' || true)
           if [ -z "$CHANGED_FILES" ]; then
             echo "No JSON files changed."
             exit 0
@@ -32,7 +32,7 @@ jobs:
 
           echo "$CHANGED_FILES" | while read file; do
             echo "Validating $file ..."
-            jsonlint "$file" -q
+            jsonlint "$file" -q || exit 1
           done
 
       - name: Comment on PR if validation fails
@@ -41,4 +41,4 @@ jobs:
         with:
           message: |
             ❌ JSON validation failed!  
-            Please fix syntax errors or incorrect structure before merging.
+            Please fix syntax errors in cardDetails.json before merging.
