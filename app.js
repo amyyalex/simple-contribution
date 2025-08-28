@@ -1,236 +1,70 @@
-window.addEventListener('DOMContentLoaded', () => {
-  let scrollPos = 0;
-  const mainNav = document.getElementById('navbar');
-  const headerHeight = mainNav.clientHeight;
-  window.addEventListener('scroll', function() {
-      const currentTop = document.body.getBoundingClientRect().top * -1;
-      if ( currentTop < scrollPos) {
-          // Scrolling Up
-          if (currentTop > 0 && mainNav.classList.contains('is-fixed')) {
-              mainNav.classList.add('is-visible');
-          } else {
-              mainNav.classList.remove('is-visible', 'is-fixed');
-          }
-      } else {
-          // Scrolling Down
-          mainNav.classList.remove(['is-visible']);
-          if (currentTop > headerHeight && !mainNav.classList.contains('is-fixed')) {
-              mainNav.classList.add('is-fixed');
-          }
-      }
-      scrollPos = currentTop;
-  });
-})
-
-// initialization of cardDetailsArray
-let cardDetailsArray;
-const cardsPerPage = 10;
-let noOfCards;
-function createCard(details) {
-  const cardTemplate = document.getElementById("contributor-card");
-  const cardClone = cardTemplate.content.cloneNode(true);
-
-  cardClone.querySelector(".card-details h1").textContent = details.name;
-  cardClone.querySelector(".card-details h5").textContent = details.profession;
-  cardClone.querySelector(".card-details p").innerHTML = details.quote;
-
-  const socialIcons = cardClone.querySelector(".social-icon");
-
-  // Define the social media platforms and their corresponding icons
-  //if you have any other in mind add it here and test it out for icons
-  const socialMedia = [
-    { key: "twitter", icon: "uil uil-twitter" },
-    { key: "github", icon: "uil uil-github" },
-    { key: "linkedin", icon: "uil uil-linkedin" },
-    { key: "dribbble", icon: "uil uil-dribbble" },
-    { key: "behance", icon: "uil uil-behance" },
-    { key: "email", icon: "uil uil-envelope" },
-    { key: "instagram", icon: "uil uil-instagram" },
-  ];
-
-  // Iterate through the social media platforms and add icons if links are provided
-  for (const platform of socialMedia) {
-    if (details[platform.key]) {
-      socialIcons.innerHTML += `<a href="${
-        details[platform.key]
-      }" target="_blank"><i class="${platform.icon}"></i></a>`;
-    }
-  }
-
-  return cardClone;
-}
-
-function removeCard() {
-  const cards = document.querySelectorAll(".card");
-  cards.forEach((element) => {
-    cardsContainer.removeChild(element);
-  });
-}
-function research() {
-  removeCard();
-
-  const searchValue = inputSearch.value.trim().toLowerCase();
-
-  if (searchValue.length <= 0) {
-    cardDetailsArray.forEach((details) => {
-      const card = createCard(details);
-      cardsContainer.appendChild(card);
-    });
-    inputSearch.value = "";
-  } else {
-    const resultArray = [...cardDetailsArray];
-    const noResultsParagraph = cardsContainer.querySelector(
-      ".no-results-message"
-    );
-
-    resultArray.sort((a, b) => a.name.localeCompare(b.name));
-
-    const filteredResults = resultArray.filter((details) =>
-      details.name.toLowerCase().startsWith(searchValue.toLowerCase())
-    );
-
-    if (filteredResults.length > 0) {
-      filteredResults.forEach((details) => {
-        const card = createCard(details);
-        cardsContainer.appendChild(card);
-      });
-
-      if (noResultsParagraph) {
-        cardsContainer.removeChild(noResultsParagraph);
-      }
-    } else {
-      if (!noResultsParagraph) {
-        const noResultsParagraph = document.createElement("p");
-        noResultsParagraph.className = "no-results-message";
-        noResultsParagraph.textContent = "Name Not Found.";
-        cardsContainer.appendChild(noResultsParagraph);
-      }
-    }
-  }
-}
+// Sample contributors data (replace/add your real data)
+const contributors = [
+  { name: "Harsh Kumar", role: "Frontend Dev", desc: "Loves React & JS", github: "https://github.com/harshkumar" },
+  { name: "Tushar Singh", role: "Backend Dev", desc: "Java & Spring", github: "https://github.com/tusharsingh" },
+  { name: "Amy Alex", role: "Designer", desc: "UI/UX Specialist", github: "https://github.com/amyyalex" },
+  { name: "John Doe", role: "Fullstack Dev", desc: "Node.js & React", github: "https://github.com/johndoe" },
+  { name: "Jane Smith", role: "Contributor", desc: "Open Source Enthusiast", github: "https://github.com/janesmith" },
+  // Add more contributors here
+];
 
 const cardsContainer = document.querySelector(".cards");
+const searchInput = document.getElementById("search");
 const paginationContainer = document.querySelector(".pagination");
-const inputSearch = document.getElementById("search");
 
-inputSearch.addEventListener("input", research);
+const contributorsPerPage = 3;
+let currentPage = 1;
+let filteredContributors = [...contributors];
 
-fetch("./cardDetails.json")
-  .then((response) => response.json())
-  .then((data) => {
-    cardDetailsArray = data.cardDetails;
-    noOfCards = cardDetailsArray.length;
-    let noOfPages = Math.ceil(noOfCards / cardsPerPage);
-    cardsContainer.style.display = "none";
-    displayPages(1);
-    for (let j = 1; j <= noOfPages; j++) {
-      const pageTemplate = document.getElementById("pages");
-      const pageClone = pageTemplate.content.cloneNode(true);
-      pageClone.querySelector(".page-details p").textContent = j;
-      pageClone
-        .querySelector(".page-details")
-        .addEventListener("click", function () {
-          cardsContainer.innerHTML = "";
-          displayPages(j);
-          setPageStyle(j);
-          window.scrollTo({ top: 560, behavior: "smooth" });
-        });
-      paginationContainer.appendChild(pageClone);
-    }
-  })
-  .catch((error) => {
-    console.error("Error fetching JSON:", error);
-    // Show error message to user
-    cardsContainer.innerHTML = '<p style="text-align: center; color: red;">Error loading cards. The contributor made a mistake in cardDetails.json</p>';
-    cardsContainer.style.display = "block";
-  });
-function displayPages(j) {
-  for (
-    let i = (j - 1) * cardsPerPage;
-    i < j * cardsPerPage && i < noOfCards;
-    i++
-  ) {
-    let details = cardDetailsArray[i];
-    const card = createCard(details);
-    cardsContainer.appendChild(card);
-  }
-  cardsContainer.style.display = "flex";
-}
-function setPageStyle(selectedPage) {
-  const allPages = document.querySelectorAll(".page-details p");
-  allPages.forEach((page, index) => {
-    const isSelected = index + 1 === selectedPage;
-
-    if (page && page.classList && page.style) {
-      if (isSelected) {
-        page.classList.add("selected-page");
-      } else {
-        page.classList.remove("selected-page");
-      }
-    }
+// Function to render contributor cards
+function renderCards(list) {
+  cardsContainer.innerHTML = "";
+  list.forEach(contributor => {
+    const template = document.getElementById("contributor-card").content.cloneNode(true);
+    template.querySelector("h1").textContent = contributor.name;
+    template.querySelector("h5").textContent = contributor.role;
+    template.querySelector("p").textContent = contributor.desc;
+    template.querySelector(".social-icon").innerHTML = `<a href="${contributor.github}" target="_blank"><i class="uil uil-github"></i></a>`;
+    template.querySelector(".connect a").href = contributor.github;
+    cardsContainer.appendChild(template);
   });
 }
 
-//
-//
-// Toggle mobile navbar menu
-const attatchMobileMenuToggleFunction = () => {
-  try {
-    const menuIcon = document.getElementById("navbar-menu-icon-1");
-    const linkListContainer = document.getElementById(
-      "navbar-link-list-container"
-    );
-    const navbar_social_media_container = document.getElementById(
-      "navbar-social-media-container"
-    );
-    const google_translate_element = document.getElementById(
-      "google_translate_element"
-    );
+// Function to render pagination
+function renderPagination(totalItems) {
+  const totalPages = Math.ceil(totalItems / contributorsPerPage);
+  paginationContainer.innerHTML = "";
 
-    // validate
-    if (menuIcon === null || menuIcon === undefined) {
-      console.log("Element with ID 'navbar-menu-icon-1' not found");
-      return;
-    }
-    if (linkListContainer === null || linkListContainer === undefined) {
-      console.log("Element with ID 'navbar-link-list-container' not found");
-      return;
-    }
-    if (
-      navbar_social_media_container === null ||
-      navbar_social_media_container === undefined
-    ) {
-      console.log("Element with ID 'navbar-social-media-container' not found");
-      return;
-    }
-    if (
-      google_translate_element === null ||
-      google_translate_element === undefined
-    ) {
-      console.log("Element with ID 'google_translate_element' not found");
-      return;
-    }
+  for (let i = 1; i <= totalPages; i++) {
+    const pageTemplate = document.getElementById("pages").content.cloneNode(true);
+    pageTemplate.querySelector("p").textContent = i;
+    const pageElement = pageTemplate.querySelector(".page-details");
+    if (i === currentPage) pageElement.classList.add("active-page");
 
-    // Attach a function to the click event of menuIcon
-    menuIcon.addEventListener("click", function () {
-      // Toggle the display property of linkListContainer
-      if (linkListContainer.style.display === "flex") {
-        linkListContainer.style.display = "none";
-        google_translate_element.style.display = "none";
-        navbar_social_media_container.style.display = "none";
-        menuIcon.style.opacity = 1;
-      } else {
-        linkListContainer.style.display = "flex";
-        google_translate_element.style.display = "flex";
-        navbar_social_media_container.style.display = "flex";
-        menuIcon.style.opacity = 0.2;
-      }
+    pageElement.addEventListener("click", () => {
+      currentPage = i;
+      updateView();
     });
-  } catch (error) {
-    console.error(error);
-  }
-};
 
-document.addEventListener("DOMContentLoaded", function () {
-  attatchMobileMenuToggleFunction();
+    paginationContainer.appendChild(pageElement);
+  }
+}
+
+// Function to update view
+function updateView() {
+  const start = (currentPage - 1) * contributorsPerPage;
+  const end = start + contributorsPerPage;
+  renderCards(filteredContributors.slice(start, end));
+  renderPagination(filteredContributors.length);
+}
+
+// Search functionality
+searchInput.addEventListener("input", (e) => {
+  const query = e.target.value.toLowerCase();
+  filteredContributors = contributors.filter(c => c.name.toLowerCase().includes(query));
+  currentPage = 1;
+  updateView();
 });
+
+// Initial render
+updateView();
