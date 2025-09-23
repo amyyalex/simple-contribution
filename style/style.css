@@ -759,4 +759,18 @@ footer .lag {
     align-items: center;
     justify-content: space-evenly;
   }
+  #copyInvite {
+  margin-top: 10px;
+  padding: 8px 12px;
+  background: #5865F2; /* Discord blue */
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#copyInvite:hover {
+  background: #4752C4;
+}
+
 }
