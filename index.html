@@ -144,11 +144,17 @@
   </section>
 
   <footer id="footer">
-    <div class="copyright">Copyright &copy; Designed by Simple Contribution 2024</div>
+<div class="copyright">
+  Copyright &copy; <span id="year"></span> Designed by Simple Contribution
+</div>
   </footer>
   <script src="./app.js"></script>
   <script src="./banner.js"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
   <script>
     AOS.init();
   </script>
