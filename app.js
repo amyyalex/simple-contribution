@@ -174,7 +174,7 @@ function setPageStyle(selectedPage) {
 //
 //
 // Toggle mobile navbar menu
-const attatchMobileMenuToggleFunction = () => {
+const attachMobileMenuToggleFunction = () => {
   try {
     const menuIcon = document.getElementById("navbar-menu-icon-1");
     const linkListContainer = document.getElementById(
@@ -232,5 +232,5 @@ const attatchMobileMenuToggleFunction = () => {
 };
 
 document.addEventListener("DOMContentLoaded", function () {
-  attatchMobileMenuToggleFunction();
+  attachMobileMenuToggleFunction();
 });
