@@ -24,7 +24,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 // initialization of cardDetailsArray
 let cardDetailsArray;
-const cardsPerPage = 10;
+const cardsPerPage = 6; // Show exactly 6 cards per page
 let noOfCards;
 function createCard(details) {
   const cardTemplate = document.getElementById("contributor-card");
@@ -154,7 +154,9 @@ function displayPages(j) {
     const card = createCard(details);
     cardsContainer.appendChild(card);
   }
-  cardsContainer.style.display = "flex";
+  cardsContainer.style.display = "grid";
+  // Initialize AOS for new cards
+  AOS.refresh();
 }
 function setPageStyle(selectedPage) {
   const allPages = document.querySelectorAll(".page-details p");
