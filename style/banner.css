@@ -1,5 +1,9 @@
 .banner {
   animation: animatecolor 8s linear infinite;
+  background:
+    radial-gradient(1200px 500px at 10% 10%, rgba(151,95,255,0.25), transparent 60%),
+    radial-gradient(1000px 500px at 90% 20%, rgba(200,124,238,0.22), transparent 60%),
+    linear-gradient(180deg, rgba(10,3,50,1) 0%, rgba(10,3,50,0.92) 60%, rgba(10,3,50,1) 100%);
 }
 
 @keyframes animatecolor {
@@ -74,7 +78,6 @@
   /* Add this inside your existing media query for smaller screens */
   .banner .box {
     width: 90%; /* Adjust the width of the box for smaller screens */
-
     margin: 2rem auto;
     margin-top: 20rem;
     /* Center the box and add some vertical spacing */

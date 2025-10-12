@@ -20,22 +20,22 @@
 </head>
 
 <body>
-  <nav class="navbar" id="navbar">
-    <div class="navbar-innner-parent">
+  <nav class="navbar" id="navbar" role="navigation" aria-label="Main">
+    <div class="navbar-innner-parent container">
       <img src="./image/design-files/logo/simple-contribution.svg" class="navbar-logo-1"
         alt="Simple Contribution Logo" />
       <img src="./image/design-files/logo/icon-menu.svg" id="navbar-menu-icon-1" alt="MENU Icone" />
-      <div class="navbar-link-list">
+      <div class="navbar-link-list" role="menubar" aria-label="Primary links">
         <div id="navbar-link-list-container">
           <div>
-            <a href="#discription-title-id"><i class="uil-users-alt navbar-mobile-icon"></i> Meet Our Contributors</a>
+            <a href="#discription-title-id" role="menuitem"><i class="uil-users-alt navbar-mobile-icon" aria-hidden="true"></i> Meet Our Contributors</a>
           </div>
           <div>
             <a href="https://github.com/amyyalex/simple-contribution?tab=readme-ov-file#simple-contribution"
-              target="_blank"><i class="uil-question-circle navbar-mobile-icon"></i> About Our Community</a>
+              target="_blank" role="menuitem" rel="noopener"><i class="uil-question-circle navbar-mobile-icon" aria-hidden="true"></i> About Our Community</a>
           </div>
           <div>
-            <a href="https://discord.gg/JhCdztuAcm" target="_blank"><i class="uil-user-plus navbar-mobile-icon"></i>
+            <a href="https://discord.gg/JhCdztuAcm" target="_blank" role="menuitem" rel="noopener"><i class="uil-user-plus navbar-mobile-icon" aria-hidden="true"></i>
               Join Our Community</a>
           </div>
         </div>
@@ -44,7 +44,7 @@
           <a href="https://github.com/amyyalex/simple-contribution" target="_self"><i class="uil uil-github"
               id="github-icon"></i></a>
         </div>
-        <div class="navbar-space-evenly-on-mobile" id="google_translate_element"></div>
+  <div class="navbar-space-evenly-on-mobile" id="google_translate_element" aria-label="Translate"></div>
         <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         <script>
           function googleTranslateElementInit() {
@@ -65,14 +65,16 @@
   <section>
     <div class="banner">
       <div class="box" id="boxContainer"></div>
-      <h1>HI CONTRIBUTORS!</h1>
-      <p>
-        This is a simple project that will not only help you contribute to your first open source
-        project, but will also guide you through the entire process,<span>so whether this is your first time
-          contributing or you're looking for a project to
-          contribute to, this project is for you!</span>
-      </p>
-      <a href="https://discord.gg/JhCdztuAcm" target="_blank" class="button">
+      <div class="banner-content">
+        <h1>HI CONTRIBUTORS!</h1>
+        <p>
+          This is a simple project that will not only help you contribute to your first open source
+          project, but will also guide you through the entire process,<span>so whether this is your first time
+            contributing or you're looking for a project to
+            contribute to, this project is for you!</span>
+        </p>
+      </div>
+      <a href="https://discord.gg/JhCdztuAcm" target="_blank" class="button" rel="noopener" aria-label="Join our Discord community">
         <span class="button_lg">
           <span class="button_sl"></span>
           <span>😄 </span>
@@ -81,7 +83,7 @@
       </a>
     </div>
   </section>
-  <section class="home-content">
+  <section class="home-content container">
     <div class="discription-title" id="discription-title-id">
       <div class="detail-title">
         <h2>Add your Contribution!</h2>
@@ -91,9 +93,10 @@
         </p>
       </div>
       <div class="search-section">
-        <div class="search-form">
-          <input type="text" placeholder="Insert a name" name="search" id="search" class="search-input" />
-          <i class="uil uil-search-alt"></i>
+        <div class="search-form" role="search">
+          <label for="search" class="visually-hidden">Search contributors by name</label>
+          <input type="text" placeholder="Insert a name" name="search" id="search" class="search-input" autocomplete="off" />
+          <i class="uil uil-search-alt" aria-hidden="true"></i>
         </div>
       </div>
     </div>
@@ -112,7 +115,7 @@
       </div>
     </template>
     <!-- END OF TEMPLATE-->
-    <div class="cards"></div>
+  <div class="cards" role="list"></div>
     <!-- Template for pagination -->
     <template id="pages">
       <div class="page-details">
@@ -120,7 +123,7 @@
       </div>
     </template>
     <!-- END OF TEMPLATE -->
-    <div class="pagination"></div>
+    <div class="pagination" role="navigation" aria-label="Pagination"></div>
   </section>
 
   <section>
@@ -142,7 +145,7 @@
     </div>
   </section>
 
-  <footer id="footer">
+  <footer id="footer" role="contentinfo">
     <div class="copyright">Copyright &copy; Designed by Simple Contribution 2024</div>
   </footer>
   <script src="./app.js"></script>
