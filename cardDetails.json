@@ -574,6 +574,15 @@
       "email": "mailto:danyalejaz10@outlook.com"
     },
     {
+      "name": "Priyanshu Singh",
+      "profession": "Freelancer/Developer and Open Source Contributor",
+      "quote": "\"You will never get second chance to make a first impression\"</br> - Said By Me",
+      "twitter": "https://x.com/KotaMemori82141",
+      "github": "https://github.com/Priyanshu2004-Singh",
+      "linkedin": "https://www.linkedin.com/in/priyanshu-singh-a17807231/",
+      "email": "mailto:wizardoo9009950095@gmail.com"
+    },
+    {
       "name": "Cyril Baah",
       "profession": "DevOps Engineer",
       "quote": "\"It easy to lose what you've gain if you don't make efforts to hold it\"</br> - Unknown",
@@ -1834,18 +1843,18 @@
     },
     {
       "name": "Shiv Patle",
-      "Profession" : "MERN stack Developer | Full Stack Developer",
-      "quota" : "it doesn't matter when you start, but how you finish that matters!",
-      "github" : "https://github.com/Shiv-Patel-24",
+      "profession": "MERN stack Developer | Full Stack Developer",
+      "quote": "it doesn't matter when you start, but how you finish that matters!",
+      "github": "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
-    }
+    },
     {
-  "name": "Jeremiah Reuban",
-   "profession": "Full Stack Developer",
-    "quote": "if you can dream it, you can do it.",
-  "github": "https://github.com/REUBAN7104",
-   "email": "jeremiahruban7104@gmail.com"
-}
+      "name": "Jeremiah Reuban",
+      "profession": "Full Stack Developer",
+      "quote": "if you can dream it, you can do it.",
+      "github": "https://github.com/REUBAN7104",
+      "email": "jeremiahruban7104@gmail.com"
+    }
 
   ]
 }
