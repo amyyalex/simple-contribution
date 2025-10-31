@@ -1,15 +1,12 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Leonardo Castro",
+      "profession": "Student",
+      "quote": "\"Fortis Fortuna\"</br> - Said By Me",
+      "github": "https://github.com/leo-cas",
+      "linkedin": "https://linkedin.com/leonardo-castro"
+
     },
     {
       "name": "carlos saenz",
