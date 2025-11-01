@@ -2,6 +2,19 @@ window.addEventListener('DOMContentLoaded', () => {
   let scrollPos = 0;
   const mainNav = document.getElementById('navbar');
   const headerHeight = mainNav.clientHeight;
+
+  // --- New: create back-to-top button ---
+  const backToTop = document.createElement('button');
+  backToTop.id = 'back-to-top';
+  backToTop.textContent = '↑ Top';
+  backToTop.title = 'Back to top';
+  backToTop.style.cssText = 'position:fixed; right:12px; bottom:72px; z-index:9999; padding:8px 10px; border-radius:8px; border:none; background:rgba(0,0,0,0.6); color:#fff; cursor:pointer; display:none;';
+  backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  document.body.appendChild(backToTop);
+  // --- end new ---
+
   window.addEventListener('scroll', function() {
       const currentTop = document.body.getBoundingClientRect().top * -1;
       if ( currentTop < scrollPos) {
@@ -18,6 +31,13 @@ window.addEventListener('DOMContentLoaded', () => {
               mainNav.classList.add('is-fixed');
           }
       }
+      // show back-to-top when scrolled down enough
+      if (currentTop > 300) {
+        backToTop.style.display = 'block';
+      } else {
+        backToTop.style.display = 'none';
+      }
+
       scrollPos = currentTop;
   });
 })
@@ -36,40 +56,13 @@ function createCard(details) {
 
   const socialIcons = cardClone.querySelector(".social-icon");
 
-  // Normalize contact links (email / github / linkedin)
-  const normalized = { ...details };
-  if (normalized.email) {
-    // extract just the email address even if someone provided "mailto:" or typos like "mailto://"
-    const emailMatch = String(normalized.email).match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i);
-    if (emailMatch) {
-      normalized._cleanEmail = emailMatch[0];
-      normalized.email = `mailto:${emailMatch[0]}`;
-    } else {
-      // keep original as fallback
-      normalized._cleanEmail = String(normalized.email);
-      if (!String(normalized.email).startsWith("mailto:")) {
-        normalized.email = `mailto:${normalized._cleanEmail}`;
-      }
-    }
-  }
-  if (normalized.github && !/^https?:\/\//i.test(normalized.github)) {
-    normalized.github = normalized.github.startsWith("github.com")
-      ? `https://${normalized.github}`
-      : `https://${normalized.github}`;
-  }
-  if (normalized.linkedin && !/^https?:\/\//i.test(normalized.linkedin)) {
-    normalized.linkedin = normalized.linkedin.startsWith("linkedin.com")
-      ? `https://${normalized.linkedin}`
-      : `https://${normalized.linkedin}`;
-  }
-
   // Define the social media platforms and their corresponding icons
   //if you have any other in mind add it here and test it out for icons
   const socialMedia = [
     { key: "twitter", icon: "uil uil-twitter" },
     { key: "github", icon: "uil uil-github" },
     { key: "linkedin", icon: "uil uil-linkedin" },
-    { key: "dribble", icon: "uil uil-dribble" },
+    { key: "dribbble", icon: "uil uil-dribbble" },
     { key: "behance", icon: "uil uil-behance" },
     { key: "email", icon: "uil uil-envelope" },
     { key: "instagram", icon: "uil uil-instagram" },
@@ -77,49 +70,11 @@ function createCard(details) {
 
   // Iterate through the social media platforms and add icons if links are provided
   for (const platform of socialMedia) {
-    if (normalized[platform.key]) {
+    if (details[platform.key]) {
       socialIcons.innerHTML += `<a href="${
-        normalized[platform.key]
-      }" target="_blank" rel="noopener noreferrer"><i class="${platform.icon}"></i></a>`;
+        details[platform.key]
+      }" target="_blank"><i class="${platform.icon}"></i></a>`;
     }
-  }
-
-  // Add "copy email" button if an email exists (uses normalized._cleanEmail)
-  if (normalized._cleanEmail) {
-    const copyBtn = document.createElement("button");
-    copyBtn.type = "button";
-    copyBtn.className = "copy-email-btn";
-    copyBtn.title = "Copy email";
-    copyBtn.style = "margin-left:8px; background:transparent; border:none; cursor:pointer;";
-    copyBtn.innerHTML = `<i class="uil uil-copy"></i>`;
-
-    copyBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      const textToCopy = normalized._cleanEmail;
-      if (!navigator.clipboard) {
-        // fallback
-        const ta = document.createElement("textarea");
-        ta.value = textToCopy;
-        document.body.appendChild(ta);
-        ta.select();
-        try { document.execCommand("copy"); } catch {}
-        document.body.removeChild(ta);
-      } else {
-        navigator.clipboard.writeText(textToCopy).catch(() => {});
-      }
-
-      // transient feedback
-      const feedback = document.createElement("span");
-      feedback.textContent = "Copied!";
-      feedback.style = "margin-left:8px; color: #2b7a0b; font-weight:600;";
-      copyBtn.parentNode && copyBtn.parentNode.insertBefore(feedback, copyBtn.nextSibling);
-      setTimeout(() => {
-        feedback.remove();
-      }, 1500);
-    });
-
-    // attach copy button after social icons
-    socialIcons.appendChild(copyBtn);
   }
 
   return cardClone;
@@ -203,7 +158,7 @@ fetch("./cardDetails.json")
       paginationContainer.appendChild(pageClone);
     }
   })
-.catch((error) => {
+  .catch((error) => {
     console.error("Error fetching JSON:", error);
     // Show error message to user
     cardsContainer.innerHTML = '<p style="text-align: center; color: red;">Error loading cards. The contributor made a mistake in cardDetails.json</p>';
@@ -239,7 +194,7 @@ function setPageStyle(selectedPage) {
 //
 //
 // Toggle mobile navbar menu
-const attachMobileMenuToggleFunction = () => {
+const attatchMobileMenuToggleFunction = () => {
   try {
     const menuIcon = document.getElementById("navbar-menu-icon-1");
     const linkListContainer = document.getElementById(
