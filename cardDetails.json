@@ -10,6 +10,14 @@
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
+    }
+    ,{
+      "name": "Adem Tech",
+      "profession": "Front-end Developer",
+      "quote": "\"Pain + Reflection = Progress\"</br> - Ray Dalio",
+      "github": "https://github.com/Adem-07",
+      "linkedin": "www.linkedin.com/in/adem-gmati",
+      "email": "ademgmati03@gmail.com"
     },
     {
       "name": "carlos saenz",
