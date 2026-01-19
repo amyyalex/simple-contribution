@@ -1,3 +1,4 @@
+/* ================= BACKGROUND COLOR ANIMATION ================= */
 .banner {
   animation: animatecolor 8s linear infinite;
 }
@@ -10,85 +11,89 @@
     filter: hue-rotate(360deg);
   }
 }
+
+/* ================= ANIMATION CONTAINER ================= */
 .banner .box {
   display: flex;
-  height: 800px;
-  width: 1250px;
   position: absolute;
-  margin-top: 20rem;
-  margin-left: 20rem;
+  width: min(1250px, 90vw);
+  height: min(800px, 80vw);
+  margin: 16rem auto 0;
+  left: 50%;
+  transform: translateX(-50%);
+
+  /* restored visual strength */
   opacity: 0.8;
+
+  /* correct layering */
+  z-index: 1;
+  pointer-events: none;
 }
 
+/* ================= CIRCLES ================= */
 .banner .box .infi {
   position: relative;
-  height: 500px;
   width: 500px;
+  height: 500px;
   margin: 0 -12.5px;
 }
 
 .banner .box .infi span {
   position: absolute;
-  left: 0;
-  right: 0;
-  height: 100%;
   width: 100%;
+  height: 100%;
   transform: rotate(calc(18deg * var(--i)));
 }
 
 .banner .box .infi span::before {
   content: "";
   position: absolute;
-  right: 0;
   top: calc(50% - 12.5px);
+  right: 0;
   width: 25px;
   height: 25px;
-  background-color: rgba(255, 255, 255);
+  background-color: #ffffff;
   border-radius: 50%;
-  box-shadow: 0 0 10px #15b5ff50, 0 0 20px #15b5ff50, 0 0 40px #15b5ff50,
-    0 0 60px #15b5ff50, 0 0 80px #15b5ff50, 0 0 100px #15b5ff50;
-  transform: scale(0.1);
+
+  /* glow restored */
+  box-shadow:
+    0 0 10px #15ff9c50,
+    0 0 20px #15ff9c40,
+    0 0 40px #15ff9c30;
+
   animation: animate 4s infinite;
-  animation-delay: calc(0.1s * var(--i));
 }
 
 @keyframes animate {
   0% {
     transform: scale(1);
   }
-  50%,
   100% {
     transform: scale(0.1);
   }
 }
 
-.banner .box .infi:nth-child(2) {
-  transform: rotate(-180deg);
-}
-
-.banner .box .infi:nth-child(2) span::before {
-  animation-delay: calc(-0.1s * var(--i));
-}
-
-@media screen and (max-width: 760px) {
-  /* Add this inside your existing media query for smaller screens */
+/* ================= RESPONSIVE ================= */
+@media (max-width: 760px) {
   .banner .box {
-    width: 90%; /* Adjust the width of the box for smaller screens */
-
-    margin: 2rem auto;
-    margin-top: 20rem;
-    /* Center the box and add some vertical spacing */
+    width: 90%;
+    margin-top: 14rem;
   }
 
   .box .infi {
-    height: 120px; /* Adjust the height of the infi for smaller screens */
-    width: 120px; /* Adjust the width of the infi for smaller screens */
-    margin: 0 -3px; /* Adjust margins for spacing between elements */
+    width: 120px;
+    height: 120px;
   }
 
   .box .infi span::before {
-    top: calc(50% - 3px); /* Adjust the top position for smaller screens */
-    width: 6px; /* Adjust the width of the dots for smaller screens */
-    height: 6px; /* Adjust the height of the dots for smaller screens */
+    width: 6px;
+    height: 6px;
+  }
+}
+
+/* ================= REDUCED MOTION ================= */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
   }
 }
