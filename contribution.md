@@ -19,6 +19,20 @@ There are different ways to clone a repo; through GitHub Desktop, git bash (git 
 
 ## Let the contribution begin!
 
+### Code of Conduct
+
+This project is committed to providing a welcoming and inclusive environment for everyone, regardless of experience level, background, or identity.
+
+All contributors are expected to:
+- Be respectful and considerate in language and actions
+- Provide constructive feedback
+- Be patient and supportive of first-time contributors
+- Avoid any form of harassment, discrimination, or inappropriate behavior
+
+By participating in this project, you agree to uphold these standards and help create a positive experience for everyone involved.
+
+If you experience or witness unacceptable behavior, please report it to the project maintainer.
+
 **<span style="color:red;">Using GitHub Desktop.</span>**
 
 <h4>Step 1: Fork this repository</h4>
