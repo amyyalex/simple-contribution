@@ -14,8 +14,9 @@
     {
       "name": "Karan Dhiman",
       "profession": "Developer",
-      "quote": "\"Just do it\"</br> - Nike",
-      "github": "https://github.com/karandhiman12"
+      "quote": "\"Never give up\"</br> - Said By Me",
+      "github": "https://github.com/karandhiman12",
+      "email": "mailto:karandhiman09@outlook.com"
     },
     {
       "name": "carlos saenz",
@@ -1839,11 +1840,25 @@
       "email": "contacteasytec@gmail.com"
     },
     {
+      "name": "Harsh Singh",
+      "profession": "Student",
+      "quote" : "\"Talk is Cheap.Show me the code.\"<br>- Linus Torvalds",
+      "github": "https://github.com/harsh3100",
+      "linkedin": "https://www.linkedin.com/in/harsh-singh-31430635b/",
+      "email": "mailto: thisisharshsingh3@gmail.com"
       "name": "Shiv Patle",
       "Profession" : "MERN stack Developer | Full Stack Developer",
       "quota" : "it doesn't matter when you start, but how you finish that matters!",
       "github" : "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
+    },
+    {
+      "name": "Sudhir Jadhav",
+      "profession": "Front End Developer",
+      "quote": "Keep learning",
+      "github": "https://github.com/sudhirjadhav18",
+      "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
+      "email": "mailto:sudhirjadhav@gmail.com"
     }
   ]
 }
