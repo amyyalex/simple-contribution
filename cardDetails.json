@@ -12,11 +12,13 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
-      "name": "Karan Dhiman",
-      "profession": "Developer",
-      "quote": "\"Never give up\"</br> - Said By Me",
-      "github": "https://github.com/karandhiman12",
-      "email": "mailto:karandhiman09@outlook.com"
+      "name": "Yatharth Katta",
+      "profession": "Frontend Developer",
+      "quote": "\"A jack of all trades is a master of none, but oftentimes better than a master of one\"</br> - Said By Me",
+      "twitter": "https://x.com/KattaYatharth",
+      "github": "https://github.com/yats0x7",
+      "linkedin": "https://www.linkedin.com/in/yatharthkatta/",
+      "email": "kattayatharth@gmail.com"
     },
     {
       "name": "carlos saenz",
@@ -1846,11 +1848,20 @@
       "github": "https://github.com/harsh3100",
       "linkedin": "https://www.linkedin.com/in/harsh-singh-31430635b/",
       "email": "mailto: thisisharshsingh3@gmail.com"
+    },
+    {
       "name": "Shiv Patle",
       "Profession" : "MERN stack Developer | Full Stack Developer",
       "quota" : "it doesn't matter when you start, but how you finish that matters!",
       "github" : "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
+    },
+    {
+      "name": "Jeremiah Reuban",
+       "profession": "Full Stack Developer",
+       "quote": "if you can dream it, you can do it.",
+       "github": "https://github.com/REUBAN7104",
+       "email": "jeremiahruban7104@gmail.com"
     },
     {
       "name": "Sudhir Jadhav",
