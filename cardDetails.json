@@ -12,6 +12,15 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Yatharth Katta",
+      "profession": "Frontend Developer",
+      "quote": "\"A jack of all trades is a master of none, but oftentimes better than a master of one\"</br> - Said By Me",
+      "twitter": "https://x.com/KattaYatharth",
+      "github": "https://github.com/yats0x7",
+      "linkedin": "https://www.linkedin.com/in/yatharthkatta/",
+      "email": "kattayatharth@gmail.com"
+    },
+    {
       "name": "carlos saenz",
       "profession": "Front-end Developer",
       "quote": "\"love and dedication\"</br> - Said By Me",
@@ -1833,6 +1842,14 @@
       "email": "contacteasytec@gmail.com"
     },
     {
+      "name": "Harsh Singh",
+      "profession": "Student",
+      "quote" : "\"Talk is Cheap.Show me the code.\"<br>- Linus Torvalds",
+      "github": "https://github.com/harsh3100",
+      "linkedin": "https://www.linkedin.com/in/harsh-singh-31430635b/",
+      "email": "mailto: thisisharshsingh3@gmail.com"
+    },
+    {
       "name": "Shiv Patle",
       "Profession" : "MERN stack Developer | Full Stack Developer",
       "quota" : "it doesn't matter when you start, but how you finish that matters!",
@@ -1840,18 +1857,34 @@
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
     },
     {
-    "name": "Jeremiah Reuban",
-    "profession": "Full Stack Developer",
-    "quote": "if you can dream it, you can do it.",
-    "github": "https://github.com/REUBAN7104",
-    "email": "jeremiahruban7104@gmail.com"
+      "name": "Martha T Nambahu",
+      "profession": "Web Developer",
+      "quote": "Knowledge is Build.",
+      "github": "https://github.com/MarthaTN",
+      "email": "marthataukuheke@gmail.com"
     },
     {
-    "name": "Martha T Nambahu",
-    "profession": "Web Developer",
-    "quote": "Knowledge is Build.",
-    "github": "https://github.com/MarthaTN",
-    "email": "marthataukuheke@gmail.com"
+      "name": "Denis Pyatnitsa",
+      "profession": "Full-Stack Developer | Software Testing Specialist | Business Analyst",
+      "quote": "\"Those who vote decide nothing. Those who count the vote decide everything.\"</br> - Joseph Stalin",
+      "github": "https://github.com/denisfrd",
+      "linkedin": "https://linkedin.com/in/denis-pyatnitsa",
+      "email": "denis.pyatnitsa1@gmail.com"
+    },
+    {
+      "name": "Jeremiah Reuban",
+       "profession": "Full Stack Developer",
+       "quote": "if you can dream it, you can do it.",
+       "github": "https://github.com/REUBAN7104",
+       "email": "jeremiahruban7104@gmail.com"
+    },
+    {
+      "name": "Sudhir Jadhav",
+      "profession": "Front End Developer",
+      "quote": "Keep learning",
+      "github": "https://github.com/sudhirjadhav18",
+      "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
+      "email": "mailto:sudhirjadhav@gmail.com"
     }
   ]
 }
