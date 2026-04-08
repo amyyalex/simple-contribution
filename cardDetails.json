@@ -1910,12 +1910,23 @@
        "email": "jeremiahruban7104@gmail.com"
     },
     {
+    "name": "Satyam Sharma",
+    "profession": "BCA Student | Aspiring MERN Stack Developer",
+    "quote": "if you want to create something, Don't Overthink just do it!",
+    "github": "https://github.com/LapSatyam",
+    "linkedin": "www.linkedin.com/in/satyam-sharma-9a3165378",
+    "twitter":"https://x.com/Satyam_at_Home",
+    "instagram":"https://www.instagram.com/satyam.js2025/",
+    "email": "lapsatyam@gmail.com"
+    },
+    {
       "name": "Sudhir Jadhav",
       "profession": "Front End Developer",
       "quote": "Keep learning",
       "github": "https://github.com/sudhirjadhav18",
       "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
       "email": "mailto:sudhirjadhav@gmail.com"
+
     }
   ]
 }
