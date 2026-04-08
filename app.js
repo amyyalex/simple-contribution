@@ -2,6 +2,19 @@ window.addEventListener('DOMContentLoaded', () => {
   let scrollPos = 0;
   const mainNav = document.getElementById('navbar');
   const headerHeight = mainNav.clientHeight;
+
+  // --- New: create back-to-top button ---
+  const backToTop = document.createElement('button');
+  backToTop.id = 'back-to-top';
+  backToTop.textContent = '↑ Top';
+  backToTop.title = 'Back to top';
+  backToTop.style.cssText = 'position:fixed; right:12px; bottom:72px; z-index:9999; padding:8px 10px; border-radius:8px; border:none; background:rgba(0,0,0,0.6); color:#fff; cursor:pointer; display:none;';
+  backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  document.body.appendChild(backToTop);
+  // --- end new ---
+
   window.addEventListener('scroll', function() {
       const currentTop = document.body.getBoundingClientRect().top * -1;
       if ( currentTop < scrollPos) {
@@ -18,6 +31,13 @@ window.addEventListener('DOMContentLoaded', () => {
               mainNav.classList.add('is-fixed');
           }
       }
+      // show back-to-top when scrolled down enough
+      if (currentTop > 300) {
+        backToTop.style.display = 'block';
+      } else {
+        backToTop.style.display = 'none';
+      }
+
       scrollPos = currentTop;
   });
 })
@@ -232,7 +252,7 @@ const attatchMobileMenuToggleFunction = () => {
 };
 
 document.addEventListener("DOMContentLoaded", function () {
-  attatchMobileMenuToggleFunction();
+  attachMobileMenuToggleFunction();
 });
  document.getElementById("year").innerText = new Date().getFullYear();
 
