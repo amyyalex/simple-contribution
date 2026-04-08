@@ -1840,11 +1840,12 @@
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
     },
     {
-    "name": "Jeremiah Reuban",
-    "profession": "Full Stack Developer",
-    "quote": "if you can dream it, you can do it.",
-    "github": "https://github.com/REUBAN7104",
-    "email": "jeremiahruban7104@gmail.com"
+      "name": "Sudhir Jadhav",
+      "profession": "Front End Developer",
+      "quote": "Keep learning",
+      "github": "https://github.com/sudhirjadhav18",
+      "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
+      "email": "mailto:sudhirjadhav@gmail.com"
     }
   ]
 }
