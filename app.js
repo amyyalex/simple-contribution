@@ -234,3 +234,5 @@ const attatchMobileMenuToggleFunction = () => {
 document.addEventListener("DOMContentLoaded", function () {
   attatchMobileMenuToggleFunction();
 });
+ document.getElementById("year").innerText = new Date().getFullYear();
+
