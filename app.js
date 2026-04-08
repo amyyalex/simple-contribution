@@ -9,7 +9,6 @@ window.addEventListener('DOMContentLoaded', () => {
           if (currentTop > 0 && mainNav.classList.contains('is-fixed')) {
               mainNav.classList.add('is-visible');
           } else {
-              console.log(123);
               mainNav.classList.remove('is-visible', 'is-fixed');
           }
       } else {
@@ -139,7 +138,12 @@ fetch("./cardDetails.json")
       paginationContainer.appendChild(pageClone);
     }
   })
-  .catch((error) => console.error("Error fetching JSON:", error));
+  .catch((error) => {
+    console.error("Error fetching JSON:", error);
+    // Show error message to user
+    cardsContainer.innerHTML = '<p style="text-align: center; color: red;">Error loading cards. The contributor made a mistake in cardDetails.json</p>';
+    cardsContainer.style.display = "block";
+  });
 function displayPages(j) {
   for (
     let i = (j - 1) * cardsPerPage;
