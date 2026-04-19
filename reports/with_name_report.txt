@@ -1,0 +1,18 @@
+❌ Error in Entry 55 ('Meryem Ahmaine') → missing required field: quote
+❌ Error in Entry 56 ('Ch.Sai Pradyumna Goud') → missing required field: quote
+❌ Error in Entry 57 ('Morris Bundi') → missing required field: quote
+❌ Error in Entry 58 ('Salma Hussien') → missing required field: quote
+❌ Error in Entry 59 ('zehor-l') → missing required field: quote
+❌ Error in Entry 89 ('Brian kyalo') → Duplicate entry (GitHub: https://github.com/kyalo3)
+❌ Error in Entry 99 ('Mblessing Muchafa CoderBlee') → Duplicate entry (GitHub: https://github.com/CoderBlee)
+❌ Error in Entry 103 ('Dhel Malith') → missing required field: quote
+❌ Error in Entry 104 ('Jim Hatley') → missing required field: quote
+❌ Error in Entry 125 (' Elísio Massaqui') → Duplicate entry (GitHub: https://github.com/elisioMassaqui)
+❌ Error in Entry 150 ('Aaron Muti') → missing required field: github
+❌ Error in Entry 176 ('Ahmed Bentabet') → missing required field: quote
+❌ Error in Entry 180 ('Ayush gupta') → missing required field: quote
+❌ Error in Entry 181 ('Gamila Programmer') → missing required field: quote
+❌ Error in Entry 196 ('Wairimu Maringa') → missing required field: quote
+❌ Error in Entry 196 ('Wairimu Maringa') → missing required field: github
+❌ Error in Entry 211 ('Shiv Patle') → missing required field: profession
+❌ Error in Entry 211 ('Shiv Patle') → missing required field: quote
