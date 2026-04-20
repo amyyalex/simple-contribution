@@ -1,17 +1,13 @@
 # Let's Setup!
-
 Before we start contributing, First things first let's do a quick Github setup!
 
 **First two things you'll want to do:**
-
 1. Install git. Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git (if it's not already installed).
-
 2. Create a free GitHub account or login to your GitHub account, If you already have one.
 
 There are different ways to clone a repo; through GitHub Desktop, git bash (git terminal), VS Code terminal, and for this project, you have to have either one of the listed in other to successfully clone and contribute to this project.
 
 1. Through GitHub Desktop, Download [GitHub Desktop app](https://desktop.github.com/).
-
 2. Comfortable using Git on the command line and want to use the git terminal to clone, and download [git bash](https://desktop.gitbash.com/).
 3. Alternatively If you use [VS Code](https://code.visualstudio.com/ "Visual Studio Code website") you can use the VS Code terminal to clone as well.
 
