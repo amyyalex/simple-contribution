@@ -18,8 +18,16 @@
     rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
+<script>
+const button = document.getElementById("darkModeToggle");
+
+button.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+});
+</script>
 
 <body>
+  <button id="darkModeToggle">🌙 Dark Mode</button>
   <nav class="navbar" id="navbar">
     <div class="navbar-innner-parent">
       <img src="./image/design-files/logo/simple-contribution.svg" class="navbar-logo-1"
