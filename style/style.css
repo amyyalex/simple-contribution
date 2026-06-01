@@ -159,6 +159,29 @@ section {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
 
+/* Navbar Button Styling */
+#navbar-link-list-container .nav-btn {
+  padding: 8px 18px;
+  border: 2px solid rgb(109, 106, 124);
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  background-color: transparent;
+}
+
+/* Remove underline animation for nav buttons */
+#navbar-link-list-container .nav-btn::after {
+  display: none;
+}
+
+/* Button Hover Effect */
+#navbar-link-list-container .nav-btn:hover {
+  background-color: #4b5563;   /* Medium Slate Grey */
+  color: #fff;
+  animation: none;
+}
+
+
 #navbar-social-media-container {
   display: none;
 }
