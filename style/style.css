@@ -778,3 +778,13 @@ button:hover {
   color: white;
   transition: 0.3s ease;
 }
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+#darkModeToggle {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
