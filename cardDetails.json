@@ -10,8 +10,8 @@
       "github": "https://github.com",
       "linkedin": "https://linkedin.com",
       "email": "mailto:youremail@gmail.com"
-    }
-    ,{
+    },
+    {
       "name": "Adem Tech",
       "profession": "Front-end Developer",
       "quote": "\"Pain + Reflection = Progress\"</br> - Ray Dalio",
@@ -1941,7 +1941,7 @@
       "profession": "Open Source Enthusiast",
       "quote": "\"Learning by doing is the best way to master GitHub.\"</br> - tadanobutubutu",
       "github": "https://github.com/tadanobutubutu"
-    }
+    },
     {
       "name": "Raparthi Abhinav",
       "profession": "Full Stack Developer",
