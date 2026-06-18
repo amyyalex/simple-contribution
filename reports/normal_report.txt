@@ -1,0 +1,18 @@
+❌ Entry 55 missing required field: quote
+❌ Entry 56 missing required field: quote
+❌ Entry 57 missing required field: quote
+❌ Entry 58 missing required field: quote
+❌ Entry 59 missing required field: quote
+❌ Duplicate entry found at index 89 → Name: 'Brian kyalo', GitHub: https://github.com/kyalo3
+❌ Duplicate entry found at index 99 → Name: 'Mblessing Muchafa CoderBlee', GitHub: https://github.com/CoderBlee
+❌ Entry 103 missing required field: quote
+❌ Entry 104 missing required field: quote
+❌ Duplicate entry found at index 125 → Name: ' Elísio Massaqui', GitHub: https://github.com/elisioMassaqui
+❌ Entry 150 missing required field: github
+❌ Entry 176 missing required field: quote
+❌ Entry 180 missing required field: quote
+❌ Entry 181 missing required field: quote
+❌ Entry 196 missing required field: quote
+❌ Entry 196 missing required field: github
+❌ Entry 211 missing required field: profession
+❌ Entry 211 missing required field: quote

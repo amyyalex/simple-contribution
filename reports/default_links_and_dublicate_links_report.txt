@@ -1,0 +1,30 @@
+⚠️ Warning in Entry 4 ('Naman Singh Rana') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 4 ('Naman Singh Rana') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 4 ('Naman Singh Rana') → Optional field 'behance' has default value. Please remove or update this field.
+🔴 Warning in Entry 5 ('Mayur Tekale') 🔴 Duplicate links found in optional fields.
+⚠️ Warning in Entry 8 ('Mohamed CHATR') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 12 ('Farzan Ullah') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 12 ('Farzan Ullah') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 12 ('Farzan Ullah') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 28 ('Dubem Obinwanne') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 28 ('Dubem Obinwanne') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 29 ('Paul Danso Asare') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 29 ('Paul Danso Asare') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 69 ('Adarsh Sahu') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 69 ('Adarsh Sahu') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 69 ('Adarsh Sahu') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 75 ('Eslam AbdElhakem') → Optional field 'linkedin' has default value. Please remove or update this field.
+⚠️ Warning in Entry 76 ('Julius L. Jones Jr.') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 76 ('Julius L. Jones Jr.') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 76 ('Julius L. Jones Jr.') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 77 ('FRANCK KASONGO') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 77 ('FRANCK KASONGO') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 77 ('FRANCK KASONGO') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 119 ('Wesley Perrang') → Optional field 'behance' has default value. Please remove or update this field.
+🔴 Warning in Entry 121 ('Ukpong O. Zion') 🔴 Duplicate links found in optional fields.
+⚠️ Warning in Entry 168 ('Kit-Kat31415926') → Optional field 'twitter' has default value. Please remove or update this field.
+⚠️ Warning in Entry 168 ('Kit-Kat31415926') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 168 ('Kit-Kat31415926') → Optional field 'behance' has default value. Please remove or update this field.
+⚠️ Warning in Entry 168 ('Kit-Kat31415926') → Optional field 'linkedin' has default value. Please remove or update this field.
+⚠️ Warning in Entry 180 ('Emmanuel Maunga') → Optional field 'dribbble' has default value. Please remove or update this field.
+⚠️ Warning in Entry 180 ('Emmanuel Maunga') → Optional field 'behance' has default value. Please remove or update this field.
