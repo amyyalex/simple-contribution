@@ -28,3 +28,6 @@ Thanks goes to these wonderful people:
 <a href="https://github.com/amyyalex/simple-contribution/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=amyyalex/simple-contribution" />
 </a>
+Edited by [Ramin]
+git add .
+git commit -m "Added my name to README"
