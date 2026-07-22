@@ -1,0 +1,37 @@
+/* Navbar buttons styling */
+.navbar-link-list a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  margin: 4px;
+  border-radius: 8px;
+  background-color: #4a55a2;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  border: 2px solid transparent;
+  transition: all 0.25s ease-in-out;
+}
+
+.navbar-link-list a:hover,
+.navbar-link-list a:focus-visible {
+  background-color: #ffffff;
+  color: #4a55a2;
+  border: 2px solid #39d113;
+  transform: translateY(-2px);
+  outline: none;
+}
+
+.navbar-link-list a:focus-visible {
+  box-shadow: 0 0 0 3px rgba(74, 85, 162, 0.35);
+}
+
+@media (max-width: 768px) {
+  .navbar-link-list a {
+    width: 100%;
+    justify-content: center;
+    padding: 10px 0;
+  }
+}
