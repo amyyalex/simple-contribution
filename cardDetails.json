@@ -12,6 +12,16 @@
       "email": "mailto:youremail@gmail.com"
     },
     {
+      "name": "Valerie Osuamkpe",
+      "profession": "AI Product Engineer",
+      "quote": "\"Choose to do hard things\"</br> - Said By abcdesignher",
+      "twitter": "https://twitter.com/valtasha_",
+      "behance": "https://behance.com/vatashvaltash",
+      "github": "https://github.com/abcdesignher",
+      "linkedin": "https://linkedin.com/in/odeam-valerie-osuamkpe-",
+      "email": "mailto:abcdesignher@gmail.com"
+    },
+    {
       "name": "Adem Tech",
       "profession": "Front-end Developer",
       "quote": "\"Pain + Reflection = Progress\"</br> - Ray Dalio",
@@ -116,7 +126,7 @@
       "linkedin": "https://www.linkedin.com/in/mochatr/",
       "email": "mailto:mohamedchatr8@gmail.com"
     },
-     {
+    {
       "name": "Umar Haruna Adbullahi",
       "profession": "Software Engineer",
       "quote": "\"/have Faith\"</br> - Said By Allah",
@@ -125,7 +135,6 @@
       "email": "mailto:umarbrowser20@gmail.com"
     },
     {
-
       "name": "Ahmed Edrees (edrovolt)",
       "profession": "Full Stack Engineer",
       "quote": "\"Do for this life as if you live forever, do for the afterlife as if you die tomorrow.\"</br> - Ali ibn Abi Talib",
@@ -1789,7 +1798,6 @@
       "linkedin": "https://www.linkedin.com/in/nathan-sodja",
       "email": "mailto:sodjanathan@gmail.com"
     },
-
     {
       "name": "Chris Ayeh-Datey",
       "profession": "Software Developer & QA Tester",
@@ -1801,7 +1809,6 @@
       "linkedin": "https://linkedin.com/in/chrisaydat",
       "email": "mailto:chrisaydat@gmail.com"
     },
-
     {
       "name": "Morufat Lamidi",
       "profession": "Frontend Developer",
@@ -1811,7 +1818,6 @@
       "linkedin": "https://www.linkedin.com/in/morufat-lamidi/",
       "email": "mailto:lamidimorufat0@gmail.com"
     },
-
     {
       "name": "Samuel Chigozie",
       "profession": "Software Developer </br> Chemical Engineer",
@@ -1875,27 +1881,26 @@
     {
       "name": "Harsh Singh",
       "profession": "Student",
-      "quote" : "\"Talk is Cheap.Show me the code.\"<br>- Linus Torvalds",
+      "quote": "\"Talk is Cheap.Show me the code.\"<br>- Linus Torvalds",
       "github": "https://github.com/harsh3100",
       "linkedin": "https://www.linkedin.com/in/harsh-singh-31430635b/",
       "email": "mailto: thisisharshsingh3@gmail.com"
     },
     {
       "name": "Shiv Patle",
-      "Profession" : "MERN stack Developer | Full Stack Developer",
-      "quota" : "it doesn't matter when you start, but how you finish that matters!",
-      "github" : "https://github.com/Shiv-Patel-24",
+      "Profession": "MERN stack Developer | Full Stack Developer",
+      "quota": "it doesn't matter when you start, but how you finish that matters!",
+      "github": "https://github.com/Shiv-Patel-24",
       "linkedin": "https://www.linkedin.com/in/shiv-patel-94b542223?"
     },
- 
     {
       "name": "Pranav Raychure",
       "profession": "Full Stack Java Developer",
       "quote": "Never Give Up",
       "github": "https://github.com/pranav-49",
       "email": "pranavraychure49@gmail.com"
-     },
-     {
+    },
+    {
       "name": "Martha T Nambahu",
       "profession": "Web Developer",
       "quote": "Knowledge is Build.",
@@ -1912,20 +1917,20 @@
     },
     {
       "name": "Jeremiah Reuban",
-       "profession": "Full Stack Developer",
-       "quote": "if you can dream it, you can do it.",
-       "github": "https://github.com/REUBAN7104",
-       "email": "jeremiahruban7104@gmail.com"
+      "profession": "Full Stack Developer",
+      "quote": "if you can dream it, you can do it.",
+      "github": "https://github.com/REUBAN7104",
+      "email": "jeremiahruban7104@gmail.com"
     },
     {
-    "name": "Satyam Sharma",
-    "profession": "BCA Student | Aspiring MERN Stack Developer",
-    "quote": "if you want to create something, Don't Overthink just do it!",
-    "github": "https://github.com/LapSatyam",
-    "linkedin": "www.linkedin.com/in/satyam-sharma-9a3165378",
-    "twitter":"https://x.com/Satyam_at_Home",
-    "instagram":"https://www.instagram.com/satyam.js2025/",
-    "email": "lapsatyam@gmail.com"
+      "name": "Satyam Sharma",
+      "profession": "BCA Student | Aspiring MERN Stack Developer",
+      "quote": "if you want to create something, Don't Overthink just do it!",
+      "github": "https://github.com/LapSatyam",
+      "linkedin": "www.linkedin.com/in/satyam-sharma-9a3165378",
+      "twitter": "https://x.com/Satyam_at_Home",
+      "instagram": "https://www.instagram.com/satyam.js2025/",
+      "email": "lapsatyam@gmail.com"
     },
     {
       "name": "Sudhir Jadhav",
@@ -1934,7 +1939,6 @@
       "github": "https://github.com/sudhirjadhav18",
       "linkedin": "https://www.linkedin.com/in/sudhir-jadhav-ui-dev",
       "email": "mailto:sudhirjadhav@gmail.com"
-
     },
     {
       "name": "tadanobutubutu",
