@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1,0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
   <title>Simple Contribution</title>
   <link href="./image/design-files/logo/sc-logo-favicon-lightmode.ico" rel="icon" type="image/x-icon"
@@ -11,40 +11,38 @@
     media="(prefers-color-scheme: dark)" />
   <link rel="stylesheet" href="style/style.css" />
   <link rel="stylesheet" href="style/banner.css" />
-  <link type="css" rel="stylesheet" href="css/navbar-btn.css" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css" />
   <script src="https://kit.fontawesome.com/a076d05399.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
-<script>
-const button = document.getElementById("darkModeToggle");
-
-button.addEventListener("click", () => {
-    document.body.classList.toggle("dark-mode");
-});
-</script>
-
 <body>
   <button id="darkModeToggle">🌙 Dark Mode</button>
+  <script>
+    const button = document.getElementById("darkModeToggle");
+
+    button.addEventListener("click", () => {
+      document.body.classList.toggle("dark-mode");
+    });
+  </script>
   <nav class="navbar" id="navbar">
-    <div class="navbar-innner-parent">
+    <div class="navbar-inner-parent">
       <img src="./image/design-files/logo/simple-contribution.svg" class="navbar-logo-1"
         alt="Simple Contribution Logo" />
       <img src="./image/design-files/logo/icon-menu.svg" id="navbar-menu-icon-1" alt="MENU Icone" />
       <div class="navbar-link-list">
         <div id="navbar-link-list-container">
           <div>
-            <a href="#discription-title-id"><i class="uil-users-alt navbar-mobile-icon"></i> Meet Our Contributors</a>
+            <a href="#discription-title-id" class="nav-button"><i class="uil-users-alt navbar-mobile-icon"></i> Meet Our Contributors</a>
           </div>
           <div>
             <a href="https://github.com/amyyalex/simple-contribution?tab=readme-ov-file#simple-contribution"
-              target="_blank"><i class="uil-question-circle navbar-mobile-icon"></i> About Our Community</a>
+              target="_blank" class="nav-button"><i class="uil-question-circle navbar-mobile-icon"></i> About Our Community</a>
           </div>
           <div>
             <a href="https://discord.gg/JhCdztuAcm" target="_blank"><i class="uil-user-plus navbar-mobile-icon"></i>
-              Join Our Community</a>
+              class="nav-button">Join Our Community</a>
           </div>
         </div>
 
