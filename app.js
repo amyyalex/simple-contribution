@@ -256,3 +256,16 @@ document.addEventListener("DOMContentLoaded", function () {
 });
  document.getElementById("year").innerText = new Date().getFullYear();
 
+// Dark mode toggle
+const darkModeToggle = document.getElementById("darkModeToggle");
+
+if (localStorage.getItem("theme") === "dark") {
+  document.body.classList.add("dark-mode");
+}
+
+darkModeToggle.addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+  const isDark = document.body.classList.contains("dark-mode");
+  localStorage.setItem("theme", isDark ? "dark" : "light");
+});
+
