@@ -788,3 +788,18 @@ button:hover {
     margin: 10px;
     cursor: pointer;
 }
+.nav-btn {
+  display: inline-block;
+  padding: 10px 16px;
+  background-color:purple;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.nav-btn:hover {
+  background-color: #45a049;
+  transform: translateY(-2px);
+}
